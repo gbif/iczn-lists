@@ -1,0 +1,56 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         xml:lang="en">
+
+<dataset>
+  <title xml:lang="en">Official Lists and Indexes of Names in Zoology</title>
+<creator>
+    <individualName>
+      <givenName>Rich</givenName>
+      <surName>Pyle</surName>
+    </individualName>
+    <organizationName>Bernice Pauahi Bishop Museum</organizationName>
+    <electronicMailAddress>deepreef@bishopmuseum.org</electronicMailAddress>
+</creator>
+
+<metadataProvider>
+    <individualName>
+      <givenName>Markus</givenName>
+      <surName>Döring</surName>
+    </individualName>
+    <organizationName>GBIF</organizationName>
+    <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+</metadataProvider>
+
+<pubDate>2007-10-01</pubDate>
+<language>en</language>
+<abstract>
+  <para>All scientific names listed in the Official Lists and Indexes of Names in Zoology from the International Commission on Zoological Nomenclature (ICZN).</para>
+</abstract>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://iczn.org/sites/iczn.org/files/Official_List_updated_December_2012.pdf</url>
+    </online>
+  </distribution>
+  
+  <contact>
+      <individualName>
+        <givenName>Markus</givenName>
+        <surName>Döring</surName>
+      </individualName>
+      <organizationName>GBIF</organizationName>
+      <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+  </contact>
+</dataset>
+
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2015-05-20</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

@@ -1,0 +1,1952 @@
+Number	IsAddendum	StartDate	EndDate	VolumePages	Pages	Journal	Type
+1	False	1954-04-21 00:00:00		3	401-415	Opinions and Declarations	Direction
+2	False	1954-05-21 00:00:00		2	613-628	Opinions and Declarations	Direction
+4	False	1954-10-01 00:00:00		2	629-652	Opinions and Declarations	Direction
+5	False	1954-10-01 00:00:00		2	653-664	Opinions and Declarations	Direction
+6	False	1954-12-02 00:00:00		2	665-684	Opinions and Declarations	Direction
+11	False	1955-05-19 00:00:00		1C	15-34	Opinions and Declarations	Direction
+12	False	1955-05-19 00:00:00		1C	35-56	Opinions and Declarations	Direction
+13	False	1955-05-19 00:00:00		1C	57-66	Opinions and Declarations	Direction
+14	False	1955-06-27 00:00:00		10	463-480	Opinions and Declarations	Direction
+15	False	1955-06-27 00:00:00		1C	67-80	Opinions and Declarations	Direction
+16	False	1955-06-27 00:00:00		1C	81-88	Opinions and Declarations	Direction
+17	False	1955-07-14 00:00:00		1C	89-112	Opinions and Declarations	Direction
+18	False	1955-08-05 00:00:00		1C	113-132	Opinions and Declarations	Direction
+19	False	1955-08-05 00:00:00		1C	133-144	Opinions and Declarations	Direction
+20	False	1955-08-05 00:00:00		1C	145-160	Opinions and Declarations	Direction
+21	False	1955-11-04 00:00:00		1C	161-178	Opinions and Declarations	Direction
+22	False	1955-11-04 00:00:00		1C	179-200	Opinions and Declarations	Direction
+23	False	1955-11-04 00:00:00		1C	201-218	Opinions and Declarations	Direction
+24	False	1955-11-04 00:00:00		1C	219-246	Opinions and Declarations	Direction
+25	False	1955-11-16 00:00:00		1C	247-258	Opinions and Declarations	Direction
+26	False	1955-11-16 00:00:00		1C	259-272	Opinions and Declarations	Direction
+27	False	1955-08-05 00:00:00		10	481-492	Opinions and Declarations	Direction
+28	False	1955-08-12 00:00:00		10	493-510	Opinions and Declarations	Direction
+29	False	1955-11-16 00:00:00		1C	273-286	Opinions and Declarations	Direction
+30	False	1955-11-16 00:00:00		1C	287-298	Opinions and Declarations	Direction
+31	False	1956-04-20 00:00:00		1C	299-306	Opinions and Declarations	Direction
+32	False	1956-05-17 00:00:00		1C	307-328	Opinions and Declarations	Direction
+33	False	1956-05-17 00:00:00		1C	329-340	Opinions and Declarations	Direction
+34	False	1956-05-17 00:00:00		1C	341-352	Opinions and Declarations	Direction
+35	False	1956-05-17 00:00:00		1C	353-364	Opinions and Declarations	Direction
+36	False	1956-09-01 00:00:00		1D	1-46	Opinions and Declarations	Direction
+37	False	1956-09-01 00:00:00		1D	47-82	Opinions and Declarations	Direction
+38	False	1956-09-01 00:00:00		1D	83-94	Opinions and Declarations	Direction
+39	False	1956-09-17 00:00:00		1D	95-138	Opinions and Declarations	Direction
+40	False	1956-09-17 00:00:00		1D	139-152	Opinions and Declarations	Direction
+41	False	1956-05-17 00:00:00		11	431-452	Opinions and Declarations	Direction
+42	False	1956-09-17 00:00:00		1D	153-170	Opinions and Declarations	Direction
+43	False	1956-10-19 00:00:00		1D	171-210	Opinions and Declarations	Direction
+44	False	1956-10-19 00:00:00		1D	211-232	Opinions and Declarations	Direction
+45	False	1956-10-19 00:00:00		1D	233-242	Opinions and Declarations	Direction
+47	False	1956-10-26 00:00:00		1D	243-254	Opinions and Declarations	Direction
+48	False	1956-11-21 00:00:00		1D	255-264	Opinions and Declarations	Direction
+49	False	1956-11-21 00:00:00		1D	265-280	Opinions and Declarations	Direction
+50	False	1956-11-21 00:00:00		1D	281-292	Opinions and Declarations	Direction
+51	False	1956-11-21 00:00:00		1D	293-308	Opinions and Declarations	Direction
+52	False	1956-12-05 00:00:00		1D	309-318	Opinions and Declarations	Direction
+53	False	1956-09-01 00:00:00		12	441-456	Opinions and Declarations	Direction
+54	False	1956-09-17 00:00:00		12	457-470	Opinions and Declarations	Direction
+55	False	1956-12-20 00:00:00		1D	319-336	Opinions and Declarations	Direction
+56	False	1956-12-20 00:00:00		1D	337-364	Opinions and Declarations	Direction
+57	False	1956-12-20 00:00:00		1D	365-388	Opinions and Declarations	Direction
+58	False	1956-12-20 00:00:00		13	275-290	Opinions and Declarations	Direction
+59	False	1957-03-08 00:00:00		15	(i)-(xviii)	Opinions and Declarations	Direction
+60	False	1957-03-15 00:00:00		1E	1-12	Opinions and Declarations	Direction
+61	False	1957-05-03 00:00:00		1E	13-20	Opinions and Declarations	Direction
+62	False	1957-05-03 00:00:00		14	459-470	Opinions and Declarations	Direction
+63	False	1957-06-21 00:00:00		1E	21-60	Opinions and Declarations	Direction
+64	False	1957-06-21 00:00:00		1E	61-74	Opinions and Declarations	Direction
+65	False	1957-06-21 00:00:00		1E	75-84	Opinions and Declarations	Direction
+66	False	1957-07-24 00:00:00		1E	85-110	Opinions and Declarations	Direction
+67	False	1957-07-24 00:00:00		1E	111-128	Opinions and Declarations	Direction
+68	False	1957-07-24 00:00:00		1E	129-136	Opinions and Declarations	Direction
+69	False	1957-07-24 00:00:00		1E	137-150	Opinions and Declarations	Direction
+70	False	1957-07-31 00:00:00		16	(i)-(xii)	Opinions and Declarations	Direction
+71	False	1957-07-24 00:00:00		1E	151-160	Opinions and Declarations	Direction
+72	False	1957-09-20 00:00:00		1E	161-192	Opinions and Declarations	Direction
+73	False	1957-09-20 00:00:00		1E	193-214	Opinions and Declarations	Direction
+74	False	1957-09-20 00:00:00		1E	215-226	Opinions and Declarations	Direction
+75	False	1957-06-21 00:00:00		13	291-308	Opinions and Declarations	Direction
+76	False	1957-11-01 00:00:00		1E	227-264	Opinions and Declarations	Direction
+77	False	1957-11-01 00:00:00		1E	265-292	Opinions and Declarations	Direction
+78	False	1957-11-01 00:00:00		1E	293-304	Opinions and Declarations	Direction
+79	False	1957-10-10 00:00:00		16	455-464	Opinions and Declarations	Direction
+80	False	1957-12-10 00:00:00		1E	305-314	Opinions and Declarations	Direction
+81	False	1957-12-10 00:00:00		1E	315-334	Opinions and Declarations	Direction
+82	False	1957-12-10 00:00:00		1E	335-360	Opinions and Declarations	Direction
+83	False	1957-12-17 00:00:00		1E	361-370	Opinions and Declarations	Direction
+84	False	1957-12-17 00:00:00		1E	371-388	Opinions and Declarations	Direction
+85	False	1957-12-17 00:00:00		1E	389-402	Opinions and Declarations	Direction
+86	False	1957-12-17 00:00:00		1E	403-412	Opinions and Declarations	Direction
+87	False	1958-02-28 00:00:00		1F	1-16	Opinions and Declarations	Direction
+88	False	1958-03-03 00:00:00		1F	17-28	Opinions and Declarations	Direction
+89	False	1958-03-03 00:00:00		1F	29-38	Opinions and Declarations	Direction
+90	False	1958-03-28 00:00:00		1F	39-50	Opinions and Declarations	Direction
+92	False	1958-03-28 00:00:00		1F	51-62	Opinions and Declarations	Direction
+93	False	1958-03-28 00:00:00		1F	63-72	Opinions and Declarations	Direction
+94	False	1958-05-02 00:00:00		1F	73-86	Opinions and Declarations	Direction
+95	False	1958-05-02 00:00:00		18	(ix)-(xxvi)	Opinions and Declarations	Direction
+96	False	1958-05-16 00:00:00		19	(i)-(xiv)	Opinions and Declarations	Direction
+97	False	1958-05-16 00:00:00		1F	87-126	Opinions and Declarations	Direction
+98	False	1958-05-16 00:00:00		1F	127-160	Opinions and Declarations	Direction
+99	False	1958-05-16 00:00:00		1F	161-174	Opinions and Declarations	Direction
+100	False	1958-05-30 00:00:00		1F	175-190	Opinions and Declarations	Direction
+101	False	1958-06-03 00:00:00		1F	191-200	Opinions and Declarations	Direction
+102	False	1958-06-03 00:00:00		1F	201-216	Opinions and Declarations	Direction
+103	False	1958-06-03 00:00:00		1F	217-232	Opinions and Declarations	Direction
+104	False	1959-12-15 00:00:00		17	89-91	Bulletin of Zoological Nomenclature	Direction
+105	False	1963-10-21 00:00:00		20	343-344	Bulletin of Zoological Nomenclature	Direction
+106	False	1974-12-31 00:00:00		31	179-181	Bulletin of Zoological Nomenclature	Direction
+107	False	1976-01-30 00:00:00		32	248-249	Bulletin of Zoological Nomenclature	Direction
+108	False	1980-06-19 00:00:00		37	107-108	Bulletin of Zoological Nomenclature	Direction
+109	False	1981-11-30 00:00:00		38	276-279	Bulletin of Zoological Nomenclature	Direction
+110	False	1981-11-30 00:00:00		38	280-282	Bulletin of Zoological Nomenclature	Direction
+111	False	1982-06-15 00:00:00		39	132-133	Bulletin of Zoological Nomenclature	Direction
+112	False	1982-09-30 00:00:00		39	194-195	Bulletin of Zoological Nomenclature	Direction
+113	False	1982-09-30 00:00:00		39	196-199	Bulletin of Zoological Nomenclature	Direction
+114	False	1984-03-29 00:00:00		41	39-40	Bulletin of Zoological Nomenclature	Direction
+115	False	1984-03-29 00:00:00		41	41-42	Bulletin of Zoological Nomenclature	Direction
+116	False	1985-04-02 00:00:00		42	41-42	Bulletin of Zoological Nomenclature	Direction
+117	False	1985-04-02 00:00:00		42	43-45	Bulletin of Zoological Nomenclature	Direction
+118	False	1985-06-27 00:00:00		42	195-196	Bulletin of Zoological Nomenclature	Direction
+119	False	1987-03-23 00:00:00		44	73	Bulletin of Zoological Nomenclature	Direction
+120	False	1987-03-23 00:00:00		44	74	Bulletin of Zoological Nomenclature	Direction
+121	False	1987-03-23 00:00:00		44	75	Bulletin of Zoological Nomenclature	Direction
+122	False	1988-03-25 00:00:00		45	87-88	Bulletin of Zoological Nomenclature	Direction
+123	False	1988-06-24 00:00:00		45	180	Bulletin of Zoological Nomenclature	Direction
+66	False	1915-02-01 00:00:00	1915-02-28 00:00:00	2359	171-176	Smithsonian Publications	Opinion
+67	False	1916-04-30 00:00:00	1916-04-30 00:00:00	2409	177-182	Smithsonian Publications	Opinion
+73	False	1922-01-31 00:00:00		73 (1)	23-31	Smithsonian Miscellaneous Colletions	Opinion
+75	False	1922-01-31 00:00:00		73 (1)	35-37	Smithsonian Miscellaneous Colletions	Opinion
+77	False	1922-01-31 00:00:00		73 (1)	71-73	Smithsonian Miscellaneous Colletions	Opinion
+80	False	1924-02-09 00:00:00		73 (2)	17-18	Smithsonian Miscellaneous Colletions	Opinion
+81	False	1924-02-09 00:00:00		73 (2)	19-32	Smithsonian Miscellaneous Colletions	Opinion
+82	False	1925-12-16 00:00:00		73 (3)	1-7	Smithsonian Miscellaneous Colletions	Opinion
+84	False	1925-12-16 00:00:00		73 (3)	11-12	Smithsonian Miscellaneous Colletions	Opinion
+85	False	1925-12-16 00:00:00		73 (3)	1 3-18	Smithsonian Miscellaneous Colletions	Opinion
+88	False	1925-12-16 00:00:00		73 (3)	23-26	Smithsonian Miscellaneous Colletions	Opinion
+91	False	1926-10-08 00:00:00		73 (4)	1-2	Smithsonian Miscellaneous Colletions	Opinion
+92	False	1926-10-08 00:00:00		73 (4)	3-4	Smithsonian Miscellaneous Colletions	Opinion
+93	False	1926-10-08 00:00:00		73 (4)	5-11	Smithsonian Miscellaneous Colletions	Opinion
+94	False	1926-10-08 00:00:00		73 (4)	12-13	Smithsonian Miscellaneous Colletions	Opinion
+95	False	1926-10-08 00:00:00		73 (4)	14-15	Smithsonian Miscellaneous Colletions	Opinion
+100	False	1928-09-19 00:00:00		73 (5)	9-12	Smithsonian Miscellaneous Colletions	Opinion
+103	False	1928-09-19 00:00:00		73 (5)	21-24	Smithsonian Miscellaneous Colletions	Opinion
+104	False	1928-09-19 00:00:00		73 (5)	25-28	Smithsonian Miscellaneous Colletions	Opinion
+106	False	1929-06-08 00:00:00		73 (6)	4-8	Smithsonian Miscellaneous Colletions	Opinion
+108	False	1929-06-08 00:00:00		73 (6)	15	Smithsonian Miscellaneous Colletions	Opinion
+109	False	1929-06-08 00:00:00		73 (6)	16	Smithsonian Miscellaneous Colletions	Opinion
+110	False	1929-06-08 00:00:00		73 (6)	17	Smithsonian Miscellaneous Colletions	Opinion
+111	False	1929-06-08 00:00:00		73 (6)	18	Smithsonian Miscellaneous Colletions	Opinion
+112	False	1929-06-08 00:00:00		73 (6)	19	Smithsonian Miscellaneous Colletions	Opinion
+113	False	1929-06-08 00:00:00		73 (6)	20-24	Smithsonian Miscellaneous Colletions	Opinion
+115	False	1931-01-10 00:00:00		73 (7)	1-5	Smithsonian Miscellaneous Colletions	Opinion
+117	False	1931-01-10 00:00:00		73 (7)	18-19	Smithsonian Miscellaneous Colletions	Opinion
+119	False	1931-01-10 00:00:00		73 (7)	23-28	Smithsonian Miscellaneous Colletions	Opinion
+121	False	1931-01-10 00:00:00		73 (7)	31-32	Smithsonian Miscellaneous Colletions	Opinion
+122	False	1931-01-10 00:00:00		73 (7)	33	Smithsonian Miscellaneous Colletions	Opinion
+127	False	1936-10-28 00:00:00		73 (8)	23-28	Smithsonian Miscellaneous Colletions	Opinion
+128	False	1936-10-28 00:00:00		73 (8)	29-31	Smithsonian Miscellaneous Colletions	Opinion
+129	False	1936-10-28 00:00:00		73 (8)	32-33	Smithsonian Miscellaneous Colletions	Opinion
+130	False	1936-10-28 00:00:00		73 (8)	34-36	Smithsonian Miscellaneous Colletions	Opinion
+137	False	1942-10-30 00:00:00		2	21-28	Opinions and Declarations	Opinion
+139	False	1943-01-30 00:00:00		2	35-46	Opinions and Declarations	Opinion
+142	False	1943-03-25 00:00:00		2	67-80	Opinions and Declarations	Opinion
+144	False	1943-03-30 00:00:00		2	89-98	Opinions and Declarations	Opinion
+146	False	1943-09-30 00:00:00		2	109-121	Opinions and Declarations	Opinion
+149	False	1943-12-09 00:00:00		2	145-160	Opinions and Declarations	Opinion
+151	False	1944-05-24 00:00:00		2	169-180	Opinions and Declarations	Opinion
+153	False	1944-07-12 00:00:00		2	197-208	Opinions and Declarations	Opinion
+154	False	1944-07-12 00:00:00		2	209-226	Opinions and Declarations	Opinion
+155	False	1944-07-12 00:00:00		2	227-238	Opinions and Declarations	Opinion
+156	False	1944-10-17 00:00:00		2	239-250	Opinions and Declarations	Opinion
+157	False	1945-02-21 00:00:00		2	251-262	Opinions and Declarations	Opinion
+158	False	1945-02-21 00:00:00		2	263-274	Opinions and Declarations	Opinion
+159	False	1945-02-21 00:00:00		2	275-290	Opinions and Declarations	Opinion
+161	False	1945-06-21 00:00:00		2	307-318	Opinions and Declarations	Opinion
+162	False	1945-06-21 00:00:00		2	319-334	Opinions and Declarations	Opinion
+163	False	1945-06-21 00:00:00		2	335-346	Opinions and Declarations	Opinion
+166	False	1945-08-21 00:00:00		2	375-398	Opinions and Declarations	Opinion
+167	False	1945-08-21 00:00:00		2	399-410	Opinions and Declarations	Opinion
+171	False	1946-01-22 00:00:00		2	459-470	Opinions and Declarations	Opinion
+174	False	1946-01-22 00:00:00		2	495-508	Opinions and Declarations	Opinion
+178	False	1946-06-25 00:00:00		2	545-556	Opinions and Declarations	Opinion
+180	False	1946-06-25 00:00:00		2	569-588	Opinions and Declarations	Opinion
+186	False	1945-04-17 00:00:00		3	53--64	Opinions and Declarations	Opinion
+187	False	1945-07-26 00:00:00		3	65-76	Opinions and Declarations	Opinion
+188	False	1945-07-26 00:00:00		3	77-92	Opinions and Declarations	Opinion
+189	False	1945-07-26 00:00:00		3	93-108	Opinions and Declarations	Opinion
+192	False	1945-08-21 00:00:00		3	137-160	Opinions and Declarations	Opinion
+193	False	1947-02-28 00:00:00		3	161-174	Opinions and Declarations	Opinion
+194	False	1947-02-28 00:00:00		3	175-190	Opinions and Declarations	Opinion
+195	False	1954-01-27 00:00:00		3	191-198	Opinions and Declarations	Opinion
+196	False	1954-01-27 00:00:00		3	199-206	Opinions and Declarations	Opinion
+197	False	1954-01-27 00:00:00		3	207-216	Opinions and Declarations	Opinion
+198	False	1954-01-27 00:00:00		3	217-228	Opinions and Declarations	Opinion
+199	False	1954-01-27 00:00:00		3	229--238	Opinions and Declarations	Opinion
+200	False	1954-01-27 00:00:00		3	239-266	Opinions and Declarations	Opinion
+201	False	1954-01-27 00:00:00		3	267-274	Opinions and Declarations	Opinion
+202	False	1954-01-27 00:00:00		3	275-286	Opinions and Declarations	Opinion
+203	False	1954-01-27 00:00:00		3	287-296	Opinions and Declarations	Opinion
+204	False	1954-01-27 00:00:00		3	297-308	Opinions and Declarations	Opinion
+205	False	1954-01-27 00:00:00		3	309-318	Opinions and Declarations	Opinion
+206	False	1954-03-08 00:00:00		3	319-338	Opinions and Declarations	Opinion
+207	False	1954-03-08 00:00:00		3	339-352	Opinions and Declarations	Opinion
+208	False	1954-03-08 00:00:00		3	353-366	Opinions and Declarations	Opinion
+209	False	1954-03-08 00:00:00		3	367-392	Opinions and Declarations	Opinion
+210	False	1954-03-08 00:00:00		3	393-400	Opinions and Declarations	Opinion
+211	False	1954-03-08 00:00:00		4	1-14	Opinions and Declarations	Opinion
+212	False	1954-03-08 00:00:00		4	15-24	Opinions and Declarations	Opinion
+213	False	1954-03-08 00:00:00		4	25-40	Opinions and Declarations	Opinion
+214	False	1954-03-08 00:00:00		4	41-50	Opinions and Declarations	Opinion
+215	False	1954-03-31 00:00:00		4	51-62	Opinions and Declarations	Opinion
+216	False	1954-03-31 00:00:00		4	63-72	Opinions and Declarations	Opinion
+217	False	1954-03-31 00:00:00		4	73-82	Opinions and Declarations	Opinion
+218	False	1954-03-31 00:00:00		4	83-92	Opinions and Declarations	Opinion
+219	False	1954-03-31 00:00:00		4	93-102	Opinions and Declarations	Opinion
+220	False	1954-03-31 00:00:00		4	103-114	Opinions and Declarations	Opinion
+221	False	1954-03-31 00:00:00		4	115-124	Opinions and Declarations	Opinion
+222	False	1954-03-31 00:00:00		4	125-138	Opinions and Declarations	Opinion
+223	False	1954-03-31 00:00:00		4	139-148	Opinions and Declarations	Opinion
+224	False	1954-03-31 00:00:00		4	149-160	Opinions and Declarations	Opinion
+225	False	1954-04-21 00:00:00		4	161-176	Opinions and Declarations	Opinion
+226	False	1954-04-21 00:00:00		4	177-200	Opinions and Declarations	Opinion
+227	False	1954-04-21 00:00:00		4	201-208	Opinions and Declarations	Opinion
+228	False	1954-04-21 00:00:00		4	209-220	Opinions and Declarations	Opinion
+229	False	1954-04-21 00:00:00		4	221-230	Opinions and Declarations	Opinion
+230	False	1954-04-21 00:00:00		4	231-238	Opinions and Declarations	Opinion
+231	False	1954-04-21 00:00:00		4	239-248	Opinions and Declarations	Opinion
+232	False	1954-04-21 00:00:00		4	249-274	Opinions and Declarations	Opinion
+233	False	1954-04-21 00:00:00		4	275-296	Opinions and Declarations	Opinion
+234	False	1954-05-21 00:00:00		4	297-312	Opinions and Declarations	Opinion
+235	False	1954-05-21 00:00:00		4	313-328	Opinions and Declarations	Opinion
+236	False	1954-05-21 00:00:00		4	329-342	Opinions and Declarations	Opinion
+237	False	1954-05-21 00:00:00		4	343-350	Opinions and Declarations	Opinion
+238	False	1954-05-21 00:00:00		4	351-360	Opinions and Declarations	Opinion
+239	False	1954-05-21 00:00:00		4	361-372	Opinions and Declarations	Opinion
+240	False	1954-05-21 00:00:00		5	1-12	Opinions and Declarations	Opinion
+241	False	1954-05-21 00:00:00		5	13-22	Opinions and Declarations	Opinion
+242	False	1954-05-21 00:00:00		5	23-44	Opinions and Declarations	Opinion
+243	False	1954-05-21 00:00:00		5	45-56	Opinions and Declarations	Opinion
+244	False	1954-05-21 00:00:00		5	57-70	Opinions and Declarations	Opinion
+245	False	1954-06-11 00:00:00		5	71-80	Opinions and Declarations	Opinion
+246	False	1954-06-11 00:00:00		5	81-90	Opinions and Declarations	Opinion
+247	False	1954-06-11 00:00:00		5	91-102	Opinions and Declarations	Opinion
+248	False	1954-06-11 00:00:00		5	103-114	Opinions and Declarations	Opinion
+249	False	1954-06-11 00:00:00		5	115-126	Opinions and Declarations	Opinion
+250	False	1954-06-11 00:00:00		5	127-138	Opinions and Declarations	Opinion
+251	False	1954-06-11 00:00:00		5	139-150	Opinions and Declarations	Opinion
+252	False	1954-06-11 00:00:00		5	151-162	Opinions and Declarations	Opinion
+253	False	1954-06-11 00:00:00		5	163-174	Opinions and Declarations	Opinion
+254	False	1954-06-11 00:00:00		5	175-186	Opinions and Declarations	Opinion
+255	False	1954-06-11 00:00:00		5	187-198	Opinions and Declarations	Opinion
+256	False	1954-08-10 00:00:00		5	199-230	Opinions and Declarations	Opinion
+257	False	1954-08-10 00:00:00		5	231-244	Opinions and Declarations	Opinion
+258	False	1954-08-10 00:00:00		5	245-252	Opinions and Declarations	Opinion
+259	False	1954-08-10 00:00:00		5	253-264	Opinions and Declarations	Opinion
+260	False	1954-08-10 00:00:00		5	265-280	Opinions and Declarations	Opinion
+261	False	1954-08-10 00:00:00		5	281-296	Opinions and Declarations	Opinion
+262	False	1954-08-10 00:00:00		5	297-328	Opinions and Declarations	Opinion
+263	False	1954-08-10 00:00:00		5	329-342	Opinions and Declarations	Opinion
+264	False	1954-08-10 00:00:00		5	343-354	Opinions and Declarations	Opinion
+265	False	1954-08-10 00:00:00		5	355-366	Opinions and Declarations	Opinion
+266	False	1954-08-10 00:00:00		5	367-386	Opinions and Declarations	Opinion
+267	False	1954-08-10 00:00:00		5	387-396	Opinions and Declarations	Opinion
+268	False	1954-08-10 00:00:00		5	397-408	Opinions and Declarations	Opinion
+269	False	1954-09-10 00:00:00		6	1-24	Opinions and Declarations	Opinion
+270	False	1954-09-10 00:00:00		6	25-40	Opinions and Declarations	Opinion
+271	False	1954-09-10 00:00:00		6	41-50	Opinions and Declarations	Opinion
+272	False	1954-09-10 00:00:00		6	51-62	Opinions and Declarations	Opinion
+273	False	1954-09-10 00:00:00		6	63-74	Opinions and Declarations	Opinion
+274	False	1954-09-10 00:00:00		6	75-82	Opinions and Declarations	Opinion
+275	False	1954-09-10 00:00:00		6	83-94	Opinions and Declarations	Opinion
+276	False	1954-10-01 00:00:00		6	95-118	Opinions and Declarations	Opinion
+277	False	1954-10-01 00:00:00		6	119-134	Opinions and Declarations	Opinion
+278	False	1954-10-01 00:00:00		6	135-178	Opinions and Declarations	Opinion
+279	False	1954-10-01 00:00:00		6	179-188	Opinions and Declarations	Opinion
+280	False	1954-10-01 00:00:00		6	189-204	Opinions and Declarations	Opinion
+281	False	1954-10-01 00:00:00		6	205-224	Opinions and Declarations	Opinion
+282	False	1954-10-01 00:00:00		6	225-268	Opinions and Declarations	Opinion
+283	False	1954-12-28 00:00:00		7	1-225	Opinions and Declarations	Opinion
+284	False	1954-10-12 00:00:00		8	1-14	Opinions and Declarations	Opinion
+285	False	1954-10-12 00:00:00		8	15-28	Opinions and Declarations	Opinion
+286	False	1954-10-12 00:00:00		8	29-48	Opinions and Declarations	Opinion
+287	False	1954-10-12 00:00:00		8	49-62	Opinions and Declarations	Opinion
+288	False	1954-10-12 00:00:00		8	63-72	Opinions and Declarations	Opinion
+289	False	1954-10-12 00:00:00		8	73-88	Opinions and Declarations	Opinion
+290	False	1954-10-12 00:00:00		8	89-98	Opinions and Declarations	Opinion
+291	False	1954-10-12 00:00:00		8	99-114	Opinions and Declarations	Opinion
+292	False	1954-10-12 00:00:00		8	115-130	Opinions and Declarations	Opinion
+293	False	1954-10-12 00:00:00		8	131-142	Opinions and Declarations	Opinion
+294	False	1954-10-26 00:00:00		8	143-154	Opinions and Declarations	Opinion
+295	False	1954-10-26 00:00:00		8	155-166	Opinions and Declarations	Opinion
+296	False	1954-10-26 00:00:00		8	167-178	Opinions and Declarations	Opinion
+297	False	1954-10-26 00:00:00		8	179-198	Opinions and Declarations	Opinion
+298	False	1954-10-26 00:00:00		8	199-208	Opinions and Declarations	Opinion
+299	False	1954-10-26 00:00:00		8	209-236	Opinions and Declarations	Opinion
+300	False	1954-10-26 00:00:00		8	237-248	Opinions and Declarations	Opinion
+301	False	1954-10-26 00:00:00		8	249-260	Opinions and Declarations	Opinion
+302	False	1954-10-26 00:00:00		8	261-272	Opinions and Declarations	Opinion
+303	False	1954-10-26 00:00:00		8	273-284	Opinions and Declarations	Opinion
+304	False	1954-10-26 00:00:00		8	285-296	Opinions and Declarations	Opinion
+305	False	1954-12-06 00:00:00		8	297-312	Opinions and Declarations	Opinion
+306	False	1954-12-06 00:00:00		8	313-322	Opinions and Declarations	Opinion
+307	False	1954-12-06 00:00:00		8	323-334	Opinions and Declarations	Opinion
+308	False	1954-12-06 00:00:00		8	335-344	Opinions and Declarations	Opinion
+309	False	1954-12-17 00:00:00		8	345-354	Opinions and Declarations	Opinion
+310	False	1954-12-17 00:00:00		8	355-364	Opinions and Declarations	Opinion
+311	False	1954-12-17 00:00:00		8	365-374	Opinions and Declarations	Opinion
+312	False	1954-12-17 00:00:00		9	1-60	Opinions and Declarations	Opinion
+313	False	1954-12-17 00:00:00		9	61-70	Opinions and Declarations	Opinion
+314	False	1954-12-17 00:00:00		9	71-80	Opinions and Declarations	Opinion
+315	False	1954-12-17 00:00:00		9	81-90	Opinions and Declarations	Opinion
+316	False	1954-12-17 00:00:00		9	91-106	Opinions and Declarations	Opinion
+317	False	1954-12-17 00:00:00		9	107-118	Opinions and Declarations	Opinion
+318	False	1954-12-17 00:00:00		9	119-130	Opinions and Declarations	Opinion
+319	False	1955-01-07 00:00:00		9	131-146	Opinions and Declarations	Opinion
+320	False	1955-01-07 00:00:00		9	147-170	Opinions and Declarations	Opinion
+321	False	1955-01-07 00:00:00		9	171-184	Opinions and Declarations	Opinion
+322	False	1955-01-07 00:00:00		9	185-208	Opinions and Declarations	Opinion
+323	False	1955-01-07 00:00:00		9	209-226	Opinions and Declarations	Opinion
+324	False	1955-01-07 00:00:00		9	227-250	Opinions and Declarations	Opinion
+325	False	1955-01-07 00:00:00		9	251-266	Opinions and Declarations	Opinion
+326	False	1955-01-07 00:00:00		9	267-282	Opinions and Declarations	Opinion
+327	False	1955-01-07 00:00:00		9	283-298	Opinions and Declarations	Opinion
+328	False	1955-01-07 00:00:00		9	299-308	Opinions and Declarations	Opinion
+329	False	1955-01-07 00:00:00		9	309-320	Opinions and Declarations	Opinion
+330	False	1955-02-23 00:00:00		9	321-338	Opinions and Declarations	Opinion
+331	False	1955-02-23 00:00:00		9	339-354	Opinions and Declarations	Opinion
+332	False	1955-02-23 00:00:00		9	355-368	Opinions and Declarations	Opinion
+333	False	1955-02-23 00:00:00		9	369-384	Opinions and Declarations	Opinion
+334	False	1955-02-23 00:00:00		10	1-44	Opinions and Declarations	Opinion
+335	False	1955-03-17 00:00:00		10	45-76	Opinions and Declarations	Opinion
+336	False	1955-03-17 00:00:00		10	77-108	Opinions and Declarations	Opinion
+337	False	1955-03-17 00:00:00		10	109-124	Opinions and Declarations	Opinion
+338	False	1955-03-17 00:00:00		10	125-180	Opinions and Declarations	Opinion
+339	False	1955-03-17 00:00:00		10	181-200	Opinions and Declarations	Opinion
+340	False	1955-05-19 00:00:00		10	201-250	Opinions and Declarations	Opinion
+341	False	1955-05-19 00:00:00		10	251-270	Opinions and Declarations	Opinion
+342	False	1955-06-17 00:00:00		10	271-298	Opinions and Declarations	Opinion
+343	False	1955-06-17 00:00:00		10	299-312	Opinions and Declarations	Opinion
+344	False	1955-06-17 00:00:00		10	313-352	Opinions and Declarations	Opinion
+345	False	1955-06-17 00:00:00		10	353-388	Opinions and Declarations	Opinion
+346	False	1955-06-17 00:00:00		10	389-408	Opinions and Declarations	Opinion
+347	False	1955-06-27 00:00:00		10	409-420	Opinions and Declarations	Opinion
+348	False	1955-06-27 00:00:00		10	421-436	Opinions and Declarations	Opinion
+349	False	1955-06-27 00:00:00		10	437-450	Opinions and Declarations	Opinion
+350	False	1955-06-27 00:00:00		10	451-462	Opinions and Declarations	Opinion
+351	False	1955-07-14 00:00:00		11	1-24	Opinions and Declarations	Opinion
+352	False	1955-07-14 00:00:00		11	25-46	Opinions and Declarations	Opinion
+353	False	1955-08-05 00:00:00		11	47-78	Opinions and Declarations	Opinion
+354	False	1955-08-12 00:00:00		11	79-90	Opinions and Declarations	Opinion
+355	False	1955-08-12 00:00:00		11	91-102	Opinions and Declarations	Opinion
+356	False	1955-08-12 00:00:00		11	103-112	Opinions and Declarations	Opinion
+357	False	1955-08-12 00:00:00		11	113-128	Opinions and Declarations	Opinion
+358	False	1955-08-12 00:00:00		11	129-138	Opinions and Declarations	Opinion
+359	False	1955-08-12 00:00:00		11	139-150	Opinions and Declarations	Opinion
+360	False	1955-11-04 00:00:00		11	151-160	Opinions and Declarations	Opinion
+361	False	1955-11-04 00:00:00		11	161-172	Opinions and Declarations	Opinion
+362	False	1955-11-04 00:00:00		11	173-182	Opinions and Declarations	Opinion
+363	False	1955-11-04 00:00:00		11	183-202	Opinions and Declarations	Opinion
+364	False	1955-11-04 00:00:00		11	203-214	Opinions and Declarations	Opinion
+365	False	1955-11-16 00:00:00		11	215-230	Opinions and Declarations	Opinion
+366	False	1955-11-16 00:00:00		11	231-244	Opinions and Declarations	Opinion
+367	False	1955-11-16 00:00:00		11	245-254	Opinions and Declarations	Opinion
+368	False	1955-11-16 00:00:00		11	255-264	Opinions and Declarations	Opinion
+369	False	1955-12-02 00:00:00		11	265-300	Opinions and Declarations	Opinion
+370	False	1955-12-02 00:00:00		11	301-320	Opinions and Declarations	Opinion
+371	False	1955-12-02 00:00:00		11	321-338	Opinions and Declarations	Opinion
+372	False	1955-12-02 00:00:00		11	339-358	Opinions and Declarations	Opinion
+373	False	1955-12-02 00:00:00		11	359-368	Opinions and Declarations	Opinion
+374	False	1955-12-02 00:00:00		11	369-378	Opinions and Declarations	Opinion
+375	False	1955-12-02 00:00:00		11	379-390	Opinions and Declarations	Opinion
+376	False	1955-12-02 00:00:00		11	391-400	Opinions and Declarations	Opinion
+377	False	1956-01-24 00:00:00		11	401-410	Opinions and Declarations	Opinion
+378	False	1956-01-24 00:00:00		11	411-420	Opinions and Declarations	Opinion
+379	False	1956-01-24 00:00:00		11	421-430	Opinions and Declarations	Opinion
+380	False	1956-01-24 00:00:00		12	1-32	Opinions and Declarations	Opinion
+381	False	1956-01-24 00:00:00		12	33-42	Opinions and Declarations	Opinion
+382	False	1956-01-24 00:00:00		12	43-58	Opinions and Declarations	Opinion
+383	False	1956-01-24 00:00:00		12	59-70	Opinions and Declarations	Opinion
+384	False	1956-04-20 00:00:00		12	71-190	Opinions and Declarations	Opinion
+385	False	1956-04-20 00:00:00		12	191-230	Opinions and Declarations	Opinion
+386	False	1956-04-20 00:00:00		12	231-240	Opinions and Declarations	Opinion
+387	False	1956-04-20 00:00:00		12	241-250	Opinions and Declarations	Opinion
+388	False	1956-04-20 00:00:00		12	251-264	Opinions and Declarations	Opinion
+389	False	1956-04-20 00:00:00		12	265-272	Opinions and Declarations	Opinion
+390	False	1956-06-19 00:00:00		12	273-284	Opinions and Declarations	Opinion
+391	False	1956-06-19 00:00:00		12	285-294	Opinions and Declarations	Opinion
+392	False	1956-06-19 00:00:00		12	295-304	Opinions and Declarations	Opinion
+393	False	1956-06-19 00:00:00		12	305-314	Opinions and Declarations	Opinion
+394	False	1956-06-19 00:00:00		12	315-336	Opinions and Declarations	Opinion
+395	False	1956-06-19 00:00:00		12	337-346	Opinions and Declarations	Opinion
+396	False	1956-07-16 00:00:00		12	347-362	Opinions and Declarations	Opinion
+397	False	1956-07-16 00:00:00		12	363-376	Opinions and Declarations	Opinion
+398	False	1956-07-16 00:00:00		12	377-392	Opinions and Declarations	Opinion
+399	False	1956-07-16 00:00:00		12	393-418	Opinions and Declarations	Opinion
+400	False	1956-07-16 00:00:00		12	419-432	Opinions and Declarations	Opinion
+401	False	1956-07-24 00:00:00		13	1-64	Opinions and Declarations	Opinion
+402	False	1956-07-24 00:00:00		13	65-74	Opinions and Declarations	Opinion
+403	False	1956-07-24 00:00:00		13	75-86	Opinions and Declarations	Opinion
+404	False	1956-07-24 00:00:00		13	87-106	Opinions and Declarations	Opinion
+405	False	1956-07-24 00:00:00		13	107-118	Opinions and Declarations	Opinion
+406	False	1956-07-24 00:00:00		13	119-130	Opinions and Declarations	Opinion
+407	False	1956-07-31 00:00:00		13	131-146	Opinions and Declarations	Opinion
+408	False	1956-07-31 00:00:00		13	147-156	Opinions and Declarations	Opinion
+409	False	1956-07-31 00:00:00		13	157-172	Opinions and Declarations	Opinion
+410	False	1956-07-31 00:00:00		13	173-190	Opinions and Declarations	Opinion
+411	False	1956-07-31 00:00:00		13	191-202	Opinions and Declarations	Opinion
+412	False	1956-07-31 00:00:00		13	203-232	Opinions and Declarations	Opinion
+413	False	1956-08-14 00:00:00		13	233-242	Opinions and Declarations	Opinion
+414	False	1956-08-14 00:00:00		13	243-254	Opinions and Declarations	Opinion
+415	False	1956-08-14 00:00:00		13	255-264	Opinions and Declarations	Opinion
+416	False	1956-08-14 00:00:00		13	265-274	Opinions and Declarations	Opinion
+417	False	1956-09-01 00:00:00		14	1-42	Opinions and Declarations	Opinion
+418	False	1956-09-01 00:00:00		14	43-68	Opinions and Declarations	Opinion
+419	False	1956-09-17 00:00:00		14	69-128	Opinions and Declarations	Opinion
+420	False	1956-09-17 00:00:00		14	129-168	Opinions and Declarations	Opinion
+421	False	1956-09-17 00:00:00		14	169-180	Opinions and Declarations	Opinion
+422	False	1956-10-12 00:00:00		14	181-196	Opinions and Declarations	Opinion
+423	False	1956-10-12 00:00:00		14	197-214	Opinions and Declarations	Opinion
+424	False	1956-10-12 00:00:00		14	215-242	Opinions and Declarations	Opinion
+425	False	1956-10-12 00:00:00		14	243-256	Opinions and Declarations	Opinion
+426	False	1956-10-26 00:00:00		14	257-280	Opinions and Declarations	Opinion
+427	False	1956-10-26 00:00:00		14	281-310	Opinions and Declarations	Opinion
+428	False	1956-10-26 00:00:00		14	311-322	Opinions and Declarations	Opinion
+429	False	1956-10-26 00:00:00		14	323-338	Opinions and Declarations	Opinion
+430	False	1956-11-14 00:00:00		14	339-346	Opinions and Declarations	Opinion
+431	False	1956-11-14 00:00:00		14	347-372	Opinions and Declarations	Opinion
+432	False	1956-11-14 00:00:00		14	373-392	Opinions and Declarations	Opinion
+433	False	1956-11-14 00:00:00		14	393-402	Opinions and Declarations	Opinion
+434	False	1956-11-14 00:00:00		14	403-424	Opinions and Declarations	Opinion
+435	False	1956-12-05 00:00:00		14	425-458	Opinions and Declarations	Opinion
+436	False	1957-01-08 00:00:00		15	1-24	Opinions and Declarations	Opinion
+437	False	1957-01-08 00:00:00		15	25-40	Opinions and Declarations	Opinion
+438	False	1957-01-08 00:00:00		15	41-50	Opinions and Declarations	Opinion
+439	False	1957-01-08 00:00:00		15	51-66	Opinions and Declarations	Opinion
+440	False	1957-01-08 00:00:00		15	67-82	Opinions and Declarations	Opinion
+441	False	1957-01-29 00:00:00		15	83-120	Opinions and Declarations	Opinion
+442	False	1957-01-29 00:00:00		15	121-162	Opinions and Declarations	Opinion
+443	False	1957-01-29 00:00:00		15	163-174	Opinions and Declarations	Opinion
+444	False	1957-01-29 00:00:00		15	175-190	Opinions and Declarations	Opinion
+445	False	1957-01-29 00:00:00		15	191-198	Opinions and Declarations	Opinion
+446	False	1957-01-29 00:00:00		15	199-210	Opinions and Declarations	Opinion
+447	False	1957-01-29 00:00:00		15	211-224	Opinions and Declarations	Opinion
+448	False	1957-01-29 00:00:00		15	225-234	Opinions and Declarations	Opinion
+449	False	1957-01-29 00:00:00		15	235-250	Opinions and Declarations	Opinion
+450	False	1957-03-08 00:00:00		15	251-328	Opinions and Declarations	Opinion
+451	False	1957-03-08 00:00:00		15	329-338	Opinions and Declarations	Opinion
+452	False	1957-03-08 00:00:00		15	339-346	Opinions and Declarations	Opinion
+453	False	1957-03-08 00:00:00		15	347-356	Opinions and Declarations	Opinion
+454	False	1957-03-15 00:00:00		15	357-378	Opinions and Declarations	Opinion
+455	False	1957-03-15 00:00:00		15	379-392	Opinions and Declarations	Opinion
+456	False	1957-03-15 00:00:00		15	393-418	Opinions and Declarations	Opinion
+457	False	1957-03-15 00:00:00		15	419-432	Opinions and Declarations	Opinion
+458	False	1957-04-02 00:00:00		15	433-442	Opinions and Declarations	Opinion
+459	False	1957-04-02 00:00:00		15	443-454	Opinions and Declarations	Opinion
+460	False	1957-04-02 00:00:00		15	455-474	Opinions and Declarations	Opinion
+461	False	1957-04-02 00:00:00		15	475-484	Opinions and Declarations	Opinion
+462	False	1957-04-02 00:00:00		16	1-12	Opinions and Declarations	Opinion
+463	False	1957-04-02 00:00:00		16	13-24	Opinions and Declarations	Opinion
+464	False	1957-05-03 00:00:00		16	25-42	Opinions and Declarations	Opinion
+465	False	1957-05-03 00:00:00		16	43-52	Opinions and Declarations	Opinion
+466	False	1957-05-31 00:00:00		16	53-72	Opinions and Declarations	Opinion
+467	False	1957-05-31 00:00:00		16	73-88	Opinions and Declarations	Opinion
+469	False	1957-05-31 00:00:00		16	97-128	Opinions and Declarations	Opinion
+470	False	1957-06-14 00:00:00		16	129-202	Opinions and Declarations	Opinion
+471	False	1957-06-14 00:00:00		16	203-212	Opinions and Declarations	Opinion
+472	False	1957-06-21 00:00:00		16	213-276	Opinions and Declarations	Opinion
+473	False	1957-07-24 00:00:00		16	277-296	Opinions and Declarations	Opinion
+474	False	1957-07-31 00:00:00		16	297-306	Opinions and Declarations	Opinion
+475	False	1957-07-31 00:00:00		16	307-330	Opinions and Declarations	Opinion
+476	False	1957-07-31 00:00:00		16	331-342	Opinions and Declarations	Opinion
+477	False	1957-07-31 00:00:00		16	343-352	Opinions and Declarations	Opinion
+478	False	1957-07-31 00:00:00		16	353-364	Opinions and Declarations	Opinion
+479	False	1957-09-03 00:00:00		16	365-416	Opinions and Declarations	Opinion
+480	False	1957-09-03 00:00:00		16	417-454	Opinions and Declarations	Opinion
+481	False	1957-09-03 00:00:00		17	1-14	Opinions and Declarations	Opinion
+482	False	1957-09-20 00:00:00		17	15-40	Opinions and Declarations	Opinion
+483	False	1957-10-10 00:00:00		17	41-72	Opinions and Declarations	Opinion
+484	False	1957-10-10 00:00:00		17	73-86	Opinions and Declarations	Opinion
+485	False	1957-11-01 00:00:00		17	87-104	Opinions and Declarations	Opinion
+486	False	1957-11-01 00:00:00		17	105-118	Opinions and Declarations	Opinion
+487	False	1957-11-01 00:00:00		17	119-142	Opinions and Declarations	Opinion
+488	False	1957-11-15 00:00:00		17	143-154	Opinions and Declarations	Opinion
+489	False	1957-11-15 00:00:00		17	155-178	Opinions and Declarations	Opinion
+490	False	1957-11-15 00:00:00		17	179-196	Opinions and Declarations	Opinion
+491	False	1957-11-15 00:00:00		17	197-208	Opinions and Declarations	Opinion
+492	False	1957-12-10 00:00:00		17	209-254	Opinions and Declarations	Opinion
+493	False	1957-12-10 00:00:00		17	255-264	Opinions and Declarations	Opinion
+494	False	1957-12-10 00:00:00		17	265-286	Opinions and Declarations	Opinion
+495	False	1957-12-10 00:00:00		17	287-322	Opinions and Declarations	Opinion
+496	False	1957-12-17 00:00:00		17	323-348	Opinions and Declarations	Opinion
+497	False	1957-12-17 00:00:00		17	349-360	Opinions and Declarations	Opinion
+498	False	1957-12-17 00:00:00		17	361-376	Opinions and Declarations	Opinion
+499	False	1958-01-24 00:00:00		17	377-394	Opinions and Declarations	Opinion
+500	False	1958-01-24 00:00:00		17	395-422	Opinions and Declarations	Opinion
+501	False	1958-01-24 00:00:00		18	1-64	Opinions and Declarations	Opinion
+502	False	1958-01-24 00:00:00		18	65-120	Opinions and Declarations	Opinion
+503	False	1958-03-03 00:00:00		18	121-140	Opinions and Declarations	Opinion
+504	False	1958-03-28 00:00:00		18	141-156	Opinions and Declarations	Opinion
+505	False	1958-03-28 00:00:00		18	157-176	Opinions and Declarations	Opinion
+506	False	1958-04-11 00:00:00		18	177-196	Opinions and Declarations	Opinion
+507	False	1958-04-11 00:00:00		18	197-210	Opinions and Declarations	Opinion
+508	False	1958-04-11 00:00:00		18	211-226	Opinions and Declarations	Opinion
+509	False	1958-04-11 00:00:00		18	227-238	Opinions and Declarations	Opinion
+510	False	1958-05-02 00:00:00		18	239-256	Opinions and Declarations	Opinion
+511	False	1958-05-02 00:00:00		18	257-272	Opinions and Declarations	Opinion
+512	False	1958-05-02 00:00:00		18	273-290	Opinions and Declarations	Opinion
+513	False	1958-05-02 00:00:00		18	291-302	Opinions and Declarations	Opinion
+514	False	1958-05-02 00:00:00		18	303-314	Opinions and Declarations	Opinion
+515	False	1958-05-02 00:00:00		18	315-328	Opinions and Declarations	Opinion
+516	False	1958-05-16 00:00:00		19	1-44	Opinions and Declarations	Opinion
+517	False	1958-05-30 00:00:00		19	45-110	Opinions and Declarations	Opinion
+518	False	1958-05-30 00:00:00		19	111-132	Opinions and Declarations	Opinion
+519	False	1958-08-08 00:00:00		19	133-168	Opinions and Declarations	Opinion
+520	False	1958-08-08 00:00:00		19	169-200	Opinions and Declarations	Opinion
+521	False	1958-08-08 00:00:00		19	201-208	Opinions and Declarations	Opinion
+522	False	1958-08-08 00:00:00		19	209-248	Opinions and Declarations	Opinion
+523	False	1958-08-08 00:00:00		19	249-260	Opinions and Declarations	Opinion
+524	False	1958-10-15 00:00:00		19	261-276	Opinions and Declarations	Opinion
+525	False	1958-10-15 00:00:00		19	277-290	Opinions and Declarations	Opinion
+526	False	1958-10-15 00:00:00		19	291-300	Opinions and Declarations	Opinion
+527	False	1958-10-15 00:00:00		19	301-314	Opinions and Declarations	Opinion
+528	False	1958-10-15 00:00:00		19	315-324	Opinions and Declarations	Opinion
+529	False	1958-10-29 00:00:00		19	325-332	Opinions and Declarations	Opinion
+530	False	1958-10-29 00:00:00		19	333-348	Opinions and Declarations	Opinion
+531	False	1958-10-29 00:00:00		19	349-360	Opinions and Declarations	Opinion
+532	False	1958-10-29 00:00:00		19	361-376	Opinions and Declarations	Opinion
+533	False	1958-10-29 00:00:00		19	377-394	Opinions and Declarations	Opinion
+534	False	1959-02-03 00:00:00		20	1-12	Opinions and Declarations	Opinion
+535	False	1959-02-03 00:00:00		20	13-24	Opinions and Declarations	Opinion
+536	False	1959-02-03 00:00:00		20	25-40	Opinions and Declarations	Opinion
+537	False	1959-02-03 00:00:00		20	41-56	Opinions and Declarations	Opinion
+538	False	1959-02-27 00:00:00		20	57-64	Opinions and Declarations	Opinion
+539	False	1959-02-27 00:00:00		20	65-76	Opinions and Declarations	Opinion
+540	False	1959-02-27 00:00:00		20	77-86	Opinions and Declarations	Opinion
+541	False	1959-02-27 00:00:00		20	87-102	Opinions and Declarations	Opinion
+542	False	1959-02-27 00:00:00		20	103-110	Opinions and Declarations	Opinion
+543	False	1959-02-27 00:00:00		20	111-118	Opinions and Declarations	Opinion
+544	False	1959-03-20 00:00:00		20	119-128	Opinions and Declarations	Opinion
+545	False	1959-03-20 00:00:00		20	129-138	Opinions and Declarations	Opinion
+546	False	1959-03-20 00:00:00		20	139-152	Opinions and Declarations	Opinion
+547	False	1959-03-20 00:00:00		20	153-164	Opinions and Declarations	Opinion
+548	False	1959-03-20 00:00:00		20	165-174	Opinions and Declarations	Opinion
+549	False	1959-03-20 00:00:00		20	175-184	Opinions and Declarations	Opinion
+550	False	1959-04-14 00:00:00		20	185-198	Opinions and Declarations	Opinion
+551	False	1959-04-14 00:00:00		20	199-210	Opinions and Declarations	Opinion
+552	False	1959-04-14 00:00:00		20	211-224	Opinions and Declarations	Opinion
+553	False	1959-04-14 00:00:00		20	225-240	Opinions and Declarations	Opinion
+554	False	1959-04-14 00:00:00		20	241-248	Opinions and Declarations	Opinion
+555	False	1959-04-14 00:00:00		20	249-256	Opinions and Declarations	Opinion
+556	False	1959-04-14 00:00:00		20	257-264	Opinions and Declarations	Opinion
+557	False	1959-04-14 00:00:00		20	265-276	Opinions and Declarations	Opinion
+558	False	1959-04-14 00:00:00		20	277-282	Opinions and Declarations	Opinion
+559	False	1959-04-14 00:00:00		20	283-292	Opinions and Declarations	Opinion
+560	False	1959-04-28 00:00:00		20	293-302	Opinions and Declarations	Opinion
+561	False	1959-04-28 00:00:00		20	303-310	Opinions and Declarations	Opinion
+562	False	1959-04-28 00:00:00		20	311-328	Opinions and Declarations	Opinion
+563	False	1959-04-28 00:00:00		20	329-336	Opinions and Declarations	Opinion
+564	False	1959-04-28 00:00:00		20	337-358	Opinions and Declarations	Opinion
+565	False	1959-04-28 00:00:00		20	359-376	Opinions and Declarations	Opinion
+566	False	1959-05-22 00:00:00		20	377-390	Opinions and Declarations	Opinion
+567	False	1959-05-22 00:00:00		20	391-402	Opinions and Declarations	Opinion
+568	False	1959-05-22 00:00:00		20	403-412	Opinions and Declarations	Opinion
+569	False	1959-12-15 00:00:00		17	92-94	Bulletin of Zoological Nomenclature	Opinion
+570	False	1959-12-15 00:00:00		17	95-105	Bulletin of Zoological Nomenclature	Opinion
+571	False	1959-12-15 00:00:00		17	106-111	Bulletin of Zoological Nomenclature	Opinion
+572	False	1959-12-15 00:00:00		17	112-116	Bulletin of Zoological Nomenclature	Opinion
+573	False	1959-12-15 00:00:00		17	117-131	Bulletin of Zoological Nomenclature	Opinion
+574	False	1959-12-15 00:00:00		17	132-133	Bulletin of Zoological Nomenclature	Opinion
+575	False	1959-12-15 00:00:00		17	134-137	Bulletin of Zoological Nomenclature	Opinion
+576	False	1959-12-15 00:00:00		17	138-139	Bulletin of Zoological Nomenclature	Opinion
+577	False	1959-12-15 00:00:00		17	140-142	Bulletin of Zoological Nomenclature	Opinion
+578	False	1959-12-15 00:00:00		17	143-145	Bulletin of Zoological Nomenclature	Opinion
+579	False	1959-12-15 00:00:00		17	146-147	Bulletin of Zoological Nomenclature	Opinion
+580	False	1959-12-15 00:00:00		17	148-152	Bulletin of Zoological Nomenclature	Opinion
+581	False	1960-09-16 00:00:00		17	267-275	Bulletin of Zoological Nomenclature	Opinion
+582	False	1960-09-16 00:00:00		17	276-280	Bulletin of Zoological Nomenclature	Opinion
+583	False	1960-09-16 00:00:00		17	281-289	Bulletin of Zoological Nomenclature	Opinion
+584	False	1960-09-16 00:00:00		17	290-293	Bulletin of Zoological Nomenclature	Opinion
+585	False	1961-04-14 00:00:00		18	99-100	Bulletin of Zoological Nomenclature	Opinion
+586	False	1961-04-14 00:00:00		18	101-102	Bulletin of Zoological Nomenclature	Opinion
+587	False	1961-04-14 00:00:00		18	103	Bulletin of Zoological Nomenclature	Opinion
+588	False	1961-04-14 00:00:00		18	104	Bulletin of Zoological Nomenclature	Opinion
+589	False	1961-04-14 00:00:00		18	105-108	Bulletin of Zoological Nomenclature	Opinion
+590	False	1961-04-14 00:00:00		18	109-111	Bulletin of Zoological Nomenclature	Opinion
+591	False	1961-04-14 00:00:00		18	112-113	Bulletin of Zoological Nomenclature	Opinion
+592	False	1961-04-14 00:00:00		18	114-120	Bulletin of Zoological Nomenclature	Opinion
+593	False	1961-04-14 00:00:00		18	121-122	Bulletin of Zoological Nomenclature	Opinion
+594	False	1961-04-14 00:00:00		18	123-124	Bulletin of Zoological Nomenclature	Opinion
+595	False	1961-04-14 00:00:00		18	125-126	Bulletin of Zoological Nomenclature	Opinion
+596	False	1961-04-14 00:00:00		18	127-128	Bulletin of Zoological Nomenclature	Opinion
+597	False	1961-08-11 00:00:00		18	230-235	Bulletin of Zoological Nomenclature	Opinion
+598	False	1961-08-11 00:00:00		18	236-237	Bulletin of Zoological Nomenclature	Opinion
+599	False	1961-08-11 00:00:00		18	238-240	Bulletin of Zoological Nomenclature	Opinion
+600	False	1961-08-11 00:00:00		18	241-243	Bulletin of Zoological Nomenclature	Opinion
+601	False	1961-08-11 00:00:00		18	244-245	Bulletin of Zoological Nomenclature	Opinion
+602	False	1961-08-11 00:00:00		18	246-248	Bulletin of Zoological Nomenclature	Opinion
+603	False	1961-08-11 00:00:00		18	249-251	Bulletin of Zoological Nomenclature	Opinion
+604	False	1961-08-11 00:00:00		18	252-253	Bulletin of Zoological Nomenclature	Opinion
+605	False	1961-08-11 00:00:00		18	254-257	Bulletin of Zoological Nomenclature	Opinion
+606	False	1961-08-11 00:00:00		18	258-259	Bulletin of Zoological Nomenclature	Opinion
+607	False	1961-08-11 00:00:00		18	260-261	Bulletin of Zoological Nomenclature	Opinion
+608	False	1961-08-11 00:00:00		18	262-264	Bulletin of Zoological Nomenclature	Opinion
+609	False	1961-08-11 00:00:00		18	265-266	Bulletin of Zoological Nomenclature	Opinion
+610	False	1961-08-11 00:00:00		18	267-269	Bulletin of Zoological Nomenclature	Opinion
+611	False	1961-11-10 00:00:00		18	306-311	Bulletin of Zoological Nomenclature	Opinion
+612	False	1961-11-10 00:00:00		18	312-315	Bulletin of Zoological Nomenclature	Opinion
+613	False	1961-11-17 00:00:00		18	355-356	Bulletin of Zoological Nomenclature	Opinion
+614	False	1961-11-17 00:00:00		18	357-358	Bulletin of Zoological Nomenclature	Opinion
+615	False	1961-11-17 00:00:00		18	359-360	Bulletin of Zoological Nomenclature	Opinion
+616	False	1961-11-17 00:00:00		18	361-362	Bulletin of Zoological Nomenclature	Opinion
+617	False	1961-11-17 00:00:00		18	363-364	Bulletin of Zoological Nomenclature	Opinion
+618	False	1961-11-17 00:00:00		18	365-368	Bulletin of Zoological Nomenclature	Opinion
+619	False	1961-11-17 00:00:00		18	369-371	Bulletin of Zoological Nomenclature	Opinion
+620	False	1962-03-23 00:00:00		19	72-73	Bulletin of Zoological Nomenclature	Opinion
+621	False	1962-03-23 00:00:00		19	74-75	Bulletin of Zoological Nomenclature	Opinion
+622	False	1962-03-23 00:00:00		19	76-79	Bulletin of Zoological Nomenclature	Opinion
+623	False	1962-03-23 00:00:00		19	80-81	Bulletin of Zoological Nomenclature	Opinion
+624	False	1962-03-23 00:00:00		19	82-83	Bulletin of Zoological Nomenclature	Opinion
+625	False	1962-03-23 00:00:00		19	84-87	Bulletin of Zoological Nomenclature	Opinion
+626	False	1962-03-23 00:00:00		19	88-90	Bulletin of Zoological Nomenclature	Opinion
+627	False	1962-03-23 00:00:00		19	91-96	Bulletin of Zoological Nomenclature	Opinion
+628	False	1962-03-23 00:00:00		19	97-99	Bulletin of Zoological Nomenclature	Opinion
+629	False	1962-05-28 00:00:00		19	132-139	Bulletin of Zoological Nomenclature	Opinion
+630	False	1962-05-28 00:00:00		19	140-141	Bulletin of Zoological Nomenclature	Opinion
+631	False	1962-05-28 00:00:00		19	142-143	Bulletin of Zoological Nomenclature	Opinion
+632	False	1962-05-28 00:00:00		19	145-147	Bulletin of Zoological Nomenclature	Opinion
+633	False	1962-05-28 00:00:00		19	148-149	Bulletin of Zoological Nomenclature	Opinion
+634	False	1962-05-28 00:00:00		19	150-151	Bulletin of Zoological Nomenclature	Opinion
+635	False	1962-05-28 00:00:00		19	152-153	Bulletin of Zoological Nomenclature	Opinion
+636	False	1962-09-10 00:00:00		19	262-265	Bulletin of Zoological Nomenclature	Opinion
+637	False	1962-09-10 00:00:00		19	266-267	Bulletin of Zoological Nomenclature	Opinion
+638	False	1962-09-10 00:00:00		19	268-269	Bulletin of Zoological Nomenclature	Opinion
+639	False	1962-09-10 00:00:00		19	270-271	Bulletin of Zoological Nomenclature	Opinion
+640	False	1962-09-10 00:00:00		19	272-273	Bulletin of Zoological Nomenclature	Opinion
+641	False	1962-09-10 00:00:00		19	274-279	Bulletin of Zoological Nomenclature	Opinion
+642	False	1962-09-10 00:00:00		19	280-283	Bulletin of Zoological Nomenclature	Opinion
+643	False	1963-03-18 00:00:00		20	18-25	Bulletin of Zoological Nomenclature	Opinion
+643	True	1964-04-23 00:00:00		[21	92-93]	Bulletin of Zoological Nomenclature	Opinion
+644	False	1963-03-18 00:00:00		20	26-28	Bulletin of Zoological Nomenclature	Opinion
+645	False	1963-03-18 00:00:00		20	29-30	Bulletin of Zoological Nomenclature	Opinion
+646	False	1963-03-18 00:00:00		20	31-34	Bulletin of Zoological Nomenclature	Opinion
+647	False	1963-03-18 00:00:00		20	35-38	Bulletin of Zoological Nomenclature	Opinion
+648	False	1963-03-18 00:00:00		20	39-40	Bulletin of Zoological Nomenclature	Opinion
+649	False	1963-04-11 00:00:00		20	102-104	Bulletin of Zoological Nomenclature	Opinion
+650	False	1963-04-11 00:00:00		20	105-110	Bulletin of Zoological Nomenclature	Opinion
+651	False	1963-04-11 00:00:00		20	111-113	Bulletin of Zoological Nomenclature	Opinion
+652	False	1963-04-11 00:00:00		20	114-116	Bulletin of Zoological Nomenclature	Opinion
+653	False	1963-04-11 00:00:00		20	117-118	Bulletin of Zoological Nomenclature	Opinion
+654	False	1963-04-11 00:00:00		20	119-120	Bulletin of Zoological Nomenclature	Opinion
+655	False	1963-04-26 00:00:00		20	175-177	Bulletin of Zoological Nomenclature	Opinion
+656	False	1963-04-26 00:00:00		20	178-180	Bulletin of Zoological Nomenclature	Opinion
+657	False	1963-04-26 00:00:00		20	181-182	Bulletin of Zoological Nomenclature	Opinion
+658	False	1963-04-26 00:00:00		20	183-184	Bulletin of Zoological Nomenclature	Opinion
+659	False	1963-04-26 00:00:00		20	185-186	Bulletin of Zoological Nomenclature	Opinion
+660	False	1963-04-26 00:00:00		20	187-190	Bulletin of Zoological Nomenclature	Opinion
+661	False	1963-04-26 00:00:00		20	191-192	Bulletin of Zoological Nomenclature	Opinion
+662	False	1963-04-26 00:00:00		20	193-194	Bulletin of Zoological Nomenclature	Opinion
+663	False	1963-04-26 00:00:00		20	195-196	Bulletin of Zoological Nomenclature	Opinion
+664	False	1963-04-26 00:00:00		20	197-198	Bulletin of Zoological Nomenclature	Opinion
+665	False	1963-04-26 00:00:00		20	199-200	Bulletin of Zoological Nomenclature	Opinion
+666	False	1963-07-12 00:00:00		20	267-269	Bulletin of Zoological Nomenclature	Opinion
+667	False	1963-07-12 00:00:00		20	270-271	Bulletin of Zoological Nomenclature	Opinion
+668	False	1963-07-12 00:00:00		20	272-273	Bulletin of Zoological Nomenclature	Opinion
+669	False	1963-07-12 00:00:00		20	274-275	Bulletin of Zoological Nomenclature	Opinion
+670	False	1963-07-12 00:00:00		20	276-278	Bulletin of Zoological Nomenclature	Opinion
+671	False	1963-07-12 00:00:00		20	279-280	Bulletin of Zoological Nomenclature	Opinion
+672	False	1963-10-21 00:00:00		20	323-324	Bulletin of Zoological Nomenclature	Opinion
+673	False	1963-10-21 00:00:00		20	325-328	Bulletin of Zoological Nomenclature	Opinion
+674	False	1963-10-21 00:00:00		20	329-330	Bulletin of Zoological Nomenclature	Opinion
+675	False	1963-10-21 00:00:00		20	331-332	Bulletin of Zoological Nomenclature	Opinion
+676	False	1963-10-21 00:00:00		20	333-335	Bulletin of Zoological Nomenclature	Opinion
+677	False	1963-10-21 00:00:00		20	336-338	Bulletin of Zoological Nomenclature	Opinion
+678	False	1963-10-21 00:00:00		20	339-342	Bulletin of Zoological Nomenclature	Opinion
+679	False	1963-12-06 00:00:00		20	406-408	Bulletin of Zoological Nomenclature	Opinion
+680	False	1963-12-06 00:00:00		20	409-410	Bulletin of Zoological Nomenclature	Opinion
+681	False	1963-12-06 00:00:00		20	411-413	Bulletin of Zoological Nomenclature	Opinion
+682	False	1963-12-06 00:00:00		20	414-415	Bulletin of Zoological Nomenclature	Opinion
+683	False	1963-12-06 00:00:00		20	416-417	Bulletin of Zoological Nomenclature	Opinion
+684	False	1963-12-06 00:00:00		20	418-420	Bulletin of Zoological Nomenclature	Opinion
+685	False	1963-12-06 00:00:00		20	421-422	Bulletin of Zoological Nomenclature	Opinion
+686	False	1963-12-06 00:00:00		20	423	Bulletin of Zoological Nomenclature	Opinion
+687	False	1964-03-25 00:00:00		21	14-15	Bulletin of Zoological Nomenclature	Opinion
+688	False	1964-03-25 00:00:00		21	16-19	Bulletin of Zoological Nomenclature	Opinion
+689	False	1964-03-25 00:00:00		21	20-21	Bulletin of Zoological Nomenclature	Opinion
+690	False	1964-03-25 00:00:00		21	22-23	Bulletin of Zoological Nomenclature	Opinion
+691	False	1964-03-25 00:00:00		21	24-25	Bulletin of Zoological Nomenclature	Opinion
+692	False	1964-03-25 00:00:00		21	26-27	Bulletin of Zoological Nomenclature	Opinion
+693	False	1964-03-25 00:00:00		21	28-30	Bulletin of Zoological Nomenclature	Opinion
+694	False	1964-03-25 00:00:00		21	31-32	Bulletin of Zoological Nomenclature	Opinion
+695	False	1964-03-25 00:00:00		21	33-34	Bulletin of Zoological Nomenclature	Opinion
+696	False	1964-04-23 00:00:00		21	94-96	Bulletin of Zoological Nomenclature	Opinion
+697	False	1964-04-23 00:00:00		21	97-100	Bulletin of Zoological Nomenclature	Opinion
+698	False	1964-04-23 00:00:00		21	101-103	Bulletin of Zoological Nomenclature	Opinion
+699	False	1964-04-23 00:00:00		21	104-105	Bulletin of Zoological Nomenclature	Opinion
+700	False	1964-04-23 00:00:00		21	106-107	Bulletin of Zoological Nomenclature	Opinion
+701	False	1964-04-23 00:00:00		21	108-110	Bulletin of Zoological Nomenclature	Opinion
+702	False	1964-04-23 00:00:00		21	111-112	Bulletin of Zoological Nomenclature	Opinion
+703	False	1964-04-23 00:00:00		21	113-115	Bulletin of Zoological Nomenclature	Opinion
+704	False	1964-08-07 00:00:00		21	196-197	Bulletin of Zoological Nomenclature	Opinion
+705	False	1964-08-07 00:00:00		21	198-201	Bulletin of Zoological Nomenclature	Opinion
+706	False	1964-08-07 00:00:00		21	202-205	Bulletin of Zoological Nomenclature	Opinion
+707	False	1964-08-07 00:00:00		21	206-207	Bulletin of Zoological Nomenclature	Opinion
+708	False	1964-08-07 00:00:00		21	208-209	Bulletin of Zoological Nomenclature	Opinion
+709	False	1964-08-07 00:00:00		21	210-211	Bulletin of Zoological Nomenclature	Opinion
+710	False	1964-10-16 00:00:00		21	242-245	Bulletin of Zoological Nomenclature	Opinion
+711	False	1964-10-16 00:00:00		21	246-248	Bulletin of Zoological Nomenclature	Opinion
+712	False	1964-11-26 00:00:00		21	336-351	Bulletin of Zoological Nomenclature	Opinion
+713	False	1964-11-26 00:00:00		21	352-354	Bulletin of Zoological Nomenclature	Opinion
+714	False	1964-11-26 00:00:00		21	355-356	Bulletin of Zoological Nomenclature	Opinion
+715	False	1964-12-31 00:00:00		21	417-419	Bulletin of Zoological Nomenclature	Opinion
+716	False	1964-12-31 00:00:00		21	420-421	Bulletin of Zoological Nomenclature	Opinion
+717	False	1965-04-05 00:00:00		22	19-21	Bulletin of Zoological Nomenclature	Opinion
+718	False	1965-04-05 00:00:00		22	22-23	Bulletin of Zoological Nomenclature	Opinion
+719	False	1965-04-05 00:00:00		22	24-25	Bulletin of Zoological Nomenclature	Opinion
+720	False	1965-04-05 00:00:00		22	26-27	Bulletin of Zoological Nomenclature	Opinion
+721	False	1965-04-05 00:00:00		22	28-29	Bulletin of Zoological Nomenclature	Opinion
+722	False	1965-04-05 00:00:00		22	30-31	Bulletin of Zoological Nomenclature	Opinion
+723	False	1965-04-05 00:00:00		22	32-36	Bulletin of Zoological Nomenclature	Opinion
+724	False	1965-04-05 00:00:00		22	37-39	Bulletin of Zoological Nomenclature	Opinion
+725	False	1965-04-05 00:00:00		22	40-42	Bulletin of Zoological Nomenclature	Opinion
+726	False	1965-04-05 00:00:00		22	43-44	Bulletin of Zoological Nomenclature	Opinion
+727	False	1965-04-05 00:00:00		22	45-46	Bulletin of Zoological Nomenclature	Opinion
+728	False	1965-04-05 00:00:00		22	47-48	Bulletin of Zoological Nomenclature	Opinion
+729	False	1965-05-18 00:00:00		22	82-83	Bulletin of Zoological Nomenclature	Opinion
+730	False	1965-05-18 00:00:00		22	84-85	Bulletin of Zoological Nomenclature	Opinion
+731	False	1965-05-18 00:00:00		22	86-87	Bulletin of Zoological Nomenclature	Opinion
+732	False	1965-05-18 00:00:00		22	88-89	Bulletin of Zoological Nomenclature	Opinion
+733	False	1965-05-18 00:00:00		22	90-91	Bulletin of Zoological Nomenclature	Opinion
+734	False	1965-05-18 00:00:00		22	92-93	Bulletin of Zoological Nomenclature	Opinion
+735	False	1965-05-18 00:00:00		22	94-99	Bulletin of Zoological Nomenclature	Opinion
+736	False	1965-08-13 00:00:00		22	162-163	Bulletin of Zoological Nomenclature	Opinion
+737	False	1965-08-13 00:00:00		22	164-166	Bulletin of Zoological Nomenclature	Opinion
+738	False	1965-08-13 00:00:00		22	167-168	Bulletin of Zoological Nomenclature	Opinion
+739	False	1965-08-13 00:00:00		22	169-170	Bulletin of Zoological Nomenclature	Opinion
+740	False	1965-08-13 00:00:00		22	171-172	Bulletin of Zoological Nomenclature	Opinion
+741	False	1965-08-13 00:00:00		22	173-175	Bulletin of Zoological Nomenclature	Opinion
+742	False	1965-08-13 00:00:00		22	176-177	Bulletin of Zoological Nomenclature	Opinion
+743	False	1965-08-13 00:00:00		22	178-179	Bulletin of Zoological Nomenclature	Opinion
+744	False	1965-08-13 00:00:00		22	180-181	Bulletin of Zoological Nomenclature	Opinion
+745	False	1965-08-13 00:00:00		22	182-183	Bulletin of Zoological Nomenclature	Opinion
+746	False	1965-08-13 00:00:00		22	184-185	Bulletin of Zoological Nomenclature	Opinion
+747	False	1965-08-13 00:00:00		22	186-187	Bulletin of Zoological Nomenclature	Opinion
+748	False	1965-08-13 00:00:00		22	188-189	Bulletin of Zoological Nomenclature	Opinion
+749	False	1965-11-02 00:00:00		22	218-219	Bulletin of Zoological Nomenclature	Opinion
+750	False	1965-11-02 00:00:00		22	220-221	Bulletin of Zoological Nomenclature	Opinion
+751	False	1965-11-02 00:00:00		22	222-223	Bulletin of Zoological Nomenclature	Opinion
+752	False	1965-11-02 00:00:00		22	224-225	Bulletin of Zoological Nomenclature	Opinion
+753	False	1965-11-02 00:00:00		22	226-227	Bulletin of Zoological Nomenclature	Opinion
+754	False	1965-11-02 00:00:00		22	228-229	Bulletin of Zoological Nomenclature	Opinion
+755	False	1966-01-31 00:00:00		22	282-283	Bulletin of Zoological Nomenclature	Opinion
+756	False	1966-01-31 00:00:00		22	284-285	Bulletin of Zoological Nomenclature	Opinion
+757	False	1966-01-31 00:00:00		22	286-287	Bulletin of Zoological Nomenclature	Opinion
+758	False	1966-01-31 00:00:00		22	288-289	Bulletin of Zoological Nomenclature	Opinion
+759	False	1966-01-31 00:00:00		22	290-291	Bulletin of Zoological Nomenclature	Opinion
+760	False	1966-01-31 00:00:00		22	292-295	Bulletin of Zoological Nomenclature	Opinion
+761	False	1966-04-29 00:00:00		23	13-14	Bulletin of Zoological Nomenclature	Opinion
+762	False	1966-04-29 00:00:00		23	15-18	Bulletin of Zoological Nomenclature	Opinion
+763	False	1966-04-29 00:00:00		23	19-21	Bulletin of Zoological Nomenclature	Opinion
+764	False	1966-04-29 00:00:00		23	22-24	Bulletin of Zoological Nomenclature	Opinion
+765	False	1966-04-29 00:00:00		23	25-26	Bulletin of Zoological Nomenclature	Opinion
+766	False	1966-04-29 00:00:00		23	27-28	Bulletin of Zoological Nomenclature	Opinion
+767	False	1966-04-29 00:00:00		23	29-30	Bulletin of Zoological Nomenclature	Opinion
+768	False	1966-04-29 00:00:00		23	31-32	Bulletin of Zoological Nomenclature	Opinion
+769	False	1966-04-29 00:00:00		23	33-34	Bulletin of Zoological Nomenclature	Opinion
+770	False	1966-04-29 00:00:00		23	35-37	Bulletin of Zoological Nomenclature	Opinion
+771	False	1966-04-29 00:00:00		23	38-40	Bulletin of Zoological Nomenclature	Opinion
+772	False	1966-04-29 00:00:00		23	41-45	Bulletin of Zoological Nomenclature	Opinion
+773	False	1966-07-19 00:00:00		23	84-86	Bulletin of Zoological Nomenclature	Opinion
+774	False	1966-07-19 00:00:00		23	87-90	Bulletin of Zoological Nomenclature	Opinion
+775	False	1966-07-19 00:00:00		23	91-92	Bulletin of Zoological Nomenclature	Opinion
+776	False	1966-07-19 00:00:00		23	93-94	Bulletin of Zoological Nomenclature	Opinion
+777	False	1966-07-19 00:00:00		23	95-97	Bulletin of Zoological Nomenclature	Opinion
+778	False	1966-07-19 00:00:00		23	98-99	Bulletin of Zoological Nomenclature	Opinion
+779	False	1966-07-19 00:00:00		23	100-101	Bulletin of Zoological Nomenclature	Opinion
+780	False	1966-07-19 00:00:00		23	102-103	Bulletin of Zoological Nomenclature	Opinion
+781	False	1966-07-19 00:00:00		23	104-105	Bulletin of Zoological Nomenclature	Opinion
+782	False	1966-07-19 00:00:00		23	106-107	Bulletin of Zoological Nomenclature	Opinion
+783	False	1966-07-19 00:00:00		23	108-109	Bulletin of Zoological Nomenclature	Opinion
+784	False	1966-12-20 00:00:00		23	201-203	Bulletin of Zoological Nomenclature	Opinion
+785	False	1966-12-20 00:00:00		23	204-206	Bulletin of Zoological Nomenclature	Opinion
+786	False	1966-12-20 00:00:00		23	207-208	Bulletin of Zoological Nomenclature	Opinion
+787	False	1966-12-20 00:00:00		23	209-210	Bulletin of Zoological Nomenclature	Opinion
+788	False	1966-12-20 00:00:00		23	211-212	Bulletin of Zoological Nomenclature	Opinion
+789	False	1966-12-20 00:00:00		23	213-220	Bulletin of Zoological Nomenclature	Opinion
+790	False	1966-12-20 00:00:00		23	221-222	Bulletin of Zoological Nomenclature	Opinion
+791	False	1966-12-20 00:00:00		23	223-224	Bulletin of Zoological Nomenclature	Opinion
+792	False	1966-12-20 00:00:00		23	225-226	Bulletin of Zoological Nomenclature	Opinion
+793	False	1966-12-20 00:00:00		23	227-228	Bulletin of Zoological Nomenclature	Opinion
+794	False	1966-12-20 00:00:00		23	229-231	Bulletin of Zoological Nomenclature	Opinion
+795	False	1966-12-30 00:00:00		23	269-270	Bulletin of Zoological Nomenclature	Opinion
+796	False	1966-12-30 00:00:00		23	271-272	Bulletin of Zoological Nomenclature	Opinion
+797	False	1966-12-30 00:00:00		23	273-274	Bulletin of Zoological Nomenclature	Opinion
+798	False	1966-12-30 00:00:00		23	275-276	Bulletin of Zoological Nomenclature	Opinion
+799	False	1966-12-30 00:00:00		23	277-278	Bulletin of Zoological Nomenclature	Opinion
+800	False	1967-03-06 00:00:00		24	10-12	Bulletin of Zoological Nomenclature	Opinion
+801	False	1967-03-06 00:00:00		24	13	Bulletin of Zoological Nomenclature	Opinion
+802	False	1967-03-06 00:00:00		24	14-15	Bulletin of Zoological Nomenclature	Opinion
+803	False	1967-03-06 00:00:00		24	16-17	Bulletin of Zoological Nomenclature	Opinion
+804	False	1967-03-06 00:00:00		24	18-19	Bulletin of Zoological Nomenclature	Opinion
+805	False	1967-03-06 00:00:00		24	20-21	Bulletin of Zoological Nomenclature	Opinion
+806	False	1967-03-06 00:00:00		24	22-23	Bulletin of Zoological Nomenclature	Opinion
+807	False	1967-04-27 00:00:00		24	81-82	Bulletin of Zoological Nomenclature	Opinion
+808	False	1967-04-27 00:00:00		24	83-84	Bulletin of Zoological Nomenclature	Opinion
+809	False	1967-04-27 00:00:00		24	85-86	Bulletin of Zoological Nomenclature	Opinion
+810	False	1967-04-27 00:00:00		24	87-88	Bulletin of Zoological Nomenclature	Opinion
+811	False	1967-04-27 00:00:00		24	89-90	Bulletin of Zoological Nomenclature	Opinion
+812	False	1967-04-27 00:00:00		24	91-92	Bulletin of Zoological Nomenclature	Opinion
+813	False	1967-06-30 00:00:00		24	143-144	Bulletin of Zoological Nomenclature	Opinion
+814	False	1967-06-30 00:00:00		24	145-146	Bulletin of Zoological Nomenclature	Opinion
+815	False	1967-06-30 00:00:00		24	147-148	Bulletin of Zoological Nomenclature	Opinion
+816	False	1967-06-30 00:00:00		24	149-150	Bulletin of Zoological Nomenclature	Opinion
+817	False	1967-06-30 00:00:00		24	151-152	Bulletin of Zoological Nomenclature	Opinion
+818	False	1967-06-30 00:00:00		24	153-154	Bulletin of Zoological Nomenclature	Opinion
+819	False	1967-09-20 00:00:00		24	210-211	Bulletin of Zoological Nomenclature	Opinion
+820	False	1967-09-20 00:00:00		24	212-213	Bulletin of Zoological Nomenclature	Opinion
+821	False	1967-09-20 00:00:00		24	214-215	Bulletin of Zoological Nomenclature	Opinion
+822	False	1967-09-20 00:00:00		24	216-217	Bulletin of Zoological Nomenclature	Opinion
+823	False	1967-09-20 00:00:00		24	218-219	Bulletin of Zoological Nomenclature	Opinion
+824	False	1967-09-20 00:00:00		24	220-221	Bulletin of Zoological Nomenclature	Opinion
+825	False	1967-09-20 00:00:00		24	222-223	Bulletin of Zoological Nomenclature	Opinion
+826	False	1967-09-20 00:00:00		24	224-225	Bulletin of Zoological Nomenclature	Opinion
+827	False	1967-09-20 00:00:00		24	226-227	Bulletin of Zoological Nomenclature	Opinion
+828	False	1967-09-20 00:00:00		24	228-229	Bulletin of Zoological Nomenclature	Opinion
+829	False	1967-12-07 00:00:00		24	278-279	Bulletin of Zoological Nomenclature	Opinion
+830	False	1967-12-07 00:00:00		24	280-281	Bulletin of Zoological Nomenclature	Opinion
+831	False	1967-12-07 00:00:00		24	282-283	Bulletin of Zoological Nomenclature	Opinion
+832	False	1967-12-07 00:00:00		24	284-285	Bulletin of Zoological Nomenclature	Opinion
+833	False	1967-12-07 00:00:00		24	286-287	Bulletin of Zoological Nomenclature	Opinion
+834	False	1967-12-07 00:00:00		24	288-289	Bulletin of Zoological Nomenclature	Opinion
+835	False	1968-01-18 00:00:00		24	329-330	Bulletin of Zoological Nomenclature	Opinion
+836	False	1968-01-18 00:00:00		24	331-332	Bulletin of Zoological Nomenclature	Opinion
+837	False	1968-01-18 00:00:00		24	333-334	Bulletin of Zoological Nomenclature	Opinion
+838	False	1968-01-18 00:00:00		24	335-336	Bulletin of Zoological Nomenclature	Opinion
+839	False	1968-01-18 00:00:00		24	337-338	Bulletin of Zoological Nomenclature	Opinion
+840	False	1968-01-18 00:00:00		24	339-340	Bulletin of Zoological Nomenclature	Opinion
+841	False	1968-01-18 00:00:00		24	341-343	Bulletin of Zoological Nomenclature	Opinion
+842	False	1968-05-24 00:00:00		25	6-7	Bulletin of Zoological Nomenclature	Opinion
+843	False	1968-05-24 00:00:00		25	8-9	Bulletin of Zoological Nomenclature	Opinion
+844	False	1968-05-24 00:00:00		25	10-11	Bulletin of Zoological Nomenclature	Opinion
+845	False	1968-05-24 00:00:00		25	12-13	Bulletin of Zoological Nomenclature	Opinion
+846	False	1968-05-24 00:00:00		25	14-15	Bulletin of Zoological Nomenclature	Opinion
+847	False	1968-05-24 00:00:00		25	16-17	Bulletin of Zoological Nomenclature	Opinion
+848	False	1968-05-24 00:00:00		25	18-19	Bulletin of Zoological Nomenclature	Opinion
+849	False	1968-05-24 00:00:00		25	20-21	Bulletin of Zoological Nomenclature	Opinion
+850	False	1968-05-24 00:00:00		25	22-23	Bulletin of Zoological Nomenclature	Opinion
+851	False	1968-05-24 00:00:00		25	24-25	Bulletin of Zoological Nomenclature	Opinion
+852	False	1968-09-27 00:00:00		25	74-79	Bulletin of Zoological Nomenclature	Opinion
+853	False	1968-09-27 00:00:00		25	80-81	Bulletin of Zoological Nomenclature	Opinion
+854	False	1968-09-27 00:00:00		25	82-83	Bulletin of Zoological Nomenclature	Opinion
+855	False	1968-09-27 00:00:00		25	84-85	Bulletin of Zoological Nomenclature	Opinion
+856	False	1968-09-27 00:00:00		25	86-87	Bulletin of Zoological Nomenclature	Opinion
+857	False	1968-09-27 00:00:00		25	88-89	Bulletin of Zoological Nomenclature	Opinion
+858	False	1968-09-27 00:00:00		25	90-91	Bulletin of Zoological Nomenclature	Opinion
+859	False	1968-09-27 00:00:00		25	92-93	Bulletin of Zoological Nomenclature	Opinion
+860	False	1968-09-27 00:00:00		25	94-95	Bulletin of Zoological Nomenclature	Opinion
+861	False	1968-09-27 00:00:00		25	96-97	Bulletin of Zoological Nomenclature	Opinion
+862	False	1968-09-27 00:00:00		25	98-99	Bulletin of Zoological Nomenclature	Opinion
+863	False	1969-01-17 00:00:00		25	135-137	Bulletin of Zoological Nomenclature	Opinion
+864	False	1969-01-17 00:00:00		25	138-147	Bulletin of Zoological Nomenclature	Opinion
+865	False	1969-01-17 00:00:00		25	148-149	Bulletin of Zoological Nomenclature	Opinion
+866	False	1969-01-17 00:00:00		25	150-151	Bulletin of Zoological Nomenclature	Opinion
+867	False	1969-01-17 00:00:00		25	152-153	Bulletin of Zoological Nomenclature	Opinion
+868	False	1969-01-17 00:00:00		25	154-155	Bulletin of Zoological Nomenclature	Opinion
+869	False	1969-02-28 00:00:00		25	210-211	Bulletin of Zoological Nomenclature	Opinion
+870	False	1969-02-28 00:00:00		25	212-213	Bulletin of Zoological Nomenclature	Opinion
+871	False	1969-02-28 00:00:00		25	214-215	Bulletin of Zoological Nomenclature	Opinion
+872	False	1969-02-28 00:00:00		25	216-217	Bulletin of Zoological Nomenclature	Opinion
+873	False	1969-02-28 00:00:00		25	218-219	Bulletin of Zoological Nomenclature	Opinion
+874	False	1969-05-12 00:00:00		26	10-11	Bulletin of Zoological Nomenclature	Opinion
+875	False	1969-05-12 00:00:00		26	12-13	Bulletin of Zoological Nomenclature	Opinion
+876	False	1969-05-12 00:00:00		26	14-15	Bulletin of Zoological Nomenclature	Opinion
+877	False	1969-05-12 00:00:00		26	16-17	Bulletin of Zoological Nomenclature	Opinion
+878	False	1969-05-12 00:00:00		26	18-19	Bulletin of Zoological Nomenclature	Opinion
+879	False	1969-05-12 00:00:00		26	20-21	Bulletin of Zoological Nomenclature	Opinion
+880	False	1969-05-12 00:00:00		26	22-23	Bulletin of Zoological Nomenclature	Opinion
+881	False	1969-05-12 00:00:00		26	24-25	Bulletin of Zoological Nomenclature	Opinion
+882	False	1969-05-12 00:00:00		26	26-27	Bulletin of Zoological Nomenclature	Opinion
+883	False	1969-05-12 00:00:00		26	28-31	Bulletin of Zoological Nomenclature	Opinion
+884	False	1969-10-24 00:00:00		26	123-124	Bulletin of Zoological Nomenclature	Opinion
+885	False	1969-10-24 00:00:00		26	125-127	Bulletin of Zoological Nomenclature	Opinion
+886	False	1969-10-24 00:00:00		26	128-132	Bulletin of Zoological Nomenclature	Opinion
+887	False	1969-10-24 00:00:00		26	133-135	Bulletin of Zoological Nomenclature	Opinion
+888	False	1969-10-24 00:00:00		26	136-138	Bulletin of Zoological Nomenclature	Opinion
+889	False	1969-10-24 00:00:00		26	139-140	Bulletin of Zoological Nomenclature	Opinion
+890	False	1969-10-24 00:00:00		26	141	Bulletin of Zoological Nomenclature	Opinion
+891	False	1969-10-24 00:00:00		26	142-143	Bulletin of Zoological Nomenclature	Opinion
+892	False	1969-10-24 00:00:00		26	144-145	Bulletin of Zoological Nomenclature	Opinion
+893	False	1970-04-07 00:00:00		26	187-191	Bulletin of Zoological Nomenclature	Opinion
+894	False	1970-04-07 00:00:00		26	192-193	Bulletin of Zoological Nomenclature	Opinion
+895	False	1970-04-07 00:00:00		26	194-195	Bulletin of Zoological Nomenclature	Opinion
+896	False	1970-04-07 00:00:00		26	196-199	Bulletin of Zoological Nomenclature	Opinion
+897	False	1970-04-07 00:00:00		26	200-202	Bulletin of Zoological Nomenclature	Opinion
+898	False	1970-04-07 00:00:00		26	203-209	Bulletin of Zoological Nomenclature	Opinion
+899	False	1970-04-07 00:00:00		26	210-212	Bulletin of Zoological Nomenclature	Opinion
+900	False	1970-04-07 00:00:00		26	213-216	Bulletin of Zoological Nomenclature	Opinion
+901	False	1970-04-07 00:00:00		26	217-220	Bulletin of Zoological Nomenclature	Opinion
+902	False	1970-04-07 00:00:00		26	221-222	Bulletin of Zoological Nomenclature	Opinion
+903	False	1970-04-07 00:00:00		26	223-224	Bulletin of Zoological Nomenclature	Opinion
+904	False	1970-04-07 00:00:00		26	225-226	Bulletin of Zoological Nomenclature	Opinion
+905	False	1970-06-05 00:00:00		27	6-7	Bulletin of Zoological Nomenclature	Opinion
+906	False	1970-06-05 00:00:00		27	8-9	Bulletin of Zoological Nomenclature	Opinion
+907	False	1970-06-05 00:00:00		27	10-11	Bulletin of Zoological Nomenclature	Opinion
+908	False	1970-06-05 00:00:00		27	12-13	Bulletin of Zoological Nomenclature	Opinion
+909	False	1970-06-05 00:00:00		27	14-15	Bulletin of Zoological Nomenclature	Opinion
+910	False	1970-06-05 00:00:00		27	16-19	Bulletin of Zoological Nomenclature	Opinion
+911	False	1970-06-05 00:00:00		27	20-26	Bulletin of Zoological Nomenclature	Opinion
+912	False	1970-06-05 00:00:00		27	27-28	Bulletin of Zoological Nomenclature	Opinion
+913	False	1970-06-05 00:00:00		27	29-30	Bulletin of Zoological Nomenclature	Opinion
+914	False	1970-06-05 00:00:00		27	31-32	Bulletin of Zoological Nomenclature	Opinion
+915	False	1970-06-05 00:00:00		27	33-38	Bulletin of Zoological Nomenclature	Opinion
+916	False	1970-06-05 00:00:00		27	39-40	Bulletin of Zoological Nomenclature	Opinion
+917	False	1970-08-10 00:00:00		27	70-72	Bulletin of Zoological Nomenclature	Opinion
+918	False	1970-08-10 00:00:00		27	73-74	Bulletin of Zoological Nomenclature	Opinion
+919	False	1970-08-10 00:00:00		27	75-76	Bulletin of Zoological Nomenclature	Opinion
+920	False	1970-08-10 00:00:00		27	77-78	Bulletin of Zoological Nomenclature	Opinion
+921	False	1970-08-10 00:00:00		27	79-80	Bulletin of Zoological Nomenclature	Opinion
+922	False	1970-08-10 00:00:00		27	81-82	Bulletin of Zoological Nomenclature	Opinion
+923	False	1970-08-10 00:00:00		27	83-84	Bulletin of Zoological Nomenclature	Opinion
+924	False	1970-08-10 00:00:00		27	85-86	Bulletin of Zoological Nomenclature	Opinion
+925	False	1970-08-10 00:00:00		27	87-88	Bulletin of Zoological Nomenclature	Opinion
+926	False	1970-08-10 00:00:00		27	89-90	Bulletin of Zoological Nomenclature	Opinion
+927	False	1970-08-10 00:00:00		27	91-92	Bulletin of Zoological Nomenclature	Opinion
+928	False	1970-08-10 00:00:00		27	93-94	Bulletin of Zoological Nomenclature	Opinion
+929	False	1970-08-10 00:00:00		27	95-96	Bulletin of Zoological Nomenclature	Opinion
+930	False	1970-08-10 00:00:00		27	97-99	Bulletin of Zoological Nomenclature	Opinion
+931	False	1970-08-10 00:00:00		27	100	Bulletin of Zoological Nomenclature	Opinion
+932	False	1970-12-23 00:00:00		27	164-166	Bulletin of Zoological Nomenclature	Opinion
+933	False	1970-12-23 00:00:00		27	167-168	Bulletin of Zoological Nomenclature	Opinion
+934	False	1970-12-23 00:00:00		27	169-170	Bulletin of Zoological Nomenclature	Opinion
+935	False	1970-12-23 00:00:00		27	171-172	Bulletin of Zoological Nomenclature	Opinion
+936	False	1970-12-23 00:00:00		27	173--174	Bulletin of Zoological Nomenclature	Opinion
+937	False	1970-12-23 00:00:00		27	175	Bulletin of Zoological Nomenclature	Opinion
+938	False	1970-12-23 00:00:00		27	176-177	Bulletin of Zoological Nomenclature	Opinion
+939	False	1970-12-23 00:00:00		27	178-179	Bulletin of Zoological Nomenclature	Opinion
+940	False	1971-03-29 00:00:00		27	214-215	Bulletin of Zoological Nomenclature	Opinion
+941	False	1971-03-29 00:00:00		27	216-217	Bulletin of Zoological Nomenclature	Opinion
+942	False	1971-03-29 00:00:00		27	218-219	Bulletin of Zoological Nomenclature	Opinion
+943	False	1971-03-29 00:00:00		27	220-221	Bulletin of Zoological Nomenclature	Opinion
+944	False	1971-03-29 00:00:00		27	222-223	Bulletin of Zoological Nomenclature	Opinion
+945	False	1971-03-29 00:00:00		27	224-225	Bulletin of Zoological Nomenclature	Opinion
+946	False	1971-03-29 00:00:00		27	226	Bulletin of Zoological Nomenclature	Opinion
+947	False	1971-03-29 00:00:00		27	227-228	Bulletin of Zoological Nomenclature	Opinion
+948	False	1971-03-29 00:00:00		27	229-230	Bulletin of Zoological Nomenclature	Opinion
+949	False	1971-03-29 00:00:00		27	231-233	Bulletin of Zoological Nomenclature	Opinion
+950	False	1971-08-10 00:00:00		28	16-17	Bulletin of Zoological Nomenclature	Opinion
+951	False	1971-08-10 00:00:00		28	18-19	Bulletin of Zoological Nomenclature	Opinion
+952	False	1971-08-10 00:00:00		28	20-21	Bulletin of Zoological Nomenclature	Opinion
+953	False	1971-08-10 00:00:00		28	22-23	Bulletin of Zoological Nomenclature	Opinion
+954	False	1971-08-10 00:00:00		28	24-25	Bulletin of Zoological Nomenclature	Opinion
+955	False	1971-08-10 00:00:00		28	26-27	Bulletin of Zoological Nomenclature	Opinion
+956	False	1971-08-10 00:00:00		28	28-29	Bulletin of Zoological Nomenclature	Opinion
+957	False	1971-08-10 00:00:00		28	30-31	Bulletin of Zoological Nomenclature	Opinion
+958	False	1971-08-10 00:00:00		28	32-33	Bulletin of Zoological Nomenclature	Opinion
+959	False	1971-08-10 00:00:00		28	34-35	Bulletin of Zoological Nomenclature	Opinion
+960	False	1971-08-10 00:00:00		28	36-38	Bulletin of Zoological Nomenclature	Opinion
+961	False	1971-08-10 00:00:00		28	39-40	Bulletin of Zoological Nomenclature	Opinion
+962	False	1971-08-10 00:00:00		28	41-43	Bulletin of Zoological Nomenclature	Opinion
+963	False	1971-08-10 00:00:00		28	44-45	Bulletin of Zoological Nomenclature	Opinion
+964	False	1971-08-10 00:00:00		28	46-49	Bulletin of Zoological Nomenclature	Opinion
+965	False	1971-12-08 00:00:00		28	79-80	Bulletin of Zoological Nomenclature	Opinion
+966	False	1971-12-08 00:00:00		28	81-82	Bulletin of Zoological Nomenclature	Opinion
+967	False	1971-12-08 00:00:00		28	83-84	Bulletin of Zoological Nomenclature	Opinion
+968	False	1971-12-08 00:00:00		28	85-87	Bulletin of Zoological Nomenclature	Opinion
+969	False	1971-12-08 00:00:00		28	88-91	Bulletin of Zoological Nomenclature	Opinion
+970	False	1971-12-31 00:00:00		28	143-144	Bulletin of Zoological Nomenclature	Opinion
+971	False	1971-12-31 00:00:00		28	145-146	Bulletin of Zoological Nomenclature	Opinion
+972	False	1971-12-31 00:00:00		28	147-148	Bulletin of Zoological Nomenclature	Opinion
+973	False	1971-12-31 00:00:00		28	149-150	Bulletin of Zoological Nomenclature	Opinion
+974	False	1971-12-31 00:00:00		28	151-153	Bulletin of Zoological Nomenclature	Opinion
+975	False	1971-12-31 00:00:00		28	154-155	Bulletin of Zoological Nomenclature	Opinion
+976	False	1972-05-01 00:00:00		29	5-6	Bulletin of Zoological Nomenclature	Opinion
+977	False	1972-05-01 00:00:00		29	7-8	Bulletin of Zoological Nomenclature	Opinion
+978	False	1972-05-01 00:00:00		29	9-10	Bulletin of Zoological Nomenclature	Opinion
+979	False	1972-05-01 00:00:00		29	11-12	Bulletin of Zoological Nomenclature	Opinion
+980	False	1972-05-01 00:00:00		29	13-14	Bulletin of Zoological Nomenclature	Opinion
+981	False	1972-05-01 00:00:00		29	15-18	Bulletin of Zoological Nomenclature	Opinion
+982	False	1972-05-01 00:00:00		29	19-24	Bulletin of Zoological Nomenclature	Opinion
+983	False	1972-11-30 00:00:00		29	113-114	Bulletin of Zoological Nomenclature	Opinion
+984	False	1972-11-30 00:00:00		29	115-116	Bulletin of Zoological Nomenclature	Opinion
+985	False	1972-11-30 00:00:00		29	117-118	Bulletin of Zoological Nomenclature	Opinion
+986	False	1972-11-30 00:00:00		29	119-120	Bulletin of Zoological Nomenclature	Opinion
+987	False	1972-11-30 00:00:00		29	121-122	Bulletin of Zoological Nomenclature	Opinion
+988	False	1972-11-30 00:00:00		29	123-124	Bulletin of Zoological Nomenclature	Opinion
+989	False	1972-11-30 00:00:00		29	125-126	Bulletin of Zoological Nomenclature	Opinion
+990	False	1973-07-06 00:00:00		30	9	Bulletin of Zoological Nomenclature	Opinion
+991	False	1973-07-06 00:00:00		30	13-14	Bulletin of Zoological Nomenclature	Opinion
+992	False	1973-07-06 00:00:00		30	15-16	Bulletin of Zoological Nomenclature	Opinion
+993	False	1973-07-06 00:00:00		30	17-18	Bulletin of Zoological Nomenclature	Opinion
+994	False	1973-07-06 00:00:00		30	19-20	Bulletin of Zoological Nomenclature	Opinion
+995	False	1973-07-06 00:00:00		30	21-22	Bulletin of Zoological Nomenclature	Opinion
+996	False	1973-07-06 00:00:00		30	23-24	Bulletin of Zoological Nomenclature	Opinion
+997	False	1973-07-06 00:00:00		30	25-26	Bulletin of Zoological Nomenclature	Opinion
+998	False	1973-10-10 00:00:00		30	77-79	Bulletin of Zoological Nomenclature	Opinion
+999	False	1973-10-10 00:00:00		30	80-81	Bulletin of Zoological Nomenclature	Opinion
+1000	False	1973-10-10 00:00:00		30	82-83	Bulletin of Zoological Nomenclature	Opinion
+1001	False	1973-10-10 00:00:00		30	84-85	Bulletin of Zoological Nomenclature	Opinion
+1002	False	1973-10-10 00:00:00		30	86-87	Bulletin of Zoological Nomenclature	Opinion
+1003	False	1974-06-28 00:00:00		30	142-146	Bulletin of Zoological Nomenclature	Opinion
+1004	False	1974-06-28 00:00:00		30	147-150	Bulletin of Zoological Nomenclature	Opinion
+1005	False	1974-06-28 00:00:00		30	151-152	Bulletin of Zoological Nomenclature	Opinion
+1006	False	1974-06-28 00:00:00		30	153-154	Bulletin of Zoological Nomenclature	Opinion
+1007	False	1974-06-28 00:00:00		30	155-156	Bulletin of Zoological Nomenclature	Opinion
+1008	False	1974-06-28 00:00:00		30	157-158	Bulletin of Zoological Nomenclature	Opinion
+1009	False	1974-06-28 00:00:00		30	159-163	Bulletin of Zoological Nomenclature	Opinion
+1010	False	1974-06-28 00:00:00		30	164-166	Bulletin of Zoological Nomenclature	Opinion
+1011	False	1974-06-28 00:00:00		30	167-168	Bulletin of Zoological Nomenclature	Opinion
+1012	False	1974-06-28 00:00:00		30	169-170	Bulletin of Zoological Nomenclature	Opinion
+1013	False	1974-06-28 00:00:00		30	171-172	Bulletin of Zoological Nomenclature	Opinion
+1014	False	1974-07-31 00:00:00		31	13-15	Bulletin of Zoological Nomenclature	Opinion
+1015	False	1974-07-31 00:00:00		31	16-18	Bulletin of Zoological Nomenclature	Opinion
+1016	False	1974-07-31 00:00:00		31	19-21	Bulletin of Zoological Nomenclature	Opinion
+1017	False	1974-07-31 00:00:00		31	22-23	Bulletin of Zoological Nomenclature	Opinion
+1018	False	1974-07-31 00:00:00		31	24-26	Bulletin of Zoological Nomenclature	Opinion
+1019	False	1974-09-20 00:00:00		31	117-120	Bulletin of Zoological Nomenclature	Opinion
+1020	False	1974-09-20 00:00:00		31	121-122	Bulletin of Zoological Nomenclature	Opinion
+1021	False	1974-09-20 00:00:00		31	123-124	Bulletin of Zoological Nomenclature	Opinion
+1022	False	1974-09-20 00:00:00		31	125-126	Bulletin of Zoological Nomenclature	Opinion
+1023	False	1974-09-20 00:00:00		31	127-129	Bulletin of Zoological Nomenclature	Opinion
+1024	False	1974-09-20 00:00:00		31	130-132	Bulletin of Zoological Nomenclature	Opinion
+1025	False	1974-09-20 00:00:00		31	133-134	Bulletin of Zoological Nomenclature	Opinion
+1026	False	1974-12-31 00:00:00		31	182-183	Bulletin of Zoological Nomenclature	Opinion
+1027	False	1974-12-31 00:00:00		31	184-185	Bulletin of Zoological Nomenclature	Opinion
+1028	False	1974-12-31 00:00:00		31	186-187	Bulletin of Zoological Nomenclature	Opinion
+1029	False	1974-12-31 00:00:00		31	188-189	Bulletin of Zoological Nomenclature	Opinion
+1030	False	1974-12-31 00:00:00		31	190-191	Bulletin of Zoological Nomenclature	Opinion
+1031	False	1974-12-31 00:00:00		31	192-193	Bulletin of Zoological Nomenclature	Opinion
+1032	False	1974-12-31 00:00:00		31	194-195	Bulletin of Zoological Nomenclature	Opinion
+1033	False	1975-03-27 00:00:00		32	31-32	Bulletin of Zoological Nomenclature	Opinion
+1034	False	1975-03-27 00:00:00		32	33-35	Bulletin of Zoological Nomenclature	Opinion
+1035	False	1975-03-27 00:00:00		32	36-37	Bulletin of Zoological Nomenclature	Opinion
+1036	False	1975-06-27 00:00:00		32	101-102	Bulletin of Zoological Nomenclature	Opinion
+1037	False	1975-06-27 00:00:00		32	103-104	Bulletin of Zoological Nomenclature	Opinion
+1038	False	1975-06-27 00:00:00		32	105-109	Bulletin of Zoological Nomenclature	Opinion
+1039	False	1975-09-22 00:00:00		32	136-138	Bulletin of Zoological Nomenclature	Opinion
+1040	False	1975-09-22 00:00:00		32	139-140	Bulletin of Zoological Nomenclature	Opinion
+1041	False	1976-01-30 00:00:00		32	210-211	Bulletin of Zoological Nomenclature	Opinion
+1042	False	1976-01-30 00:00:00		32	212-213	Bulletin of Zoological Nomenclature	Opinion
+1043	False	1976-01-30 00:00:00		32	214-215	Bulletin of Zoological Nomenclature	Opinion
+1044	False	1976-01-30 00:00:00		32	216-217	Bulletin of Zoological Nomenclature	Opinion
+1045	False	1976-01-30 00:00:00		32	218-221	Bulletin of Zoological Nomenclature	Opinion
+1046	False	1976-01-30 00:00:00		32	222-229	Bulletin of Zoological Nomenclature	Opinion
+1047	False	1976-01-30 00:00:00		32	230-232	Bulletin of Zoological Nomenclature	Opinion
+1048	False	1976-01-30 00:00:00		32	233-234	Bulletin of Zoological Nomenclature	Opinion
+1049	False	1976-01-30 00:00:00		32	235-237	Bulletin of Zoological Nomenclature	Opinion
+1050	False	1976-01-30 00:00:00		32	238-239	Bulletin of Zoological Nomenclature	Opinion
+1051	False	1976-01-30 00:00:00		32	240-241	Bulletin of Zoological Nomenclature	Opinion
+1052	False	1976-01-30 00:00:00		32	242-243	Bulletin of Zoological Nomenclature	Opinion
+1053	False	1976-01-30 00:00:00		32	244-245	Bulletin of Zoological Nomenclature	Opinion
+1054	False	1976-01-30 00:00:00		32	246-247	Bulletin of Zoological Nomenclature	Opinion
+1055	False	1976-06-26 00:00:00		33	11-15	Bulletin of Zoological Nomenclature	Opinion
+1056	False	1976-06-26 00:00:00		33	16-18	Bulletin of Zoological Nomenclature	Opinion
+1057	False	1976-06-26 00:00:00		33	19-21	Bulletin of Zoological Nomenclature	Opinion
+1058	False	1976-06-26 00:00:00		33	22-23	Bulletin of Zoological Nomenclature	Opinion
+1059	False	1976-06-26 00:00:00		33	24-26	Bulletin of Zoological Nomenclature	Opinion
+1060	False	1976-06-26 00:00:00		33	27-28	Bulletin of Zoological Nomenclature	Opinion
+1061	False	1976-06-26 00:00:00		33	29-30	Bulletin of Zoological Nomenclature	Opinion
+1062	False	1976-06-26 00:00:00		33	31-33	Bulletin of Zoological Nomenclature	Opinion
+1063	False	1976-06-26 00:00:00		33	34-35	Bulletin of Zoological Nomenclature	Opinion
+1064	False	1976-06-26 00:00:00		33	36-38	Bulletin of Zoological Nomenclature	Opinion
+1065	False	1977-03-31 00:00:00		33	151-154	Bulletin of Zoological Nomenclature	Opinion
+1066	False	1977-03-31 00:00:00		33	155-156	Bulletin of Zoological Nomenclature	Opinion
+1067	False	1977-03-31 00:00:00		33	157-158	Bulletin of Zoological Nomenclature	Opinion
+1068	False	1977-03-31 00:00:00		33	159-161	Bulletin of Zoological Nomenclature	Opinion
+1069	False	1977-03-31 00:00:00		33	162-164	Bulletin of Zoological Nomenclature	Opinion
+1070	False	1977-03-31 00:00:00		33	165-166	Bulletin of Zoological Nomenclature	Opinion
+1071	False	1977-03-31 00:00:00		33	167-169	Bulletin of Zoological Nomenclature	Opinion
+1072	False	1977-03-31 00:00:00		33	170-171	Bulletin of Zoological Nomenclature	Opinion
+1073	False	1977-03-31 00:00:00		33	172-173	Bulletin of Zoological Nomenclature	Opinion
+1074	False	1977-03-31 00:00:00		33	174-175	Bulletin of Zoological Nomenclature	Opinion
+1075	False	1977-03-31 00:00:00		33	176-178	Bulletin of Zoological Nomenclature	Opinion
+1076	False	1977-03-31 00:00:00		33	179-181	Bulletin of Zoological Nomenclature	Opinion
+1077	False	1977-03-31 00:00:00		33	182-184	Bulletin of Zoological Nomenclature	Opinion
+1078	False	1977-07-01 00:00:00		34	14-15	Bulletin of Zoological Nomenclature	Opinion
+1079	False	1977-07-01 00:00:00		34	16-20	Bulletin of Zoological Nomenclature	Opinion
+1080	False	1977-07-01 00:00:00		34	21-24	Bulletin of Zoological Nomenclature	Opinion
+1081	False	1977-07-01 00:00:00		34	25-26	Bulletin of Zoological Nomenclature	Opinion
+1082	False	1977-07-01 00:00:00		34	27-29	Bulletin of Zoological Nomenclature	Opinion
+1083	False	1977-07-01 00:00:00		34	30-32	Bulletin of Zoological Nomenclature	Opinion
+1084	False	1977-07-01 00:00:00		34	33-34	Bulletin of Zoological Nomenclature	Opinion
+1085	False	1977-07-01 00:00:00		34	35-36	Bulletin of Zoological Nomenclature	Opinion
+1086	False	1977-07-01 00:00:00		34	37-39	Bulletin of Zoological Nomenclature	Opinion
+1087	False	1977-07-01 00:00:00		34	40-41	Bulletin of Zoological Nomenclature	Opinion
+1088	False	1977-07-01 00:00:00		34	42-43	Bulletin of Zoological Nomenclature	Opinion
+1089	False	1977-07-01 00:00:00		34	44-45	Bulletin of Zoological Nomenclature	Opinion
+1090	False	1977-07-01 00:00:00		34	46-49	Bulletin of Zoological Nomenclature	Opinion
+1091	False	1977-07-01 00:00:00		34	50-52	Bulletin of Zoological Nomenclature	Opinion
+1092	False	1977-07-01 00:00:00		34	53-57	Bulletin of Zoological Nomenclature	Opinion
+1093	False	1977-11-08 00:00:00		34	143-146	Bulletin of Zoological Nomenclature	Opinion
+1094	False	1977-11-08 00:00:00		34	147-149	Bulletin of Zoological Nomenclature	Opinion
+1095	False	1977-11-08 00:00:00		34	150-154	Bulletin of Zoological Nomenclature	Opinion
+1096	False	1977-11-08 00:00:00		34	155-157	Bulletin of Zoological Nomenclature	Opinion
+1097	False	1977-11-08 00:00:00		34	158-159	Bulletin of Zoological Nomenclature	Opinion
+1098	False	1977-11-08 00:00:00		34	160-163	Bulletin of Zoological Nomenclature	Opinion
+1099	False	1977-11-08 00:00:00		34	164-166	Bulletin of Zoological Nomenclature	Opinion
+1100	False	1978-02-28 00:00:00		34	203-204	Bulletin of Zoological Nomenclature	Opinion
+1101	False	1978-02-28 00:00:00		34	205-212	Bulletin of Zoological Nomenclature	Opinion
+1102	False	1978-02-28 00:00:00		34	213-217	Bulletin of Zoological Nomenclature	Opinion
+1103	False	1978-02-28 00:00:00		34	218-221	Bulletin of Zoological Nomenclature	Opinion
+1104	False	1978-02-28 00:00:00		34	222-233	Bulletin of Zoological Nomenclature	Opinion
+1105	False	1978-02-28 00:00:00		34	234-236	Bulletin of Zoological Nomenclature	Opinion
+1106	False	1978-02-28 00:00:00		34	237-239	Bulletin of Zoological Nomenclature	Opinion
+1107	False	1978-10-31 00:00:00		35	88-93	Bulletin of Zoological Nomenclature	Opinion
+1108	False	1978-10-31 00:00:00		35	94-96	Bulletin of Zoological Nomenclature	Opinion
+1109	False	1978-10-31 00:00:00		35	97-98	Bulletin of Zoological Nomenclature	Opinion
+1110	False	1978-10-31 00:00:00		35	99-100	Bulletin of Zoological Nomenclature	Opinion
+1111	False	1978-10-31 00:00:00		35	101-103	Bulletin of Zoological Nomenclature	Opinion
+1112	False	1978-10-31 00:00:00		35	104-105	Bulletin of Zoological Nomenclature	Opinion
+1113	False	1978-10-31 00:00:00		35	106-107	Bulletin of Zoological Nomenclature	Opinion
+1114	False	1978-10-31 00:00:00		35	108-110	Bulletin of Zoological Nomenclature	Opinion
+1115	False	1979-02-19 00:00:00		35	175-179	Bulletin of Zoological Nomenclature	Opinion
+1116	False	1979-02-19 00:00:00		35	180-183	Bulletin of Zoological Nomenclature	Opinion
+1117	False	1979-05-31 00:00:00		35	209-211	Bulletin of Zoological Nomenclature	Opinion
+1118	False	1979-05-31 00:00:00		35	212-215	Bulletin of Zoological Nomenclature	Opinion
+1119	False	1979-05-31 00:00:00		35	216-220	Bulletin of Zoological Nomenclature	Opinion
+1120	False	1979-05-31 00:00:00		35	221-222	Bulletin of Zoological Nomenclature	Opinion
+1121	False	1979-05-31 00:00:00		35	223-226	Bulletin of Zoological Nomenclature	Opinion
+1122	False	1979-05-31 00:00:00		35	227-228	Bulletin of Zoological Nomenclature	Opinion
+1123	False	1979-05-31 00:00:00		35	229-232	Bulletin of Zoological Nomenclature	Opinion
+1124	False	1979-05-31 00:00:00		35	233-235	Bulletin of Zoological Nomenclature	Opinion
+1125	False	1979-07-01 00:00:00		36	22-23	Bulletin of Zoological Nomenclature	Opinion
+1126	False	1979-07-01 00:00:00		36	24-26	Bulletin of Zoological Nomenclature	Opinion
+1127	False	1979-07-01 00:00:00		36	27-29	Bulletin of Zoological Nomenclature	Opinion
+1128	False	1979-08-01 00:00:00		36	73-75	Bulletin of Zoological Nomenclature	Opinion
+1129	False	1979-08-01 00:00:00		36	76-78	Bulletin of Zoological Nomenclature	Opinion
+1130	False	1979-08-01 00:00:00		36	79-81	Bulletin of Zoological Nomenclature	Opinion
+1131	False	1979-08-01 00:00:00		36	82-84	Bulletin of Zoological Nomenclature	Opinion
+1132	False	1979-08-01 00:00:00		36	85-90	Bulletin of Zoological Nomenclature	Opinion
+1133	False	1979-08-01 00:00:00		36	91-101	Bulletin of Zoological Nomenclature	Opinion
+1134	False	1979-08-01 00:00:00		36	102-104	Bulletin of Zoological Nomenclature	Opinion
+1135	False	1979-08-01 00:00:00		36	105-106	Bulletin of Zoological Nomenclature	Opinion
+1136	False	1979-08-01 00:00:00		36	107-108	Bulletin of Zoological Nomenclature	Opinion
+1137	False	1979-08-01 00:00:00		36	109-110	Bulletin of Zoological Nomenclature	Opinion
+1138	False	1979-08-01 00:00:00		36	111-113	Bulletin of Zoological Nomenclature	Opinion
+1139	False	1979-08-01 00:00:00		36	114-118	Bulletin of Zoological Nomenclature	Opinion
+1140	False	1979-08-01 00:00:00		36	119-121	Bulletin of Zoological Nomenclature	Opinion
+1141	False	1979-08-01 00:00:00		36	122-124	Bulletin of Zoological Nomenclature	Opinion
+1142	False	1979-08-01 00:00:00		36	125-129	Bulletin of Zoological Nomenclature	Opinion
+1143	False	1979-08-01 00:00:00		36	130-131	Bulletin of Zoological Nomenclature	Opinion
+1144	False	1979-08-01 00:00:00		36	132-134	Bulletin of Zoological Nomenclature	Opinion
+1145	False	1979-10-25 00:00:00		36	149-150	Bulletin of Zoological Nomenclature	Opinion
+1146	False	1979-10-25 00:00:00		36	151-153	Bulletin of Zoological Nomenclature	Opinion
+1147	False	1980-05-08 00:00:00		37	11-26	Bulletin of Zoological Nomenclature	Opinion
+1148	False	1980-05-08 00:00:00		37	27-29	Bulletin of Zoological Nomenclature	Opinion
+1149	False	1980-06-19 00:00:00		37	69-71	Bulletin of Zoological Nomenclature	Opinion
+1150	False	1980-06-19 00:00:00		37	72-74	Bulletin of Zoological Nomenclature	Opinion
+1151	False	1980-06-19 00:00:00		37	75-77	Bulletin of Zoological Nomenclature	Opinion
+1152	False	1980-06-19 00:00:00		37	78-80	Bulletin of Zoological Nomenclature	Opinion
+1153	False	1980-06-19 00:00:00		37	81-84	Bulletin of Zoological Nomenclature	Opinion
+1154	False	1980-06-19 00:00:00		37	85-88	Bulletin of Zoological Nomenclature	Opinion
+1155	False	1980-06-19 00:00:00		37	89-93	Bulletin of Zoological Nomenclature	Opinion
+1156	False	1980-06-19 00:00:00		37	94-95	Bulletin of Zoological Nomenclature	Opinion
+1157	False	1980-06-19 00:00:00		37	96-98	Bulletin of Zoological Nomenclature	Opinion
+1158	False	1980-06-19 00:00:00		37	99-102	Bulletin of Zoological Nomenclature	Opinion
+1159	False	1980-06-19 00:00:00		37	103-106	Bulletin of Zoological Nomenclature	Opinion
+1160	False	1980-12-04 00:00:00		37	217-221	Bulletin of Zoological Nomenclature	Opinion
+1161	False	1980-12-04 00:00:00		37	222-223	Bulletin of Zoological Nomenclature	Opinion
+1162	False	1981-02-26 00:00:00		38	49-51	Bulletin of Zoological Nomenclature	Opinion
+1163	False	1981-02-26 00:00:00		38	5256	Bulletin of Zoological Nomenclature	Opinion
+1164	False	1981-02-26 00:00:00		38	57-60	Bulletin of Zoological Nomenclature	Opinion
+1165	False	1981-02-26 00:00:00		38	61-63	Bulletin of Zoological Nomenclature	Opinion
+1166	False	1981-02-26 00:00:00		38	64-66	Bulletin of Zoological Nomenclature	Opinion
+1167	False	1981-02-26 00:00:00		38	67-68	Bulletin of Zoological Nomenclature	Opinion
+1168	False	1981-02-26 00:00:00		38	69-71	Bulletin of Zoological Nomenclature	Opinion
+1169	False	1981-02-26 00:00:00		38	72-73	Bulletin of Zoological Nomenclature	Opinion
+1170	False	1981-04-30 00:00:00		38	95-97	Bulletin of Zoological Nomenclature	Opinion
+1171	False	1981-04-30 00:00:00		38	98-99	Bulletin of Zoological Nomenclature	Opinion
+1172	False	1981-04-30 00:00:00		38	100-101	Bulletin of Zoological Nomenclature	Opinion
+1173	False	1981-04-30 00:00:00		38	102-104	Bulletin of Zoological Nomenclature	Opinion
+1174	False	1981-04-30 00:00:00		38	105-106	Bulletin of Zoological Nomenclature	Opinion
+1175	False	1981-04-30 00:00:00		38	107-109	Bulletin of Zoological Nomenclature	Opinion
+1176	False	1981-04-30 00:00:00		38	110-111	Bulletin of Zoological Nomenclature	Opinion
+1177	False	1981-04-30 00:00:00		38	112-113	Bulletin of Zoological Nomenclature	Opinion
+1178	False	1981-04-30 00:00:00		38	114-116	Bulletin of Zoological Nomenclature	Opinion
+1179	False	1981-04-30 00:00:00		38	117-119	Bulletin of Zoological Nomenclature	Opinion
+1180	False	1981-04-30 00:00:00		38	120-121	Bulletin of Zoological Nomenclature	Opinion
+1181	False	1981-04-30 00:00:00		38	122-124	Bulletin of Zoological Nomenclature	Opinion
+1182	False	1981-07-30 00:00:00		38	174-177	Bulletin of Zoological Nomenclature	Opinion
+1183	False	1981-07-30 00:00:00		38	178-181	Bulletin of Zoological Nomenclature	Opinion
+1184	False	1981-07-30 00:00:00		38	182-184	Bulletin of Zoological Nomenclature	Opinion
+1185	False	1981-07-30 00:00:00		38	185-187	Bulletin of Zoological Nomenclature	Opinion
+1186	False	1981-07-30 00:00:00		38	188-190	Bulletin of Zoological Nomenclature	Opinion
+1187	False	1981-07-30 00:00:00		38	191-193	Bulletin of Zoological Nomenclature	Opinion
+1188	False	1981-11-30 00:00:00		38	239-242	Bulletin of Zoological Nomenclature	Opinion
+1189	False	1981-11-30 00:00:00		38	243-246	Bulletin of Zoological Nomenclature	Opinion
+1190	False	1981-11-30 00:00:00		38	247-248	Bulletin of Zoological Nomenclature	Opinion
+1191	False	1981-11-30 00:00:00		38	249-251	Bulletin of Zoological Nomenclature	Opinion
+1192	False	1981-11-30 00:00:00		38	252-253	Bulletin of Zoological Nomenclature	Opinion
+1193	False	1981-11-30 00:00:00		38	254-255	Bulletin of Zoological Nomenclature	Opinion
+1194	False	1981-11-30 00:00:00		38	256-258	Bulletin of Zoological Nomenclature	Opinion
+1195	False	1981-11-30 00:00:00		38	259-265	Bulletin of Zoological Nomenclature	Opinion
+1196	False	1981-11-30 00:00:00		38	266-269	Bulletin of Zoological Nomenclature	Opinion
+1197	False	1981-11-30 00:00:00		38	270-273	Bulletin of Zoological Nomenclature	Opinion
+1198	False	1981-11-30 00:00:00		38	274-275	Bulletin of Zoological Nomenclature	Opinion
+1199	False	1982-03-11 00:00:00		39	15-18	Bulletin of Zoological Nomenclature	Opinion
+1200	False	1982-03-11 00:00:00		39	19-20	Bulletin of Zoological Nomenclature	Opinion
+1201	False	1982-03-11 00:00:00		39	21-26	Bulletin of Zoological Nomenclature	Opinion
+1202	False	1982-06-15 00:00:00		39	91-94	Bulletin of Zoological Nomenclature	Opinion
+1203	False	1982-06-15 00:00:00		39	95-98	Bulletin of Zoological Nomenclature	Opinion
+1204	False	1982-06-15 00:00:00		39	99-101	Bulletin of Zoological Nomenclature	Opinion
+1205	False	1982-06-15 00:00:00		39	102-103	Bulletin of Zoological Nomenclature	Opinion
+1206	False	1982-06-15 00:00:00		39	104-105	Bulletin of Zoological Nomenclature	Opinion
+1207	False	1982-06-15 00:00:00		39	106-108	Bulletin of Zoological Nomenclature	Opinion
+1208	False	1982-06-15 00:00:00		39	109-110	Bulletin of Zoological Nomenclature	Opinion
+1209	False	1982-06-15 00:00:00		39	111-113	Bulletin of Zoological Nomenclature	Opinion
+1210	False	1982-06-15 00:00:00		39	114-116	Bulletin of Zoological Nomenclature	Opinion
+1211	False	1982-06-15 00:00:00		39	117-118	Bulletin of Zoological Nomenclature	Opinion
+1212	False	1982-06-15 00:00:00		39	119-121	Bulletin of Zoological Nomenclature	Opinion
+1213	False	1982-06-15 00:00:00		39	122-123	Bulletin of Zoological Nomenclature	Opinion
+1214	False	1982-06-15 00:00:00		39	124-125	Bulletin of Zoological Nomenclature	Opinion
+1215	False	1982-06-15 00:00:00		39	126-127	Bulletin of Zoological Nomenclature	Opinion
+1216	False	1982-06-15 00:00:00		39	128-129	Bulletin of Zoological Nomenclature	Opinion
+1217	False	1982-06-15 00:00:00		39	130-131	Bulletin of Zoological Nomenclature	Opinion
+1218	False	1982-09-30 00:00:00		39	166-167	Bulletin of Zoological Nomenclature	Opinion
+1219	False	1982-09-30 00:00:00		39	168-171	Bulletin of Zoological Nomenclature	Opinion
+1220	False	1982-09-30 00:00:00		39	172-174	Bulletin of Zoological Nomenclature	Opinion
+1221	False	1982-09-30 00:00:00		39	175-177	Bulletin of Zoological Nomenclature	Opinion
+1222	False	1982-09-30 00:00:00		39	178-179	Bulletin of Zoological Nomenclature	Opinion
+1223	False	1982-09-30 00:00:00		39	180-182	Bulletin of Zoological Nomenclature	Opinion
+1224	False	1982-09-30 00:00:00		39	183-185	Bulletin of Zoological Nomenclature	Opinion
+1225	False	1982-09-30 00:00:00		39	186-191	Bulletin of Zoological Nomenclature	Opinion
+1226	False	1982-09-30 00:00:00		39	192-193	Bulletin of Zoological Nomenclature	Opinion
+1227	False	1982-12-07 00:00:00		39	233-234	Bulletin of Zoological Nomenclature	Opinion
+1228	False	1982-12-07 00:00:00		39	235-237	Bulletin of Zoological Nomenclature	Opinion
+1229	False	1982-12-07 00:00:00		39	238-240	Bulletin of Zoological Nomenclature	Opinion
+1230	False	1982-12-07 00:00:00		39	241-242	Bulletin of Zoological Nomenclature	Opinion
+1231	False	1982-12-07 00:00:00		39	243-246	Bulletin of Zoological Nomenclature	Opinion
+1232	False	1982-12-07 00:00:00		39	247-249	Bulletin of Zoological Nomenclature	Opinion
+1233	False	1982-12-07 00:00:00		39	250-252	Bulletin of Zoological Nomenclature	Opinion
+1234	False	1982-12-07 00:00:00		39	253-254	Bulletin of Zoological Nomenclature	Opinion
+1235	False	1982-12-07 00:00:00		39	255-257	Bulletin of Zoological Nomenclature	Opinion
+1236	False	1982-12-07 00:00:00		39	258-259	Bulletin of Zoological Nomenclature	Opinion
+1237	False	1982-12-07 00:00:00		39	260-261	Bulletin of Zoological Nomenclature	Opinion
+1238	False	1982-12-07 00:00:00		39	262-263	Bulletin of Zoological Nomenclature	Opinion
+1239	False	1983-03-29 00:00:00		40	25-26	Bulletin of Zoological Nomenclature	Opinion
+1240	False	1983-03-29 00:00:00		40	27-28	Bulletin of Zoological Nomenclature	Opinion
+1241	False	1983-03-29 00:00:00		40	29-32	Bulletin of Zoological Nomenclature	Opinion
+1242	False	1983-03-29 00:00:00		40	33-34	Bulletin of Zoological Nomenclature	Opinion
+1243	False	1983-03-29 00:00:00		40	35-36	Bulletin of Zoological Nomenclature	Opinion
+1244	False	1983-03-29 00:00:00		40	37-38	Bulletin of Zoological Nomenclature	Opinion
+1245	False	1983-03-29 00:00:00		40	39-40	Bulletin of Zoological Nomenclature	Opinion
+1246	False	1983-07-15 00:00:00		40	75-76	Bulletin of Zoological Nomenclature	Opinion
+1247	False	1983-07-15 00:00:00		40	77-80	Bulletin of Zoological Nomenclature	Opinion
+1248	False	1983-07-15 00:00:00		40	81--82	Bulletin of Zoological Nomenclature	Opinion
+1249	False	1983-07-15 00:00:00		40	83-84	Bulletin of Zoological Nomenclature	Opinion
+1250	False	1983-07-15 00:00:00		40	85-87	Bulletin of Zoological Nomenclature	Opinion
+1251	False	1983-07-15 00:00:00		40	88-89	Bulletin of Zoological Nomenclature	Opinion
+1252	False	1983-07-15 00:00:00		40	90-91	Bulletin of Zoological Nomenclature	Opinion
+1253	False	1983-07-15 00:00:00		40	92-93	Bulletin of Zoological Nomenclature	Opinion
+1254	False	1983-07-15 00:00:00		40	94-96	Bulletin of Zoological Nomenclature	Opinion
+1255	False	1983-07-15 00:00:00		40	97-101	Bulletin of Zoological Nomenclature	Opinion
+1256	False	1983-10-21 00:00:00		40	147-148	Bulletin of Zoological Nomenclature	Opinion
+1257	False	1983-10-21 00:00:00		40	149-150	Bulletin of Zoological Nomenclature	Opinion
+1258	False	1983-10-21 00:00:00		40	151-152	Bulletin of Zoological Nomenclature	Opinion
+1259	False	1983-10-21 00:00:00		40	153-156	Bulletin of Zoological Nomenclature	Opinion
+1260	False	1983-10-21 00:00:00		40	157-159	Bulletin of Zoological Nomenclature	Opinion
+1261	False	1983-10-21 00:00:00		40	160-162	Bulletin of Zoological Nomenclature	Opinion
+1262	False	1983-12-30 00:00:00		40	200-201	Bulletin of Zoological Nomenclature	Opinion
+1263	False	1983-12-30 00:00:00		40	202-204	Bulletin of Zoological Nomenclature	Opinion
+1264	False	1984-03-29 00:00:00		41	8-9	Bulletin of Zoological Nomenclature	Opinion
+1265	False	1984-03-29 00:00:00		41	10-11	Bulletin of Zoological Nomenclature	Opinion
+1266	False	1984-03-29 00:00:00		41	12-14	Bulletin of Zoological Nomenclature	Opinion
+1267	False	1984-03-29 00:00:00		41	15-16	Bulletin of Zoological Nomenclature	Opinion
+1268	False	1984-03-29 00:00:00		41	17-18	Bulletin of Zoological Nomenclature	Opinion
+1269	False	1984-03-29 00:00:00		41	19-21	Bulletin of Zoological Nomenclature	Opinion
+1270	False	1984-03-29 00:00:00		41	22-23	Bulletin of Zoological Nomenclature	Opinion
+1271	False	1984-03-29 00:00:00		41	24-25	Bulletin of Zoological Nomenclature	Opinion
+1272	False	1984-03-29 00:00:00		41	26-27	Bulletin of Zoological Nomenclature	Opinion
+1273	False	1984-03-29 00:00:00		41	28-31	Bulletin of Zoological Nomenclature	Opinion
+1274	False	1984-03-29 00:00:00		41	32-33	Bulletin of Zoological Nomenclature	Opinion
+1275	False	1984-03-29 00:00:00		41	34-35	Bulletin of Zoological Nomenclature	Opinion
+1276	False	1984-03-29 00:00:00		41	36-38	Bulletin of Zoological Nomenclature	Opinion
+1277	False	1984-11-30 00:00:00		41	212-214	Bulletin of Zoological Nomenclature	Opinion
+1278	False	1984-11-30 00:00:00		41	215-217	Bulletin of Zoological Nomenclature	Opinion
+1279	False	1984-11-30 00:00:00		41	218-220	Bulletin of Zoological Nomenclature	Opinion
+1280	False	1984-11-30 00:00:00		41	221-222	Bulletin of Zoological Nomenclature	Opinion
+1281	False	1984-11-30 00:00:00		41	223-224	Bulletin of Zoological Nomenclature	Opinion
+1282	False	1984-11-30 00:00:00		41	225-226	Bulletin of Zoological Nomenclature	Opinion
+1283	False	1984-11-30 00:00:00		41	227-230	Bulletin of Zoological Nomenclature	Opinion
+1284	False	1984-11-30 00:00:00		41	231-232	Bulletin of Zoological Nomenclature	Opinion
+1285	False	1984-11-30 00:00:00		41	233-234	Bulletin of Zoological Nomenclature	Opinion
+1286	False	1984-11-30 00:00:00		41	235-237	Bulletin of Zoological Nomenclature	Opinion
+1287	False	1984-11-30 00:00:00		41	238-239	Bulletin of Zoological Nomenclature	Opinion
+1288	False	1985-04-02 00:00:00		42	17-18	Bulletin of Zoological Nomenclature	Opinion
+1289	False	1985-04-02 00:00:00		42	19-20	Bulletin of Zoological Nomenclature	Opinion
+1290	False	1985-04-02 00:00:00		42	21-23	Bulletin of Zoological Nomenclature	Opinion
+1291	False	1985-04-02 00:00:00		42	24-26	Bulletin of Zoological Nomenclature	Opinion
+1292	False	1985-04-02 00:00:00		42	27-28	Bulletin of Zoological Nomenclature	Opinion
+1293	False	1985-04-02 00:00:00		42	29--30	Bulletin of Zoological Nomenclature	Opinion
+1294	False	1985-04-02 00:00:00		42	31-33	Bulletin of Zoological Nomenclature	Opinion
+1295	False	1985-04-02 00:00:00		42	34-36	Bulletin of Zoological Nomenclature	Opinion
+1296	False	1985-04-02 00:00:00		42	37-38	Bulletin of Zoological Nomenclature	Opinion
+1297	False	1985-04-02 00:00:00		42	39-40	Bulletin of Zoological Nomenclature	Opinion
+1298	False	1985-06-27 00:00:00		42	124-127	Bulletin of Zoological Nomenclature	Opinion
+1299	False	1985-06-27 00:00:00		42	128-129	Bulletin of Zoological Nomenclature	Opinion
+1300	False	1985-06-27 00:00:00		42	130-133	Bulletin of Zoological Nomenclature	Opinion
+1301	False	1985-06-27 00:00:00		42	134-136	Bulletin of Zoological Nomenclature	Opinion
+1302	False	1985-06-27 00:00:00		42	137-138	Bulletin of Zoological Nomenclature	Opinion
+1303	False	1985-06-27 00:00:00		42	139-141	Bulletin of Zoological Nomenclature	Opinion
+1304	False	1985-06-27 00:00:00		42	142-143	Bulletin of Zoological Nomenclature	Opinion
+1305	False	1985-06-27 00:00:00		42	144-145	Bulletin of Zoological Nomenclature	Opinion
+1306	False	1985-06-27 00:00:00		42	146-147	Bulletin of Zoological Nomenclature	Opinion
+1307	False	1985-06-27 00:00:00		42	148-149	Bulletin of Zoological Nomenclature	Opinion
+1308	False	1985-06-27 00:00:00		42	150-151	Bulletin of Zoological Nomenclature	Opinion
+1309	False	1985-06-27 00:00:00		42	152-153	Bulletin of Zoological Nomenclature	Opinion
+1310	False	1985-06-27 00:00:00		42	154-155	Bulletin of Zoological Nomenclature	Opinion
+1311	False	1985-06-27 00:00:00		42	156-157	Bulletin of Zoological Nomenclature	Opinion
+1312	False	1985-06-27 00:00:00		42	158-159	Bulletin of Zoological Nomenclature	Opinion
+1313	False	1985-06-27 00:00:00		42	160-161	Bulletin of Zoological Nomenclature	Opinion
+1314	False	1985-06-27 00:00:00		42	162-164	Bulletin of Zoological Nomenclature	Opinion
+1315	False	1985-06-27 00:00:00		42	165-166	Bulletin of Zoological Nomenclature	Opinion
+1316	False	1985-06-27 00:00:00		42	167-168	Bulletin of Zoological Nomenclature	Opinion
+1317	False	1985-06-27 00:00:00		42	169-170	Bulletin of Zoological Nomenclature	Opinion
+1318	False	1985-06-27 00:00:00		42	171-172	Bulletin of Zoological Nomenclature	Opinion
+1319	False	1985-06-27 00:00:00		42	173-174	Bulletin of Zoological Nomenclature	Opinion
+1320	False	1985-06-27 00:00:00		42	175-176	Bulletin of Zoological Nomenclature	Opinion
+1321	False	1985-06-27 00:00:00		42	177-179	Bulletin of Zoological Nomenclature	Opinion
+1322	False	1985-06-27 00:00:00		42	180-181	Bulletin of Zoological Nomenclature	Opinion
+1323	False	1985-06-27 00:00:00		42	182-184	Bulletin of Zoological Nomenclature	Opinion
+1324	False	1985-06-27 00:00:00		42	185-187	Bulletin of Zoological Nomenclature	Opinion
+1325	False	1985-06-27 00:00:00		42	188-189	Bulletin of Zoological Nomenclature	Opinion
+1326	False	1985-06-27 00:00:00		42	190-191	Bulletin of Zoological Nomenclature	Opinion
+1327	False	1985-06-27 00:00:00		42	192-194	Bulletin of Zoological Nomenclature	Opinion
+1328	False	1985-09-30 00:00:00		42	222-225	Bulletin of Zoological Nomenclature	Opinion
+1329	False	1985-09-30 00:00:00		42	226-227	Bulletin of Zoological Nomenclature	Opinion
+1330	False	1985-09-30 00:00:00		42	228-229	Bulletin of Zoological Nomenclature	Opinion
+1331	False	1985-09-30 00:00:00		42	230-232	Bulletin of Zoological Nomenclature	Opinion
+1332	False	1985-09-30 00:00:00		42	233-235	Bulletin of Zoological Nomenclature	Opinion
+1333	False	1985-09-30 00:00:00		42	236-237	Bulletin of Zoological Nomenclature	Opinion
+1334	False	1985-09-30 00:00:00		42	238-240	Bulletin of Zoological Nomenclature	Opinion
+1335	False	1985-09-30 00:00:00		42	241-243	Bulletin of Zoological Nomenclature	Opinion
+1336	False	1985-09-30 00:00:00		42	244-248	Bulletin of Zoological Nomenclature	Opinion
+1337	False	1985-09-30 00:00:00		42	249-250	Bulletin of Zoological Nomenclature	Opinion
+1338	False	1985-09-30 00:00:00		42	251-254	Bulletin of Zoological Nomenclature	Opinion
+1339	False	1985-09-30 00:00:00		42	255-257	Bulletin of Zoological Nomenclature	Opinion
+1340	False	1985-09-30 00:00:00		42	258-260	Bulletin of Zoological Nomenclature	Opinion
+1341	False	1985-09-30 00:00:00		42	261-263	Bulletin of Zoological Nomenclature	Opinion
+1342	False	1985-09-30 00:00:00		42	264-265	Bulletin of Zoological Nomenclature	Opinion
+1343	False	1985-09-30 00:00:00		42	266-268	Bulletin of Zoological Nomenclature	Opinion
+1344	False	1985-09-30 00:00:00		42	269-270	Bulletin of Zoological Nomenclature	Opinion
+1345	False	1985-09-30 00:00:00		42	271-273	Bulletin of Zoological Nomenclature	Opinion
+1346	False	1985-09-30 00:00:00		42	274-276	Bulletin of Zoological Nomenclature	Opinion
+1347	False	1985-09-30 00:00:00		42	277-278	Bulletin of Zoological Nomenclature	Opinion
+1348	False	1985-09-30 00:00:00		42	279-280	Bulletin of Zoological Nomenclature	Opinion
+1349	False	1985-09-30 00:00:00		42	281-282	Bulletin of Zoological Nomenclature	Opinion
+1350	False	1985-09-30 00:00:00		42	283-284	Bulletin of Zoological Nomenclature	Opinion
+1351	False	1985-09-30 00:00:00		42	285-286	Bulletin of Zoological Nomenclature	Opinion
+1352	False	1985-09-30 00:00:00		42	287-290	Bulletin of Zoological Nomenclature	Opinion
+1353	False	1985-09-30 00:00:00		42	291-292	Bulletin of Zoological Nomenclature	Opinion
+1354	False	1985-12-06 00:00:00		42	330-331	Bulletin of Zoological Nomenclature	Opinion
+1355	False	1985-12-06 00:00:00		42	332-334	Bulletin of Zoological Nomenclature	Opinion
+1356	False	1985-12-06 00:00:00		42	335-337	Bulletin of Zoological Nomenclature	Opinion
+1357	False	1985-12-06 00:00:00		42	338-340	Bulletin of Zoological Nomenclature	Opinion
+1358	False	1985-12-06 00:00:00		42	341-343	Bulletin of Zoological Nomenclature	Opinion
+1359	False	1985-12-06 00:00:00		42	344-346	Bulletin of Zoological Nomenclature	Opinion
+1360	False	1985-12-06 00:00:00		42	347-348	Bulletin of Zoological Nomenclature	Opinion
+1361	False	1985-12-06 00:00:00		42	349-350	Bulletin of Zoological Nomenclature	Opinion
+1362	False	1985-12-06 00:00:00		42	351-352	Bulletin of Zoological Nomenclature	Opinion
+1363	False	1985-12-06 00:00:00		42	353-354	Bulletin of Zoological Nomenclature	Opinion
+1364	False	1985-12-06 00:00:00		42	355-356	Bulletin of Zoological Nomenclature	Opinion
+1365	False	1985-12-06 00:00:00		42	357-358	Bulletin of Zoological Nomenclature	Opinion
+1366	False	1985-12-06 00:00:00		42	359-360	Bulletin of Zoological Nomenclature	Opinion
+1367	False	1985-12-06 00:00:00		42	361-364	Bulletin of Zoological Nomenclature	Opinion
+1368	False	1985-12-06 00:00:00		42	365-370	Bulletin of Zoological Nomenclature	Opinion
+1369	False	1986-04-09 00:00:00		43	15-16	Bulletin of Zoological Nomenclature	Opinion
+1370	False	1986-04-09 00:00:00		43	17-18	Bulletin of Zoological Nomenclature	Opinion
+1371	False	1986-04-09 00:00:00		43	19-20	Bulletin of Zoological Nomenclature	Opinion
+1372	False	1986-04-09 00:00:00		43	21-22	Bulletin of Zoological Nomenclature	Opinion
+1373	False	1986-04-09 00:00:00		43	23-24	Bulletin of Zoological Nomenclature	Opinion
+1374	False	1986-04-09 00:00:00		43	25-26	Bulletin of Zoological Nomenclature	Opinion
+1375	False	1986-04-09 00:00:00		43	27-29	Bulletin of Zoological Nomenclature	Opinion
+1376	False	1986-04-09 00:00:00		43	30-32	Bulletin of Zoological Nomenclature	Opinion
+1377	False	1986-04-09 00:00:00		43	33-34	Bulletin of Zoological Nomenclature	Opinion
+1378	False	1986-04-09 00:00:00		43	35-36	Bulletin of Zoological Nomenclature	Opinion
+1379	False	1986-04-09 00:00:00		43	37-38	Bulletin of Zoological Nomenclature	Opinion
+1380	False	1986-04-09 00:00:00		43	39-41	Bulletin of Zoological Nomenclature	Opinion
+1381	False	1986-04-09 00:00:00		43	42-43	Bulletin of Zoological Nomenclature	Opinion
+1382	False	1986-04-09 00:00:00		43	44-45	Bulletin of Zoological Nomenclature	Opinion
+1383	False	1986-07-09 00:00:00		43	121-122	Bulletin of Zoological Nomenclature	Opinion
+1384	False	1986-07-09 00:00:00		43	123-124	Bulletin of Zoological Nomenclature	Opinion
+1385	False	1986-07-09 00:00:00		43	125-127	Bulletin of Zoological Nomenclature	Opinion
+1386	False	1986-07-09 00:00:00		43	128-129	Bulletin of Zoological Nomenclature	Opinion
+1387	False	1986-07-09 00:00:00		43	130-131	Bulletin of Zoological Nomenclature	Opinion
+1388	False	1986-07-09 00:00:00		43	132-133	Bulletin of Zoological Nomenclature	Opinion
+1389	False	1986-07-09 00:00:00		43	134-135	Bulletin of Zoological Nomenclature	Opinion
+1390	False	1986-07-09 00:00:00		43	136-137	Bulletin of Zoological Nomenclature	Opinion
+1391	False	1986-07-09 00:00:00		43	138-139	Bulletin of Zoological Nomenclature	Opinion
+1392	False	1986-07-09 00:00:00		43	140-141	Bulletin of Zoological Nomenclature	Opinion
+1393	False	1986-07-09 00:00:00		43	142-143	Bulletin of Zoological Nomenclature	Opinion
+1394	False	1986-07-09 00:00:00		43	144-145	Bulletin of Zoological Nomenclature	Opinion
+1395	False	1986-07-09 00:00:00		43	146-147	Bulletin of Zoological Nomenclature	Opinion
+1396	False	1986-07-09 00:00:00		43	148-149	Bulletin of Zoological Nomenclature	Opinion
+1397	False	1986-07-09 00:00:00		43	150-151	Bulletin of Zoological Nomenclature	Opinion
+1398	False	1986-07-09 00:00:00		43	152-153	Bulletin of Zoological Nomenclature	Opinion
+1399	False	1986-07-09 00:00:00		43	154-155	Bulletin of Zoological Nomenclature	Opinion
+1400	False	1986-10-06 00:00:00		43	229-230	Bulletin of Zoological Nomenclature	Opinion
+1401	False	1986-10-06 00:00:00		43	231-232	Bulletin of Zoological Nomenclature	Opinion
+1402	False	1986-10-06 00:00:00		43	233-234	Bulletin of Zoological Nomenclature	Opinion
+1403	False	1986-10-06 00:00:00		43	235-236	Bulletin of Zoological Nomenclature	Opinion
+1404	False	1986-10-06 00:00:00		43	237-238	Bulletin of Zoological Nomenclature	Opinion
+1405	False	1986-10-06 00:00:00		43	239-240	Bulletin of Zoological Nomenclature	Opinion
+1406	False	1986-10-06 00:00:00		43	241-242	Bulletin of Zoological Nomenclature	Opinion
+1407	False	1986-10-06 00:00:00		43	243-244	Bulletin of Zoological Nomenclature	Opinion
+1408	False	1986-10-06 00:00:00		43	245-246	Bulletin of Zoological Nomenclature	Opinion
+1409	False	1986-10-06 00:00:00		43	247-248	Bulletin of Zoological Nomenclature	Opinion
+1410	False	1986-10-06 00:00:00		43	249-250	Bulletin of Zoological Nomenclature	Opinion
+1411	False	1986-10-06 00:00:00		43	251-252	Bulletin of Zoological Nomenclature	Opinion
+1412	False	1986-10-06 00:00:00		43	253-255	Bulletin of Zoological Nomenclature	Opinion
+1413	False	1986-10-06 00:00:00		43	256-257	Bulletin of Zoological Nomenclature	Opinion
+1414	False	1986-10-06 00:00:00		43	258-261	Bulletin of Zoological Nomenclature	Opinion
+1415	False	1986-10-06 00:00:00		43	262-263	Bulletin of Zoological Nomenclature	Opinion
+1416	False	1986-10-06 00:00:00		43	264-266	Bulletin of Zoological Nomenclature	Opinion
+1417	False	1986-10-06 00:00:00		43	267-268	Bulletin of Zoological Nomenclature	Opinion
+1418	False	1986-12-11 00:00:00		43	325-327	Bulletin of Zoological Nomenclature	Opinion
+1419	False	1986-12-11 00:00:00		43	328-329	Bulletin of Zoological Nomenclature	Opinion
+1420	False	1987-03-23 00:00:00		44	49	Bulletin of Zoological Nomenclature	Opinion
+1421	False	1987-03-23 00:00:00		44	50-51	Bulletin of Zoological Nomenclature	Opinion
+1422	False	1987-03-23 00:00:00		44	52	Bulletin of Zoological Nomenclature	Opinion
+1423	False	1987-03-23 00:00:00		44	53-54	Bulletin of Zoological Nomenclature	Opinion
+1424	False	1987-03-23 00:00:00		44	55-56	Bulletin of Zoological Nomenclature	Opinion
+1425	False	1987-03-23 00:00:00		44	57-58	Bulletin of Zoological Nomenclature	Opinion
+1426	False	1987-03-23 00:00:00		44	59-60	Bulletin of Zoological Nomenclature	Opinion
+1427	False	1987-03-23 00:00:00		44	61-62	Bulletin of Zoological Nomenclature	Opinion
+1428	False	1987-03-23 00:00:00		44	63	Bulletin of Zoological Nomenclature	Opinion
+1429	False	1987-03-23 00:00:00		44	64-67	Bulletin of Zoological Nomenclature	Opinion
+1430	False	1987-03-23 00:00:00		44	68-69	Bulletin of Zoological Nomenclature	Opinion
+1431	False	1987-03-23 00:00:00		44	70	Bulletin of Zoological Nomenclature	Opinion
+1432	False	1987-03-23 00:00:00		44	71-72	Bulletin of Zoological Nomenclature	Opinion
+1433	False	1987-06-25 00:00:00		44	132-133	Bulletin of Zoological Nomenclature	Opinion
+1434	False	1987-06-25 00:00:00		44	134-135	Bulletin of Zoological Nomenclature	Opinion
+1435	False	1987-06-25 00:00:00		44	136	Bulletin of Zoological Nomenclature	Opinion
+1436	False	1987-06-25 00:00:00		44	137-138	Bulletin of Zoological Nomenclature	Opinion
+1437	False	1987-06-25 00:00:00		44	139-140	Bulletin of Zoological Nomenclature	Opinion
+1438	False	1987-06-25 00:00:00		44	141	Bulletin of Zoological Nomenclature	Opinion
+1439	False	1987-06-25 00:00:00		44	142-143	Bulletin of Zoological Nomenclature	Opinion
+1440	False	1987-06-25 00:00:00		44	144-145	Bulletin of Zoological Nomenclature	Opinion
+1441	False	1987-06-25 00:00:00		44	146	Bulletin of Zoological Nomenclature	Opinion
+1442	False	1987-06-25 00:00:00		44	147	Bulletin of Zoological Nomenclature	Opinion
+1443	False	1987-06-25 00:00:00		44	148	Bulletin of Zoological Nomenclature	Opinion
+1444	False	1987-06-25 00:00:00		44	149	Bulletin of Zoological Nomenclature	Opinion
+1445	False	1987-06-25 00:00:00		44	150-151	Bulletin of Zoological Nomenclature	Opinion
+1446	False	1987-06-25 00:00:00		44	152	Bulletin of Zoological Nomenclature	Opinion
+1447	False	1987-09-25 00:00:00		44	201	Bulletin of Zoological Nomenclature	Opinion
+1448	False	1987-09-25 00:00:00		44	202	Bulletin of Zoological Nomenclature	Opinion
+1449	False	1987-09-25 00:00:00		44	203	Bulletin of Zoological Nomenclature	Opinion
+1450	False	1987-09-25 00:00:00		44	204	Bulletin of Zoological Nomenclature	Opinion
+1451	False	1987-09-25 00:00:00		44	205-206	Bulletin of Zoological Nomenclature	Opinion
+1452	False	1987-09-25 00:00:00		44	207-208	Bulletin of Zoological Nomenclature	Opinion
+1453	False	1987-09-25 00:00:00		44	209	Bulletin of Zoological Nomenclature	Opinion
+1454	False	1987-09-25 00:00:00		44	210	Bulletin of Zoological Nomenclature	Opinion
+1455	False	1987-09-25 00:00:00		44	211	Bulletin of Zoological Nomenclature	Opinion
+1456	False	1987-09-25 00:00:00		44	212-213	Bulletin of Zoological Nomenclature	Opinion
+1457	False	1987-09-25 00:00:00		44	214	Bulletin of Zoological Nomenclature	Opinion
+1458	False	1987-09-25 00:00:00		44	215	Bulletin of Zoological Nomenclature	Opinion
+1459	False	1987-09-25 00:00:00		44	216-217	Bulletin of Zoological Nomenclature	Opinion
+1460	False	1987-09-25 00:00:00		44	218	Bulletin of Zoological Nomenclature	Opinion
+1461	False	1987-09-25 00:00:00		44	219-220	Bulletin of Zoological Nomenclature	Opinion
+1462	False	1987-12-11 00:00:00		44	263-264	Bulletin of Zoological Nomenclature	Opinion
+1463	False	1987-12-11 00:00:00		44	265-267	Bulletin of Zoological Nomenclature	Opinion
+1464	False	1988-03-25 00:00:00		45	56	Bulletin of Zoological Nomenclature	Opinion
+1465	False	1988-03-25 00:00:00		45	57-58	Bulletin of Zoological Nomenclature	Opinion
+1466	False	1988-03-25 00:00:00		45	59-60	Bulletin of Zoological Nomenclature	Opinion
+1467	False	1988-03-25 00:00:00		45	61	Bulletin of Zoological Nomenclature	Opinion
+1468	False	1988-03-25 00:00:00		45	62	Bulletin of Zoological Nomenclature	Opinion
+1469	False	1988-03-25 00:00:00		45	63	Bulletin of Zoological Nomenclature	Opinion
+1470	False	1988-03-25 00:00:00		45	64-66	Bulletin of Zoological Nomenclature	Opinion
+1471	False	1988-03-25 00:00:00		45	67-68	Bulletin of Zoological Nomenclature	Opinion
+1472	False	1988-03-25 00:00:00		45	69-70	Bulletin of Zoological Nomenclature	Opinion
+1473	False	1988-03-25 00:00:00		45	71-72	Bulletin of Zoological Nomenclature	Opinion
+1474	False	1988-03-25 00:00:00		45	73	Bulletin of Zoological Nomenclature	Opinion
+1475	False	1988-03-25 00:00:00		45	74-75	Bulletin of Zoological Nomenclature	Opinion
+1476	False	1988-03-25 00:00:00		45	76	Bulletin of Zoological Nomenclature	Opinion
+1477	False	1988-03-25 00:00:00		45	77	Bulletin of Zoological Nomenclature	Opinion
+1478	False	1988-03-25 00:00:00		45	78	Bulletin of Zoological Nomenclature	Opinion
+1479	False	1988-03-25 00:00:00		45	79	Bulletin of Zoological Nomenclature	Opinion
+1480	False	1988-03-25 00:00:00		45	80-81	Bulletin of Zoological Nomenclature	Opinion
+1481	False	1988-03-25 00:00:00		45	82-83	Bulletin of Zoological Nomenclature	Opinion
+1482	False	1988-03-25 00:00:00		45	84	Bulletin of Zoological Nomenclature	Opinion
+1483	False	1988-03-25 00:00:00		45	85-86	Bulletin of Zoological Nomenclature	Opinion
+1484	False	1988-06-24 00:00:00		45	154	Bulletin of Zoological Nomenclature	Opinion
+1485	False	1988-06-24 00:00:00		45	155-156	Bulletin of Zoological Nomenclature	Opinion
+1486	False	1988-06-24 00:00:00		45	157-158	Bulletin of Zoological Nomenclature	Opinion
+1487	False	1988-06-24 00:00:00		45	159	Bulletin of Zoological Nomenclature	Opinion
+1488	False	1988-06-24 00:00:00		45	160-161	Bulletin of Zoological Nomenclature	Opinion
+1489	False	1988-06-24 00:00:00		45	162-163	Bulletin of Zoological Nomenclature	Opinion
+1490	False	1988-06-24 00:00:00		45	164	Bulletin of Zoological Nomenclature	Opinion
+1491	False	1988-06-24 00:00:00		45	165-166	Bulletin of Zoological Nomenclature	Opinion
+1492	False	1988-06-24 00:00:00		45	167	Bulletin of Zoological Nomenclature	Opinion
+1493	False	1988-06-24 00:00:00		45	168-169	Bulletin of Zoological Nomenclature	Opinion
+1494	False	1988-06-24 00:00:00		45	170	Bulletin of Zoological Nomenclature	Opinion
+1495	False	1988-06-24 00:00:00		45	171-172	Bulletin of Zoological Nomenclature	Opinion
+1496	False	1988-06-24 00:00:00		45	173-174	Bulletin of Zoological Nomenclature	Opinion
+1497	False	1988-06-24 00:00:00		45	175	Bulletin of Zoological Nomenclature	Opinion
+1498	False	1988-06-24 00:00:00		45	176	Bulletin of Zoological Nomenclature	Opinion
+1499	False	1988-06-24 00:00:00		45	177	Bulletin of Zoological Nomenclature	Opinion
+1500	False	1988-06-24 00:00:00		45	178-179	Bulletin of Zoological Nomenclature	Opinion
+1501	False	1988-09-23 00:00:00		45	224-225	Bulletin of Zoological Nomenclature	Opinion
+1502	False	1988-09-23 00:00:00		45	226-227	Bulletin of Zoological Nomenclature	Opinion
+1503	False	1988-09-23 00:00:00		45	228-229	Bulletin of Zoological Nomenclature	Opinion
+1504	False	1988-09-23 00:00:00		45	230-232	Bulletin of Zoological Nomenclature	Opinion
+1505	False	1988-09-23 00:00:00		45	233-234	Bulletin of Zoological Nomenclature	Opinion
+1506	False	1988-09-23 00:00:00		45	235	Bulletin of Zoological Nomenclature	Opinion
+1507	False	1988-09-23 00:00:00		45	236	Bulletin of Zoological Nomenclature	Opinion
+1508	False	1988-09-23 00:00:00		45	237	Bulletin of Zoological Nomenclature	Opinion
+1509	False	1988-09-23 00:00:00		45	238	Bulletin of Zoological Nomenclature	Opinion
+1510	False	1988-09-23 00:00:00		45	239-240	Bulletin of Zoological Nomenclature	Opinion
+1511	False	1988-09-23 00:00:00		45	241	Bulletin of Zoological Nomenclature	Opinion
+1512	False	1988-09-23 00:00:00		45	242	Bulletin of Zoological Nomenclature	Opinion
+1513	False	1988-09-23 00:00:00		45	243	Bulletin of Zoological Nomenclature	Opinion
+1514	False	1988-09-23 00:00:00		45	244	Bulletin of Zoological Nomenclature	Opinion
+1515	False	1988-09-23 00:00:00		45	245-246	Bulletin of Zoological Nomenclature	Opinion
+1516	False	1988-09-23 00:00:00		45	247	Bulletin of Zoological Nomenclature	Opinion
+1517	False	1988-09-23 00:00:00		45	248	Bulletin of Zoological Nomenclature	Opinion
+1518	False	1989-03-29 00:00:00		46	53	Bulletin of Zoological Nomenclature	Opinion
+1519	False	1989-03-29 00:00:00		46	54-55	Bulletin of Zoological Nomenclature	Opinion
+1520	False	1989-03-29 00:00:00		46	56-57	Bulletin of Zoological Nomenclature	Opinion
+1521	False	1989-03-29 00:00:00		46	58-60	Bulletin of Zoological Nomenclature	Opinion
+1522	False	1989-03-29 00:00:00		46	61-62	Bulletin of Zoological Nomenclature	Opinion
+1523	False	1989-03-29 00:00:00		46	63	Bulletin of Zoological Nomenclature	Opinion
+1524	False	1989-03-29 00:00:00		46	64	Bulletin of Zoological Nomenclature	Opinion
+1525	False	1989-03-29 00:00:00		46	65-66	Bulletin of Zoological Nomenclature	Opinion
+1526	False	1989-03-29 00:00:00		46	67-68	Bulletin of Zoological Nomenclature	Opinion
+1527	False	1989-03-29 00:00:00		46	69	Bulletin of Zoological Nomenclature	Opinion
+1528	False	1989-03-29 00:00:00		46	70	Bulletin of Zoological Nomenclature	Opinion
+1529	False	1989-03-29 00:00:00		46	71-73	Bulletin of Zoological Nomenclature	Opinion
+1530	False	1989-03-29 00:00:00		46	74-75	Bulletin of Zoological Nomenclature	Opinion
+1531	False	1989-03-29 00:00:00		46	76	Bulletin of Zoological Nomenclature	Opinion
+1532	False	1989-03-29 00:00:00		46	77-78	Bulletin of Zoological Nomenclature	Opinion
+1533	False	1989-03-29 00:00:00		46	79-80	Bulletin of Zoological Nomenclature	Opinion
+1534	False	1989-03-29 00:00:00		46	81-82	Bulletin of Zoological Nomenclature	Opinion
+1535	False	1989-03-29 00:00:00		46	83-84	Bulletin of Zoological Nomenclature	Opinion
+1536	False	1989-06-23 00:00:00		46	135-136	Bulletin of Zoological Nomenclature	Opinion
+1537	False	1989-06-23 00:00:00		46	137	Bulletin of Zoological Nomenclature	Opinion
+1538	False	1989-06-23 00:00:00		46	138-139	Bulletin of Zoological Nomenclature	Opinion
+1539	False	1989-06-23 00:00:00		46	140	Bulletin of Zoological Nomenclature	Opinion
+1540	False	1989-06-23 00:00:00		46	141	Bulletin of Zoological Nomenclature	Opinion
+1541	False	1989-06-23 00:00:00		46	142	Bulletin of Zoological Nomenclature	Opinion
+1542	False	1989-06-23 00:00:00		46	143-144	Bulletin of Zoological Nomenclature	Opinion
+1543	False	1989-06-23 00:00:00		46	145	Bulletin of Zoological Nomenclature	Opinion
+1544	False	1989-06-23 00:00:00		46	146-147	Bulletin of Zoological Nomenclature	Opinion
+1545	False	1989-06-23 00:00:00		46	148	Bulletin of Zoological Nomenclature	Opinion
+1546	False	1989-06-23 00:00:00		46	149-150	Bulletin of Zoological Nomenclature	Opinion
+1547	False	1989-06-23 00:00:00		46	151	Bulletin of Zoological Nomenclature	Opinion
+1548	False	1989-06-23 00:00:00		46	152	Bulletin of Zoological Nomenclature	Opinion
+1549	False	1989-09-29 00:00:00		46	193-194	Bulletin of Zoological Nomenclature	Opinion
+1550	False	1989-09-29 00:00:00		46	195-196	Bulletin of Zoological Nomenclature	Opinion
+1551	False	1989-09-29 00:00:00		46	197-198	Bulletin of Zoological Nomenclature	Opinion
+1552	False	1989-09-29 00:00:00		46	199-200	Bulletin of Zoological Nomenclature	Opinion
+1553	False	1989-09-29 00:00:00		46	201-202	Bulletin of Zoological Nomenclature	Opinion
+1554	False	1989-09-29 00:00:00		46	203	Bulletin of Zoological Nomenclature	Opinion
+1555	False	1989-09-29 00:00:00		46	204	Bulletin of Zoological Nomenclature	Opinion
+1556	False	1989-09-29 00:00:00		46	205	Bulletin of Zoological Nomenclature	Opinion
+1557	False	1989-09-29 00:00:00		46	206-207	Bulletin of Zoological Nomenclature	Opinion
+1558	False	1989-09-29 00:00:00		46	208	Bulletin of Zoological Nomenclature	Opinion
+1559	False	1989-09-29 00:00:00		46	209	Bulletin of Zoological Nomenclature	Opinion
+1560	False	1989-09-29 00:00:00		46	210	Bulletin of Zoological Nomenclature	Opinion
+1561	False	1989-09-29 00:00:00		46	211	Bulletin of Zoological Nomenclature	Opinion
+1562	False	1989-09-29 00:00:00		46	212	Bulletin of Zoological Nomenclature	Opinion
+1563	False	1989-09-29 00:00:00		46	213-214	Bulletin of Zoological Nomenclature	Opinion
+1564	False	1989-09-29 00:00:00		46	215-216	Bulletin of Zoological Nomenclature	Opinion
+1565	False	1989-09-29 00:00:00		46	217-218	Bulletin of Zoological Nomenclature	Opinion
+1566	False	1989-09-29 00:00:00		46	219-220	Bulletin of Zoological Nomenclature	Opinion
+1567	False	1990-03-27 00:00:00		47	53-54	Bulletin of Zoological Nomenclature	Opinion
+1568	False	1990-03-27 00:00:00		47	55-56	Bulletin of Zoological Nomenclature	Opinion
+1569	False	1990-03-27 00:00:00		47	57-58	Bulletin of Zoological Nomenclature	Opinion
+1570	False	1990-03-27 00:00:00		47	59	Bulletin of Zoological Nomenclature	Opinion
+1571	False	1990-03-27 00:00:00		47	60-61	Bulletin of Zoological Nomenclature	Opinion
+1572	False	1990-03-27 00:00:00		47	62	Bulletin of Zoological Nomenclature	Opinion
+1573	False	1990-03-27 00:00:00		47	63-64	Bulletin of Zoological Nomenclature	Opinion
+1574	False	1990-03-27 00:00:00		47	65-66	Bulletin of Zoological Nomenclature	Opinion
+1575	False	1990-03-27 00:00:00		47	67-68	Bulletin of Zoological Nomenclature	Opinion
+1576	False	1990-03-27 00:00:00		47	69-70	Bulletin of Zoological Nomenclature	Opinion
+1577	False	1990-03-27 00:00:00		47	71-72	Bulletin of Zoological Nomenclature	Opinion
+1578	False	1990-03-27 00:00:00		47	73	Bulletin of Zoological Nomenclature	Opinion
+1579	False	1990-03-27 00:00:00		47	74	Bulletin of Zoological Nomenclature	Opinion
+1580	False	1990-03-27 00:00:00		47	75	Bulletin of Zoological Nomenclature	Opinion
+1581	False	1990-03-27 00:00:00		47	76	Bulletin of Zoological Nomenclature	Opinion
+1582	False	1990-03-27 00:00:00		47	77-78	Bulletin of Zoological Nomenclature	Opinion
+1583	False	1990-03-27 00:00:00		47	79-80	Bulletin of Zoological Nomenclature	Opinion
+1584	False	1990-03-27 00:00:00		47	81-82	Bulletin of Zoological Nomenclature	Opinion
+1585	False	1990-03-27 00:00:00		47	83	Bulletin of Zoological Nomenclature	Opinion
+1586	False	1990-03-27 00:00:00		47	84	Bulletin of Zoological Nomenclature	Opinion
+1587	False	1990-06-29 00:00:00		47	141-142	Bulletin of Zoological Nomenclature	Opinion
+1588	False	1990-06-29 00:00:00		47	143	Bulletin of Zoological Nomenclature	Opinion
+1589	False	1990-06-29 00:00:00		47	144	Bulletin of Zoological Nomenclature	Opinion
+1590	False	1990-06-29 00:00:00		47	145-146	Bulletin of Zoological Nomenclature	Opinion
+1591	False	1990-06-29 00:00:00		47	147	Bulletin of Zoological Nomenclature	Opinion
+1592	False	1990-06-29 00:00:00		47	148-149	Bulletin of Zoological Nomenclature	Opinion
+1593	False	1990-06-29 00:00:00		47	150-151	Bulletin of Zoological Nomenclature	Opinion
+1594	False	1990-06-29 00:00:00		47	152	Bulletin of Zoological Nomenclature	Opinion
+1595	False	1990-06-29 00:00:00		47	153	Bulletin of Zoological Nomenclature	Opinion
+1596	False	1990-06-29 00:00:00		47	154-155	Bulletin of Zoological Nomenclature	Opinion
+1597	False	1990-06-29 00:00:00		47	156-157	Bulletin of Zoological Nomenclature	Opinion
+1598	False	1990-06-29 00:00:00		47	158-159	Bulletin of Zoological Nomenclature	Opinion
+1599	False	1990-06-29 00:00:00		47	160	Bulletin of Zoological Nomenclature	Opinion
+1600	False	1990-06-29 00:00:00		47	161	Bulletin of Zoological Nomenclature	Opinion
+1601	False	1990-06-29 00:00:00		47	162	Bulletin of Zoological Nomenclature	Opinion
+1602	False	1990-06-29 00:00:00		47	163	Bulletin of Zoological Nomenclature	Opinion
+1603	False	1990-06-29 00:00:00		47	164-165	Bulletin of Zoological Nomenclature	Opinion
+1604	False	1990-06-29 00:00:00		47	166-167	Bulletin of Zoological Nomenclature	Opinion
+1605	False	1990-06-29 00:00:00		47	168	Bulletin of Zoological Nomenclature	Opinion
+1606	False	1990-06-29 00:00:00		47	169-170	Bulletin of Zoological Nomenclature	Opinion
+1607	False	1990-06-29 00:00:00		47	171-172	Bulletin of Zoological Nomenclature	Opinion
+1608	False	1990-09-28 00:00:00		47	217	Bulletin of Zoological Nomenclature	Opinion
+1609	False	1990-09-28 00:00:00		47	218-219	Bulletin of Zoological Nomenclature	Opinion
+1610	False	1990-09-28 00:00:00		47	220-221	Bulletin of Zoological Nomenclature	Opinion
+1611	False	1990-09-28 00:00:00		47	222-223	Bulletin of Zoological Nomenclature	Opinion
+1612	False	1990-09-28 00:00:00		47	224-225	Bulletin of Zoological Nomenclature	Opinion
+1613	False	1990-09-28 00:00:00		47	226-227	Bulletin of Zoological Nomenclature	Opinion
+1614	False	1990-09-28 00:00:00		47	228	Bulletin of Zoological Nomenclature	Opinion
+1615	False	1990-09-28 00:00:00		47	229-230	Bulletin of Zoological Nomenclature	Opinion
+1616	False	1990-09-28 00:00:00		47	231-232	Bulletin of Zoological Nomenclature	Opinion
+1617	False	1990-09-28 00:00:00		47	233-234	Bulletin of Zoological Nomenclature	Opinion
+1618	False	1990-09-28 00:00:00		47	235-236	Bulletin of Zoological Nomenclature	Opinion
+1619	False	1990-09-28 00:00:00		47	237	Bulletin of Zoological Nomenclature	Opinion
+1620	False	1990-09-28 00:00:00		47	238	Bulletin of Zoological Nomenclature	Opinion
+1621	False	1990-09-28 00:00:00		47	239-240	Bulletin of Zoological Nomenclature	Opinion
+1622	False	1990-12-20 00:00:00		47	300	Bulletin of Zoological Nomenclature	Opinion
+1623	False	1991-03-26 00:00:00		48	66-67	Bulletin of Zoological Nomenclature	Opinion
+1624	False	1991-03-26 00:00:00		48	68	Bulletin of Zoological Nomenclature	Opinion
+1625	False	1991-03-26 00:00:00		48	69-70	Bulletin of Zoological Nomenclature	Opinion
+1626	False	1991-03-26 00:00:00		48	71	Bulletin of Zoological Nomenclature	Opinion
+1627	False	1991-03-26 00:00:00		48	72-73	Bulletin of Zoological Nomenclature	Opinion
+1628	False	1991-03-26 00:00:00		48	74-75	Bulletin of Zoological Nomenclature	Opinion
+1629	False	1991-03-26 00:00:00		48	76-77	Bulletin of Zoological Nomenclature	Opinion
+1630	False	1991-03-26 00:00:00		48	78-79	Bulletin of Zoological Nomenclature	Opinion
+1631	False	1991-03-26 00:00:00		48	80--81	Bulletin of Zoological Nomenclature	Opinion
+1632	False	1991-03-26 00:00:00		48	82	Bulletin of Zoological Nomenclature	Opinion
+1633	False	1991-03-26 00:00:00		48	83	Bulletin of Zoological Nomenclature	Opinion
+1634	False	1991-03-26 00:00:00		48	84	Bulletin of Zoological Nomenclature	Opinion
+1635	False	1991-06-27 00:00:00		48	162-163	Bulletin of Zoological Nomenclature	Opinion
+1636	False	1991-06-27 00:00:00		48	164-165	Bulletin of Zoological Nomenclature	Opinion
+1637	False	1991-06-27 00:00:00		48	166-167	Bulletin of Zoological Nomenclature	Opinion
+1638	False	1991-06-27 00:00:00		48	168	Bulletin of Zoological Nomenclature	Opinion
+1639	False	1991-06-27 00:00:00		48	169-170	Bulletin of Zoological Nomenclature	Opinion
+1640	False	1991-06-27 00:00:00		48	171-172	Bulletin of Zoological Nomenclature	Opinion
+1641	False	1991-06-27 00:00:00		48	173-174	Bulletin of Zoological Nomenclature	Opinion
+1642	False	1991-06-27 00:00:00		48	175-176	Bulletin of Zoological Nomenclature	Opinion
+1643	False	1991-06-27 00:00:00		48	177-178	Bulletin of Zoological Nomenclature	Opinion
+1644	False	1991-06-27 00:00:00		48	179-180	Bulletin of Zoological Nomenclature	Opinion
+1645	False	1991-06-27 00:00:00		48	181-182	Bulletin of Zoological Nomenclature	Opinion
+1646	False	1991-06-27 00:00:00		48	183-184	Bulletin of Zoological Nomenclature	Opinion
+1647	False	1991-06-27 00:00:00		48	185-186	Bulletin of Zoological Nomenclature	Opinion
+1648	False	1991-06-27 00:00:00		48	187-188	Bulletin of Zoological Nomenclature	Opinion
+1649	False	1991-09-30 00:00:00		48	256-257	Bulletin of Zoological Nomenclature	Opinion
+1650	False	1991-09-30 00:00:00		48	258-260	Bulletin of Zoological Nomenclature	Opinion
+1651	False	1991-09-30 00:00:00		48	261-262	Bulletin of Zoological Nomenclature	Opinion
+1652	False	1991-09-30 00:00:00		48	263-264	Bulletin of Zoological Nomenclature	Opinion
+1653	False	1991-09-30 00:00:00		48	265	Bulletin of Zoological Nomenclature	Opinion
+1654	False	1991-09-30 00:00:00		48	266-267	Bulletin of Zoological Nomenclature	Opinion
+1655	False	1991-09-30 00:00:00		48	268-269	Bulletin of Zoological Nomenclature	Opinion
+1656	False	1991-09-30 00:00:00		48	270-271	Bulletin of Zoological Nomenclature	Opinion
+1657	False	1991-09-30 00:00:00		48	272-273	Bulletin of Zoological Nomenclature	Opinion
+1658	False	1991-09-30 00:00:00		48	274-275	Bulletin of Zoological Nomenclature	Opinion
+1659	False	1991-09-30 00:00:00		48	276	Bulletin of Zoological Nomenclature	Opinion
+1660	False	1991-09-30 00:00:00		48	277-278	Bulletin of Zoological Nomenclature	Opinion
+1661	False	1991-09-30 00:00:00		48	279-280	Bulletin of Zoological Nomenclature	Opinion
+1662	False	1992-03-26 00:00:00		49	74-75	Bulletin of Zoological Nomenclature	Opinion
+1663	False	1992-03-26 00:00:00		49	76-77	Bulletin of Zoological Nomenclature	Opinion
+1664	False	1992-03-26 00:00:00		49	78-80	Bulletin of Zoological Nomenclature	Opinion
+1665	False	1992-03-26 00:00:00		49	81-82	Bulletin of Zoological Nomenclature	Opinion
+1666	False	1992-03-26 00:00:00		49	83-84	Bulletin of Zoological Nomenclature	Opinion
+1667	False	1992-03-26 00:00:00		49	85	Bulletin of Zoological Nomenclature	Opinion
+1668	False	1992-03-26 00:00:00		49	86-87	Bulletin of Zoological Nomenclature	Opinion
+1669	False	1992-03-26 00:00:00		49	88-89	Bulletin of Zoological Nomenclature	Opinion
+1670	False	1992-03-26 00:00:00		49	90	Bulletin of Zoological Nomenclature	Opinion
+1671	False	1992-03-26 00:00:00		49	91-92	Bulletin of Zoological Nomenclature	Opinion
+1672	False	1992-03-26 00:00:00		49	93-94	Bulletin of Zoological Nomenclature	Opinion
+1673	False	1992-03-26 00:00:00		49	95-96	Bulletin of Zoological Nomenclature	Opinion
+1674	False	1992-03-26 00:00:00		49	97-99	Bulletin of Zoological Nomenclature	Opinion
+1675	False	1992-06-25 00:00:00		49	157	Bulletin of Zoological Nomenclature	Opinion
+1676	False	1992-06-25 00:00:00		49	158	Bulletin of Zoological Nomenclature	Opinion
+1677	False	1992-06-25 00:00:00		49	159	Bulletin of Zoological Nomenclature	Opinion
+1678	False	1992-06-25 00:00:00		49	160-161	Bulletin of Zoological Nomenclature	Opinion
+1679	False	1992-06-25 00:00:00		49	162	Bulletin of Zoological Nomenclature	Opinion
+1680	False	1992-06-25 00:00:00		49	163-164	Bulletin of Zoological Nomenclature	Opinion
+1681	False	1992-06-25 00:00:00		49	165-166	Bulletin of Zoological Nomenclature	Opinion
+1682	False	1992-06-25 00:00:00		49	167	Bulletin of Zoological Nomenclature	Opinion
+1683	False	1992-06-25 00:00:00		49	168	Bulletin of Zoological Nomenclature	Opinion
+1684	False	1992-06-25 00:00:00		49	169-170	Bulletin of Zoological Nomenclature	Opinion
+1685	False	1992-06-25 00:00:00		49	171-173	Bulletin of Zoological Nomenclature	Opinion
+1686	False	1992-06-25 00:00:00		49	174-175	Bulletin of Zoological Nomenclature	Opinion
+1687	False	1992-06-25 00:00:00		49	176-177	Bulletin of Zoological Nomenclature	Opinion
+1688	False	1992-06-25 00:00:00		49	178-179	Bulletin of Zoological Nomenclature	Opinion
+1689	False	1992-09-30 00:00:00		49	236-237	Bulletin of Zoological Nomenclature	Opinion
+1690	False	1992-09-30 00:00:00		49	238-239	Bulletin of Zoological Nomenclature	Opinion
+1691	False	1992-09-30 00:00:00		49	240-241	Bulletin of Zoological Nomenclature	Opinion
+1692	False	1992-09-30 00:00:00		49	242-243	Bulletin of Zoological Nomenclature	Opinion
+1693	False	1992-09-30 00:00:00		49	244-245	Bulletin of Zoological Nomenclature	Opinion
+1694	False	1992-09-30 00:00:00		49	246-247	Bulletin of Zoological Nomenclature	Opinion
+1695	False	1992-09-30 00:00:00		49	248-249	Bulletin of Zoological Nomenclature	Opinion
+1696	False	1992-09-30 00:00:00		49	250-251	Bulletin of Zoological Nomenclature	Opinion
+1697	False	1992-12-17 00:00:00		49	292-293	Bulletin of Zoological Nomenclature	Opinion
+1698	False	1992-12-17 00:00:00		49	294	Bulletin of Zoological Nomenclature	Opinion
+1699	False	1993-03-25 00:00:00		50	59-60	Bulletin of Zoological Nomenclature	Opinion
+1700	False	1993-03-25 00:00:00		50	61-62	Bulletin of Zoological Nomenclature	Opinion
+1701	False	1993-03-25 00:00:00		50	63-64	Bulletin of Zoological Nomenclature	Opinion
+1702	False	1993-03-25 00:00:00		50	65	Bulletin of Zoological Nomenclature	Opinion
+1703	False	1993-03-25 00:00:00		50	66-67	Bulletin of Zoological Nomenclature	Opinion
+1704	False	1993-03-25 00:00:00		50	68-69	Bulletin of Zoological Nomenclature	Opinion
+1705	False	1993-03-25 00:00:00		50	70-71	Bulletin of Zoological Nomenclature	Opinion
+1706	False	1993-03-25 00:00:00		50	72-73	Bulletin of Zoological Nomenclature	Opinion
+1707	False	1993-03-25 00:00:00		50	74	Bulletin of Zoological Nomenclature	Opinion
+1708	False	1993-03-25 00:00:00		50	75-76	Bulletin of Zoological Nomenclature	Opinion
+1709	False	1993-03-25 00:00:00		50	77-78	Bulletin of Zoological Nomenclature	Opinion
+1710	False	1993-03-25 00:00:00		50	79-82	Bulletin of Zoological Nomenclature	Opinion
+1711	False	1993-03-25 00:00:00		50	83	Bulletin of Zoological Nomenclature	Opinion
+1712	False	1993-03-25 00:00:00		50	84	Bulletin of Zoological Nomenclature	Opinion
+1713	False	1993-03-25 00:00:00		50	85-89	Bulletin of Zoological Nomenclature	Opinion
+1714	False	1993-03-25 00:00:00		50	90-91	Bulletin of Zoological Nomenclature	Opinion
+1715	False	1993-03-25 00:00:00		50	92-93	Bulletin of Zoological Nomenclature	Opinion
+1716	False	1993-03-25 00:00:00		50	94-95	Bulletin of Zoological Nomenclature	Opinion
+1717	False	1993-06-30 00:00:00		50	152-154	Bulletin of Zoological Nomenclature	Opinion
+1718	False	1993-06-30 00:00:00		50	155-156	Bulletin of Zoological Nomenclature	Opinion
+1719	False	1993-06-30 00:00:00		50	157-158	Bulletin of Zoological Nomenclature	Opinion
+1720	False	1993-06-30 00:00:00		50	159-160	Bulletin of Zoological Nomenclature	Opinion
+1721	False	1993-06-30 00:00:00		50	161-163	Bulletin of Zoological Nomenclature	Opinion
+1722	False	1993-06-30 00:00:00		50	164-165	Bulletin of Zoological Nomenclature	Opinion
+1723	False	1993-06-30 00:00:00		50	166	Bulletin of Zoological Nomenclature	Opinion
+1724	False	1993-06-30 00:00:00		50	167-168	Bulletin of Zoological Nomenclature	Opinion
+1725	False	1993-06-30 00:00:00		50	169-170	Bulletin of Zoological Nomenclature	Opinion
+1726	False	1993-06-30 00:00:00		50	171-173	Bulletin of Zoological Nomenclature	Opinion
+1727	False	1993-06-30 00:00:00		50	174-175	Bulletin of Zoological Nomenclature	Opinion
+1728	False	1993-06-30 00:00:00		50	176	Bulletin of Zoological Nomenclature	Opinion
+1729	False	1993-06-30 00:00:00		50	177-178	Bulletin of Zoological Nomenclature	Opinion
+1730	False	1993-06-30 00:00:00		50	179-180	Bulletin of Zoological Nomenclature	Opinion
+1731	False	1993-06-30 00:00:00		50	181	Bulletin of Zoological Nomenclature	Opinion
+1732	False	1993-06-30 00:00:00		50	182	Bulletin of Zoological Nomenclature	Opinion
+1733	False	1993-06-30 00:00:00		50	183	Bulletin of Zoological Nomenclature	Opinion
+1734	False	1993-06-30 00:00:00		50	184-185	Bulletin of Zoological Nomenclature	Opinion
+1735	False	1993-06-30 00:00:00		50	186-187	Bulletin of Zoological Nomenclature	Opinion
+1736	False	1993-06-30 00:00:00		50	188-189	Bulletin of Zoological Nomenclature	Opinion
+1737	False	1993-06-30 00:00:00		50	190-191	Bulletin of Zoological Nomenclature	Opinion
+1738	False	1993-09-30 00:00:00		50	240-241	Bulletin of Zoological Nomenclature	Opinion
+1739	False	1993-09-30 00:00:00		50	242-243	Bulletin of Zoological Nomenclature	Opinion
+1740	False	1993-09-30 00:00:00		50	244	Bulletin of Zoological Nomenclature	Opinion
+1741	False	1993-09-30 00:00:00		50	245	Bulletin of Zoological Nomenclature	Opinion
+1742	False	1993-09-30 00:00:00		50	246-247	Bulletin of Zoological Nomenclature	Opinion
+1743	False	1993-09-30 00:00:00		50	248-250	Bulletin of Zoological Nomenclature	Opinion
+1744	False	1993-09-30 00:00:00		50	251-252	Bulletin of Zoological Nomenclature	Opinion
+1745	False	1993-09-30 00:00:00		50	253-254	Bulletin of Zoological Nomenclature	Opinion
+1746	False	1993-09-30 00:00:00		50	255	Bulletin of Zoological Nomenclature	Opinion
+1747	False	1993-09-30 00:00:00		50	256-258	Bulletin of Zoological Nomenclature	Opinion
+1748	False	1993-09-30 00:00:00		50	259-260	Bulletin of Zoological Nomenclature	Opinion
+1749	False	1993-09-30 00:00:00		50	261-263	Bulletin of Zoological Nomenclature	Opinion
+1750	False	1993-12-16 00:00:00		50	297	Bulletin of Zoological Nomenclature	Opinion
+1751	False	1993-12-16 00:00:00		50	298-299	Bulletin of Zoological Nomenclature	Opinion
+1752	False	1994-03-30 00:00:00		51	54-55	Bulletin of Zoological Nomenclature	Opinion
+1753	False	1994-03-30 00:00:00		51	56-57	Bulletin of Zoological Nomenclature	Opinion
+1754	False	1994-03-30 00:00:00		51	58-70	Bulletin of Zoological Nomenclature	Opinion
+1755	False	1994-03-30 00:00:00		51	71	Bulletin of Zoological Nomenclature	Opinion
+1756	False	1994-03-30 00:00:00		51	72-73	Bulletin of Zoological Nomenclature	Opinion
+1757	False	1994-03-30 00:00:00		51	74-75	Bulletin of Zoological Nomenclature	Opinion
+1758	False	1994-03-30 00:00:00		51	76-78	Bulletin of Zoological Nomenclature	Opinion
+1759	False	1994-03-30 00:00:00		51	79	Bulletin of Zoological Nomenclature	Opinion
+1760	False	1994-03-30 00:00:00		51	80	Bulletin of Zoological Nomenclature	Opinion
+1761	False	1994-03-30 00:00:00		51	81	Bulletin of Zoological Nomenclature	Opinion
+1762	False	1994-03-30 00:00:00		51	82-83	Bulletin of Zoological Nomenclature	Opinion
+1763	False	1994-03-30 00:00:00		51	84-85	Bulletin of Zoological Nomenclature	Opinion
+1764	False	1994-03-30 00:00:00		51	86-87	Bulletin of Zoological Nomenclature	Opinion
+1765	False	1994-06-30 00:00:00		51	159-161	Bulletin of Zoological Nomenclature	Opinion
+1766	False	1994-06-30 00:00:00		51	162-163	Bulletin of Zoological Nomenclature	Opinion
+1767	False	1994-06-30 00:00:00		51	164-165	Bulletin of Zoological Nomenclature	Opinion
+1768	False	1994-06-30 00:00:00		51	166-167	Bulletin of Zoological Nomenclature	Opinion
+1769	False	1994-06-30 00:00:00		51	168-169	Bulletin of Zoological Nomenclature	Opinion
+1770	False	1994-06-30 00:00:00		51	170-171	Bulletin of Zoological Nomenclature	Opinion
+1771	False	1994-06-30 00:00:00		51	172-173	Bulletin of Zoological Nomenclature	Opinion
+1772	False	1994-06-30 00:00:00		51	174-175	Bulletin of Zoological Nomenclature	Opinion
+1773	False	1994-06-30 00:00:00		51	176-177	Bulletin of Zoological Nomenclature	Opinion
+1774	False	1994-06-30 00:00:00		51	178	Bulletin of Zoological Nomenclature	Opinion
+1775	False	1994-06-30 00:00:00		51	179-180	Bulletin of Zoological Nomenclature	Opinion
+1776	False	1994-06-30 00:00:00		51	181	Bulletin of Zoological Nomenclature	Opinion
+1777	False	1994-06-30 00:00:00		51	182-183	Bulletin of Zoological Nomenclature	Opinion
+1778	False	1994-09-30 00:00:00		51	268-270	Bulletin of Zoological Nomenclature	Opinion
+1779	False	1994-09-30 00:00:00		51	271-272	Bulletin of Zoological Nomenclature	Opinion
+1780	False	1994-09-30 00:00:00		51	273-274	Bulletin of Zoological Nomenclature	Opinion
+1781	False	1994-09-30 00:00:00		51	275-276	Bulletin of Zoological Nomenclature	Opinion
+1782	False	1994-09-30 00:00:00		51	277-278	Bulletin of Zoological Nomenclature	Opinion
+1783	False	1994-09-30 00:00:00		51	279	Bulletin of Zoological Nomenclature	Opinion
+1784	False	1994-09-30 00:00:00		51	280-282	Bulletin of Zoological Nomenclature	Opinion
+1785	False	1994-09-30 00:00:00		51	283-284	Bulletin of Zoological Nomenclature	Opinion
+1786	False	1994-09-30 00:00:00		51	285	Bulletin of Zoological Nomenclature	Opinion
+1787	False	1994-09-30 00:00:00		51	286-287	Bulletin of Zoological Nomenclature	Opinion
+1788	False	1994-09-30 00:00:00		51	288	Bulletin of Zoological Nomenclature	Opinion
+1789	False	1994-09-30 00:00:00		51	289	Bulletin of Zoological Nomenclature	Opinion
+1790	False	1994-09-30 00:00:00		51	290	Bulletin of Zoological Nomenclature	Opinion
+1791	False	1994-09-30 00:00:00		51	291	Bulletin of Zoological Nomenclature	Opinion
+1792	False	1995-03-30 00:00:00		52	94-95	Bulletin of Zoological Nomenclature	Opinion
+1793	False	1995-03-30 00:00:00		52	96-97	Bulletin of Zoological Nomenclature	Opinion
+1794	False	1995-03-30 00:00:00		52	98-99	Bulletin of Zoological Nomenclature	Opinion
+1795	False	1995-03-30 00:00:00		52	100-101	Bulletin of Zoological Nomenclature	Opinion
+1796	False	1995-03-30 00:00:00		52	102-103	Bulletin of Zoological Nomenclature	Opinion
+1797	False	1995-03-30 00:00:00		52	104-105	Bulletin of Zoological Nomenclature	Opinion
+1798	False	1995-03-30 00:00:00		52	106-108	Bulletin of Zoological Nomenclature	Opinion
+1799	False	1995-03-30 00:00:00		52	109-110	Bulletin of Zoological Nomenclature	Opinion
+1800	False	1995-03-30 00:00:00		52	111-112	Bulletin of Zoological Nomenclature	Opinion
+1801	False	1995-03-30 00:00:00		52	113	Bulletin of Zoological Nomenclature	Opinion
+1802	False	1995-03-30 00:00:00		52	114-115	Bulletin of Zoological Nomenclature	Opinion
+1803	False	1995-06-30 00:00:00		52	194-195	Bulletin of Zoological Nomenclature	Opinion
+1804	False	1995-06-30 00:00:00		52	196-197	Bulletin of Zoological Nomenclature	Opinion
+1805	False	1995-06-30 00:00:00		52	198-199	Bulletin of Zoological Nomenclature	Opinion
+1806	False	1995-06-30 00:00:00		52	200-203	Bulletin of Zoological Nomenclature	Opinion
+1807	False	1995-06-30 00:00:00		52	204-205	Bulletin of Zoological Nomenclature	Opinion
+1808	False	1995-06-30 00:00:00		52	206-207	Bulletin of Zoological Nomenclature	Opinion
+1809	False	1995-06-30 00:00:00		52	208-210	Bulletin of Zoological Nomenclature	Opinion
+1810	False	1995-06-30 00:00:00		52	211-213	Bulletin of Zoological Nomenclature	Opinion
+1811	False	1995-06-30 00:00:00		52	214-216	Bulletin of Zoological Nomenclature	Opinion
+1812	False	1995-06-30 00:00:00		52	217-218	Bulletin of Zoological Nomenclature	Opinion
+1813	False	1995-06-30 00:00:00		52	219-221	Bulletin of Zoological Nomenclature	Opinion
+1814	False	1995-06-30 00:00:00		52	222-223	Bulletin of Zoological Nomenclature	Opinion
+1815	False	1995-09-28 00:00:00		52	276-277	Bulletin of Zoological Nomenclature	Opinion
+1816	False	1995-09-28 00:00:00		52	278	Bulletin of Zoological Nomenclature	Opinion
+1817	False	1995-09-28 00:00:00		52	279-280	Bulletin of Zoological Nomenclature	Opinion
+1818	False	1995-09-28 00:00:00		52	281	Bulletin of Zoological Nomenclature	Opinion
+1819	False	1995-09-28 00:00:00		52	282	Bulletin of Zoological Nomenclature	Opinion
+1820	False	1995-09-28 00:00:00		52	283-285	Bulletin of Zoological Nomenclature	Opinion
+1821	False	1995-09-28 00:00:00		52	286-287	Bulletin of Zoological Nomenclature	Opinion
+1822	False	1996-03-29 00:00:00		53	51-52	Bulletin of Zoological Nomenclature	Opinion
+1823	False	1996-03-29 00:00:00		53	53	Bulletin of Zoological Nomenclature	Opinion
+1824	False	1996-03-29 00:00:00		53	54-56	Bulletin of Zoological Nomenclature	Opinion
+1825	False	1996-03-29 00:00:00		53	57-59	Bulletin of Zoological Nomenclature	Opinion
+1826	False	1996-03-29 00:00:00		53	60-61	Bulletin of Zoological Nomenclature	Opinion
+1827	False	1996-03-29 00:00:00		53	62-63	Bulletin of Zoological Nomenclature	Opinion
+1828	False	1996-03-29 00:00:00		53	64-65	Bulletin of Zoological Nomenclature	Opinion
+1829	False	1996-03-29 00:00:00		53	66-67	Bulletin of Zoological Nomenclature	Opinion
+1830	False	1996-03-29 00:00:00		53	68-69	Bulletin of Zoological Nomenclature	Opinion
+1831	False	1996-03-29 00:00:00		53	70-71	Bulletin of Zoological Nomenclature	Opinion
+1832	False	1996-03-29 00:00:00		53	72-73	Bulletin of Zoological Nomenclature	Opinion
+1833	False	1996-03-29 00:00:00		53	74-75	Bulletin of Zoological Nomenclature	Opinion
+1834	False	1996-06-28 00:00:00		53	126-127	Bulletin of Zoological Nomenclature	Opinion
+1835	False	1996-06-28 00:00:00		53	128-129	Bulletin of Zoological Nomenclature	Opinion
+1836	False	1996-06-28 00:00:00		53	130-131	Bulletin of Zoological Nomenclature	Opinion
+1837	False	1996-06-28 00:00:00		53	132-133	Bulletin of Zoological Nomenclature	Opinion
+1838	False	1996-06-28 00:00:00		53	134-135	Bulletin of Zoological Nomenclature	Opinion
+1839	False	1996-06-28 00:00:00		53	136-137	Bulletin of Zoological Nomenclature	Opinion
+1840	False	1996-06-28 00:00:00		53	138-139	Bulletin of Zoological Nomenclature	Opinion
+1841	False	1996-06-28 00:00:00		53	140-141	Bulletin of Zoological Nomenclature	Opinion
+1842	False	1996-06-28 00:00:00		53	142-144	Bulletin of Zoological Nomenclature	Opinion
+1843	False	1996-09-30 00:00:00		53	201-202	Bulletin of Zoological Nomenclature	Opinion
+1844	False	1996-09-30 00:00:00		53	203	Bulletin of Zoological Nomenclature	Opinion
+1845	False	1996-09-30 00:00:00		53	204	Bulletin of Zoological Nomenclature	Opinion
+1846	False	1996-09-30 00:00:00		53	205-206	Bulletin of Zoological Nomenclature	Opinion
+1847	False	1996-09-30 00:00:00		53	207	Bulletin of Zoological Nomenclature	Opinion
+1848	False	1996-09-30 00:00:00		53	208-209	Bulletin of Zoological Nomenclature	Opinion
+1849	False	1996-09-30 00:00:00		53	210-212	Bulletin of Zoological Nomenclature	Opinion
+1850	False	1996-09-30 00:00:00		53	213-214	Bulletin of Zoological Nomenclature	Opinion
+1851	False	1996-09-30 00:00:00		53	215-217	Bulletin of Zoological Nomenclature	Opinion
+1852	False	1996-09-30 00:00:00		53	218-219	Bulletin of Zoological Nomenclature	Opinion
+1853	False	1996-09-30 00:00:00		53	220-221	Bulletin of Zoological Nomenclature	Opinion
+1854	False	1996-09-30 00:00:00		53	222	Bulletin of Zoological Nomenclature	Opinion
+1855	False	1996-09-30 00:00:00		53	223-225	Bulletin of Zoological Nomenclature	Opinion
+1856	False	1996-09-30 00:00:00		53	226-227	Bulletin of Zoological Nomenclature	Opinion
+1857	False	1996-12-20 00:00:00		53	289-290	Bulletin of Zoological Nomenclature	Opinion
+1858	False	1996-12-20 00:00:00		53	291	Bulletin of Zoological Nomenclature	Opinion
+1859	False	1996-12-20 00:00:00		53	292-294	Bulletin of Zoological Nomenclature	Opinion
+1860	False	1997-03-26 00:00:00		54	55-58	Bulletin of Zoological Nomenclature	Opinion
+1861	False	1997-03-26 00:00:00		54	59-61	Bulletin of Zoological Nomenclature	Opinion
+1862	False	1997-03-26 00:00:00		54	62-64	Bulletin of Zoological Nomenclature	Opinion
+1863	False	1997-03-26 00:00:00		54	65-67	Bulletin of Zoological Nomenclature	Opinion
+1864	False	1997-03-26 00:00:00		54	68-69	Bulletin of Zoological Nomenclature	Opinion
+1865	False	1997-03-26 00:00:00		54	70-71	Bulletin of Zoological Nomenclature	Opinion
+1866	False	1997-03-26 00:00:00		54	72-74	Bulletin of Zoological Nomenclature	Opinion
+1867	False	1997-03-26 00:00:00		54	75-76	Bulletin of Zoological Nomenclature	Opinion
+1868	False	1997-06-30 00:00:00		54	130	Bulletin of Zoological Nomenclature	Opinion
+1869	False	1997-06-30 00:00:00		54	131-132	Bulletin of Zoological Nomenclature	Opinion
+1870	False	1997-06-30 00:00:00		54	133-135	Bulletin of Zoological Nomenclature	Opinion
+1871	False	1997-06-30 00:00:00		54	136-137	Bulletin of Zoological Nomenclature	Opinion
+1872	False	1997-06-30 00:00:00		54	138-139	Bulletin of Zoological Nomenclature	Opinion
+1873	False	1997-06-30 00:00:00		54	140-141	Bulletin of Zoological Nomenclature	Opinion
+1874	False	1997-06-30 00:00:00		54	142-143	Bulletin of Zoological Nomenclature	Opinion
+1875	False	1977-09-30 00:00:00		54	190-191	Bulletin of Zoological Nomenclature	Opinion
+1876	False	1977-09-30 00:00:00		54	192	Bulletin of Zoological Nomenclature	Opinion
+1877	False	1977-09-30 00:00:00		54	193	Bulletin of Zoological Nomenclature	Opinion
+1878	False	1977-09-30 00:00:00		54	194	Bulletin of Zoological Nomenclature	Opinion
+1879	False	1977-09-30 00:00:00		54	195-196	Bulletin of Zoological Nomenclature	Opinion
+1880	False	1977-09-30 00:00:00		54	197-199	Bulletin of Zoological Nomenclature	Opinion
+1881	False	1977-09-30 00:00:00		54	200	Bulletin of Zoological Nomenclature	Opinion
+1882	False	1977-09-30 00:00:00		54	201-202	Bulletin of Zoological Nomenclature	Opinion
+1883	False	1977-09-30 00:00:00		54	203	Bulletin of Zoological Nomenclature	Opinion
+1884	False	1977-09-30 00:00:00		54	204-205	Bulletin of Zoological Nomenclature	Opinion
+1885	False	1977-09-30 00:00:00		54	206-207	Bulletin of Zoological Nomenclature	Opinion
+1886	False	1998-03-31 00:00:00		55	47-48	Bulletin of Zoological Nomenclature	Opinion
+1887	False	1998-03-31 00:00:00		55	49-50	Bulletin of Zoological Nomenclature	Opinion
+1888	False	1998-03-31 00:00:00		55	51	Bulletin of Zoological Nomenclature	Opinion
+1889	False	1998-03-31 00:00:00		55	52-53	Bulletin of Zoological Nomenclature	Opinion
+1890	False	1998-03-31 00:00:00		55	54-57	Bulletin of Zoological Nomenclature	Opinion
+1891	False	1998-03-31 00:00:00		55	58-60	Bulletin of Zoological Nomenclature	Opinion
+1892	False	1998-03-31 00:00:00		55	61	Bulletin of Zoological Nomenclature	Opinion
+1893	False	1998-03-31 00:00:00		55	62-63	Bulletin of Zoological Nomenclature	Opinion
+1894	False	1998-03-31 00:00:00		55	64-71	Bulletin of Zoological Nomenclature	Opinion
+1895	False	1998-06-30 00:00:00		55	121-122	Bulletin of Zoological Nomenclature	Opinion
+1896	False	1998-06-30 00:00:00		55	123	Bulletin of Zoological Nomenclature	Opinion
+1897	False	1998-06-30 00:00:00		55	124-128	Bulletin of Zoological Nomenclature	Opinion
+1898	False	1998-06-30 00:00:00		55	129-130	Bulletin of Zoological Nomenclature	Opinion
+1899	False	1998-06-30 00:00:00		55	131-132	Bulletin of Zoological Nomenclature	Opinion
+1900	False	1998-06-30 00:00:00		55	133-134	Bulletin of Zoological Nomenclature	Opinion
+1901	False	1998-06-30 00:00:00		55	135	Bulletin of Zoological Nomenclature	Opinion
+1902	False	1998-09-30 00:00:00		55	186	Bulletin of Zoological Nomenclature	Opinion
+1903	False	1998-09-30 00:00:00		55	187-188	Bulletin of Zoological Nomenclature	Opinion
+1904	False	1998-09-30 00:00:00		55	189-190	Bulletin of Zoological Nomenclature	Opinion
+1905	False	1998-09-30 00:00:00		55	191-193	Bulletin of Zoological Nomenclature	Opinion
+1906	False	1998-09-30 00:00:00		55	194-196	Bulletin of Zoological Nomenclature	Opinion
+1907	False	1998-09-30 00:00:00		55	197-198	Bulletin of Zoological Nomenclature	Opinion
+1908	False	1998-09-30 00:00:00		55	199-200	Bulletin of Zoological Nomenclature	Opinion
+1909	False	1998-09-30 00:00:00		55	201-203	Bulletin of Zoological Nomenclature	Opinion
+1910	False	1998-12-18 00:00:00		55	244-245	Bulletin of Zoological Nomenclature	Opinion
+1911	False	1998-12-18 00:00:00		55	246-247	Bulletin of Zoological Nomenclature	Opinion
+1912	False	1998-12-18 00:00:00		55	248-249	Bulletin of Zoological Nomenclature	Opinion
+1913	False	1999-03-31 00:00:00		56	74-76	Bulletin of Zoological Nomenclature	Opinion
+1914	False	1999-03-31 00:00:00		56	77-80	Bulletin of Zoological Nomenclature	Opinion
+1915	False	1999-03-31 00:00:00		56	81	Bulletin of Zoological Nomenclature	Opinion
+1916	False	1999-03-31 00:00:00		56	82-86	Bulletin of Zoological Nomenclature	Opinion
+1917	False	1999-03-31 00:00:00		56	87-88	Bulletin of Zoological Nomenclature	Opinion
+1918	False	1999-03-31 00:00:00		56	89-91	Bulletin of Zoological Nomenclature	Opinion
+1919	False	1999-03-31 00:00:00		56	92-93	Bulletin of Zoological Nomenclature	Opinion
+1920	False	1999-03-31 00:00:00		56	94-95	Bulletin of Zoological Nomenclature	Opinion
+1921	False	1999-03-31 00:00:00		56	96-100	Bulletin of Zoological Nomenclature	Opinion
+1922	False	1999-03-31 00:00:00		56	101-103	Bulletin of Zoological Nomenclature	Opinion
+1923	False	1999-06-30 00:00:00		56	150-151	Bulletin of Zoological Nomenclature	Opinion
+1924	False	1999-06-30 00:00:00		56	152-153	Bulletin of Zoological Nomenclature	Opinion
+1925	False	1999-06-30 00:00:00		56	154-155	Bulletin of Zoological Nomenclature	Opinion
+1926	False	1999-06-30 00:00:00		56	156-157	Bulletin of Zoological Nomenclature	Opinion
+1927	False	1999-06-30 00:00:00		56	158-159	Bulletin of Zoological Nomenclature	Opinion
+1928	False	1999-06-30 00:00:00		56	160-161	Bulletin of Zoological Nomenclature	Opinion
+1929	False	1999-06-30 00:00:00		56	162-163	Bulletin of Zoological Nomenclature	Opinion
+1930	False	1999-09-30 00:00:00		56	202-203	Bulletin of Zoological Nomenclature	Opinion
+1931	False	1999-09-30 00:00:00		56	204-205	Bulletin of Zoological Nomenclature	Opinion
+1932	False	1999-09-30 00:00:00		56	206-207	Bulletin of Zoological Nomenclature	Opinion
+1933	False	1999-09-30 00:00:00		56	208	Bulletin of Zoological Nomenclature	Opinion
+1934	False	1999-09-30 00:00:00		56	209-210	Bulletin of Zoological Nomenclature	Opinion
+1935	False	1999-09-30 00:00:00		56	211-212	Bulletin of Zoological Nomenclature	Opinion
+1936	False	1999-09-30 00:00:00		56	213	Bulletin of Zoological Nomenclature	Opinion
+1937	False	1999-09-30 00:00:00		56	214-215	Bulletin of Zoological Nomenclature	Opinion
+1938	False	1999-09-30 00:00:00		56	216-217	Bulletin of Zoological Nomenclature	Opinion
+1939	False	1999-09-30 00:00:00		56	218-220	Bulletin of Zoological Nomenclature	Opinion
+1940	False	1999-09-30 00:00:00		56	221-222	Bulletin of Zoological Nomenclature	Opinion
+1941	False	1999-09-30 00:00:00		56	223-224	Bulletin of Zoological Nomenclature	Opinion
+1942	False	2000-03-31 00:00:00		57	52-53	Bulletin of Zoological Nomenclature	Opinion
+1943	False	2000-03-31 00:00:00		57	54-55	Bulletin of Zoological Nomenclature	Opinion
+1944	False	2000-03-31 00:00:00		57	56-57	Bulletin of Zoological Nomenclature	Opinion
+1945	False	2000-03-31 00:00:00		57	58-59	Bulletin of Zoological Nomenclature	Opinion
+1946	False	2000-03-31 00:00:00		57	60	Bulletin of Zoological Nomenclature	Opinion
+1947	False	2000-03-31 00:00:00		57	61-62	Bulletin of Zoological Nomenclature	Opinion
+1948	False	2000-03-31 00:00:00		57	63-65	Bulletin of Zoological Nomenclature	Opinion
+1949	False	2000-03-31 00:00:00		57	66-67	Bulletin of Zoological Nomenclature	Opinion
+1950	False	2000-06-30 00:00:00		57	124-125	Bulletin of Zoological Nomenclature	Opinion
+1951	False	2000-06-30 00:00:00		57	126-127	Bulletin of Zoological Nomenclature	Opinion
+1952	False	2000-06-30 00:00:00		57	128-129	Bulletin of Zoological Nomenclature	Opinion
+1953	False	2000-06-30 00:00:00		57	130	Bulletin of Zoological Nomenclature	Opinion
+1954	False	2000-06-30 00:00:00		57	131-136	Bulletin of Zoological Nomenclature	Opinion
+1955	False	2000-09-29 00:00:00		57	177-179	Bulletin of Zoological Nomenclature	Opinion
+1956	False	2000-09-29 00:00:00		57	180-181	Bulletin of Zoological Nomenclature	Opinion
+1957	False	2000-09-29 00:00:00		57	182-184	Bulletin of Zoological Nomenclature	Opinion
+1958	False	2000-09-29 00:00:00		57	184-186	Bulletin of Zoological Nomenclature	Opinion
+1959	False	2000-09-29 00:00:00		57	187-188	Bulletin of Zoological Nomenclature	Opinion
+1960	False	2000-09-29 00:00:00		57	189-190	Bulletin of Zoological Nomenclature	Opinion
+1961	False	2000-09-29 00:00:00		57	191-192	Bulletin of Zoological Nomenclature	Opinion
+1962	False	2000-09-29 00:00:00		57	193-195	Bulletin of Zoological Nomenclature	Opinion
+1963	False	2000-12-21 00:00:00		57	232-235	Bulletin of Zoological Nomenclature	Opinion
+1964	False	2000-12-21 00:00:00		57	236	Bulletin of Zoological Nomenclature	Opinion
