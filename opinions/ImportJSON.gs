@@ -128,6 +128,9 @@ function ImportJSON(url, query, options) {
  * @return a two-dimensional array containing the data, with the first row containing headers
  **/
 function ImportJSONAdvanced(url, query, options, includeFunc, transformFunc) {
+  // Pause between calls to service
+  Utilities.sleep(500);
+  
   var jsondata = UrlFetchApp.fetch(url);
   var object   = JSON.parse(jsondata.getContentText());
   
