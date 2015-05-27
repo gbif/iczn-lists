@@ -1,0 +1,12 @@
+id=http://purl.org/dc/terms/identifier
+creator=http://purl.org/dc/terms/creator
+title=http://eol.org/schema/reference/primaryTitle
+journal=http://purl.org/dc/terms/title
+issn=http://purl.org/ontology/bibo/issn
+oclc=http://purl.org/ontology/bibo/oclcnum
+volume=http://purl.org/ontology/bibo/volume
+issue=http://purl.org/ontology/bibo/issue
+spage=http://purl.org/ontology/bibo/pageStart
+epage=http://purl.org/ontology/bibo/pageEnd
+biostor=http://purl.org/ontology/bibo/uri
+bhl=http://purl.org/ontology/bibo/uri
