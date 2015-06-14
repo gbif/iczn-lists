@@ -38,4 +38,20 @@
 	  TODO:  
 	  ADD A REFERENCE EXTENSION FOR PARSED ORIGINAL CITATION AND DOI/LINKS 
   -->
+  
+  <!-- bibliographic details for Opinions and Declarations -->
+  <extension encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/Reference">
+    <files>
+      <location>references.txt</location>
+    </files>
+    <coreid index="0" />
+    <field index="1" term="http://purl.org/dc/terms/identifier"/>
+    <field index="2" term="http://purl.org/dc/terms/bibliographicCitation"/>
+    <field index="3" term="http://purl.org/dc/terms/title"/>
+    <field index="4" term="http://purl.org/dc/terms/creator"/>
+    <field index="5" term="http://purl.org/dc/terms/date"/>
+    <field index="6" term="http://purl.org/dc/terms/source"/>
+    <field index="7" term="http://purl.org/dc/terms/type"/>
+  </extension>
+  
 </archive>
