@@ -17,7 +17,6 @@ $db->Connect("localhost",
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
-
 function find($id, $type='Opinion', $isAddendum="FALSE")
 {
 	global $config;
@@ -78,7 +77,7 @@ function find($id, $type='Opinion', $isAddendum="FALSE")
 				$record->source .= ' (' . $record->year . ')';
 			}
 		
-			$record->citation = $record->author . $record->title . '.' . $record->source;
+			$record->citation = $record->author . '. ' . $record->title . '.' . $record->source;
 
 			$record->biostor = $result->fields['Biostor'];
 			if ($record->biostor != '')
@@ -90,6 +89,8 @@ function find($id, $type='Opinion', $isAddendum="FALSE")
 	
 	return $record;
 }
+
+$not_found = array();
 
 $filename = '../../names.txt';
 
@@ -190,13 +191,15 @@ while (!feof($file_handle))
 
 	}
 	
-	print_r($obj);
-	echo "|" . $obj->text . "|\n";
+	//print_r($obj);
+	//echo "|" . $obj->text . "|\n";
 	if (!$matched) 
 	{
 		echo "Not parsed\n";
 		exit();
 	}
+	
+	$found = false;
 	
 	foreach ($obj->opinion as $id)
 	{
@@ -205,13 +208,29 @@ while (!feof($file_handle))
 		if ($record)
 		{
 			$obj->record[] = $record;
+			$found = true;
 		}
 		else
 		{
-			echo "***\n";
-			//exit();
+			$not_found[] = $obj;
 		}
 	}
+	
+	foreach ($obj->direction as $id)
+	{
+		$record = find($id, 'Direction');
+		
+		if ($record)
+		{
+			$obj->record[] = $record;
+			$found = true;
+		}
+		else
+		{
+			$not_found[] = $obj;
+		}
+	}
+	
 	
 	foreach ($obj->addendum as $id)
 	{
@@ -220,21 +239,43 @@ while (!feof($file_handle))
 		if ($record)
 		{
 			$obj->record[] = $record;
+			$found = true;
 		}
 		else
 		{
-			echo "***\n";
-			//exit();
+			$not_found[] = $obj;
 		}
 	}
 	
-
-	print_r($obj);
+	if ($found)
+	{
+		foreach ($obj->record as $record)
+		{
+			echo $obj->id;
+			echo "\t" . $record->biostor;
+			echo "\t" . $record->citation;
+			echo "\t" . $record->title;
+			echo "\t" . $record->author;
+			echo "\t" . $record->year;
+			echo "\t" . $record->source;
+			echo "\t" . "publication";
+			echo "\n";
+		}
+	}
+		
+	
+	
+	//print_r($obj);
+	
+	// dump
+	
 	
 	//if ($obj->id == 4233) exit();
 
 
 
 }
+
+print_r($not_found);
 
 ?>
