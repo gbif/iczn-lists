@@ -1,4 +1,6 @@
 # ICZN-lists
+
+[![Join the chat at https://gitter.im/gbif/iczn-lists](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gbif/iczn-lists?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository aims to create a valid Darwin Core archive of all names listed in the Official Lists and Indexes of Names in Zoology from the International Commission on Zoological Nomenclature (ICZN). The official source files are available at http://iczn.org/content/official-lists-indexes-1
 
 The dataset has been registered with GBIF here:
