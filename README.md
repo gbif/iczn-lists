@@ -19,11 +19,18 @@ http://www.gbif.org/dataset/80b4b440-eaca-4860-aadf-d0dfdd3e856e
 Use the sql schema file *postgres.sql* to create a new tables for the names data.
 
 #### import
-\copy names from 'names.txt'
-\copy raw from 'raw.txt'
-\copy opinion from 'opinions.txt'
+```
+\copy names from 'names.txt' NULL as ''
+\copy raw from 'raw.txt' NULL as ''
+\copy opinion from 'opinions.txt' NULL as ''
+```
 
 #### export
-\copy (select * from names order by id) to 'names.txt'
-\copy (select * from raw order by id) to 'raw.txt'
-\copy (select * from opinion order by number) to 'opinions.txt'
+```
+\copy (select * from names order by id) to 'names.txt' NULL as ''
+\copy (select * from raw order by id) to 'raw.txt' NULL as ''
+\copy (select * from opinion order by number) to 'opinions.txt' NULL as ''
+```
+
+
+\copy (select id,canonical,authorship,datepublished,originalcitation,status,classification,phylum,class_,order_,rank,typestatus,typename,typespecimen,typedesignatedby,typedesignationtype,gender,sic,synopsis,direction,opinions,rlpcomments,plaintext from names order by id) to 'names.txt' NULL as ''

@@ -4,6 +4,7 @@ CREATE TABLE names (
   authorship text,
   datepublished text,
   originalcitation text,
+  status text,
   classification text,
   phylum text,
   class_ text,
@@ -14,12 +15,11 @@ CREATE TABLE names (
   typespecimen text,
   typedesignatedby text,
   typedesignationtype text,
-  status text,
   gender text,
   sic boolean,
   synopsis text,
   direction text,
-  opinion text,
+  opinions integer[],
   rlpcomments text,
   plaintext text
 );
@@ -53,10 +53,10 @@ CREATE TABLE raw (
 CREATE TABLE opinion (
   number integer NOT NULL,
   isaddendum boolean,
-  startdate date,
-  enddate date,
   volume text,
   pages text,
   journal text,
-  type text
+  type text,
+  startdate date,
+  enddate date
 );
