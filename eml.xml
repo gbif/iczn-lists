@@ -22,6 +22,7 @@
     </individualName>
     <organizationName>GBIF</organizationName>
     <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+    <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
 </metadataProvider>
 
 <pubDate>2007-10-01</pubDate>
@@ -42,6 +43,7 @@
       </individualName>
       <organizationName>GBIF</organizationName>
       <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+      <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
   </contact>
 </dataset>
 
